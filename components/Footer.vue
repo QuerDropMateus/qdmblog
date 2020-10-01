@@ -32,8 +32,7 @@ import {
   FacebookIcon,
   InstagramIcon,
   TwitterIcon,
-  YoutubeIcon,
-  TwitchIcon
+  YoutubeIcon
 } from 'vue-feather-icons'
 
 export default {
@@ -41,8 +40,7 @@ export default {
     FacebookIcon,
     InstagramIcon,
     TwitterIcon,
-    YoutubeIcon,
-    TwitchIcon
+    YoutubeIcon
   },
 
   computed: {
@@ -78,21 +76,18 @@ export default {
           return 'InstagramIcon'
         case 'youtube':
           return 'YoutubeIcon'
-        case 'twitch':
-          return 'TwitchIcon'
       }
     },
   },
 }
 </script>
 
-<style>
-  .display-flex {
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: row;
-  }
-  .display-flex li {
-    margin-left: 5px;
-  }
+<style lang="stylus">
+.display-flex
+  display: flex
+  justify-content: flex-end
+  flex-direction: row
+
+.display-flex li
+  margin-left: 5px
 </style>

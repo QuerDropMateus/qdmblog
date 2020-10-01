@@ -16,10 +16,16 @@ module.exports = {
   themeConfig: {
     authors: [
       {
-      name: 'Disjuntores | QDM',
-      avatar: '/assets/img/disjuntores.jpg',
-      link: 'https://twitter.com/disjuntoress',
-      linktext: 'Seguir',
+        name: 'Disjuntores | QDM',
+        avatar: '/assets/img/disjuntores.jpg',
+        link: 'https://twitter.com/disjuntoress',
+        linktext: 'Seguir',
+      },
+      {
+        name: 'Medici | QDM',
+        avatar: '/assets/img/medici.jpg',
+        link: 'https://twitter.com/JustTaina',
+        linktext: 'Seguir',
       }
     ],
     footer: {

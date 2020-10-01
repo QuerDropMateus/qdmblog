@@ -9,20 +9,36 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-8a21bc52",
-    path: "/2020/09/30/hello-world/",
+    name: "v-7ff8c8e6",
+    path: "/2020/10/01/hashiriya-drifter/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-8a21bc52").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-7ff8c8e6").then(next)
     },
   },
   {
-    path: "/2020/09/30/hello-world/index.html",
-    redirect: "/2020/09/30/hello-world/"
+    path: "/2020/10/01/hashiriya-drifter/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter/"
   },
   {
-    path: "/_posts/2020-1-29-hello-world.html",
-    redirect: "/2020/09/30/hello-world/"
+    path: "/_posts/hashiriya-drifter.html",
+    redirect: "/2020/10/01/hashiriya-drifter/"
+  },
+  {
+    name: "v-73b0dac7",
+    path: "/2020/09/30/primeiro-post/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
+    },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-6dfd2991",
@@ -70,6 +86,45 @@ export const routes = [
   {
     path: "/tag/game/index.html",
     redirect: "/tag/game/"
+  },
+  {
+    name: "v-2f79a5ed",
+    path: "/tag/review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2f79a5ed").then(next)
+    },
+    meta: {"pid":"tag","id":"review"}
+  },
+  {
+    path: "/tag/review/index.html",
+    redirect: "/tag/review/"
+  },
+  {
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
+  },
+  {
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
+  },
+  {
+    name: "v-322f4f42",
+    path: "/tag/qdm/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
+    },
+    meta: {"pid":"tag","id":"qdm"}
+  },
+  {
+    path: "/tag/qdm/index.html",
+    redirect: "/tag/qdm/"
   },
   {
     name: "v-322f0dde",

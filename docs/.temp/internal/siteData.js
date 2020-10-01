@@ -83,9 +83,69 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Primerio Post do Blog",
+      "title": "Hashiriya Drifter",
       "frontmatter": {
-        "title": "Primerio Post do Blog",
+        "title": "Hashiriya Drifter",
+        "date": "2020-10-01T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "hashiriyadrifter",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png",
+        "summary": "Fast and Furious drif drif!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Fast and Furious drif drif!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/hashiriya-drifter.html",
+      "relativePath": "_posts/hashiriya-drifter.md",
+      "key": "v-7ff8c8e6",
+      "path": "/2020/10/01/hashiriya-drifter/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Trilha sonora",
+          "slug": "trilha-sonora"
+        },
+        {
+          "level": 2,
+          "title": "Tradução",
+          "slug": "traducao"
+        },
+        {
+          "level": 2,
+          "title": "Modos de jogo",
+          "slug": "modos-de-jogo"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Preços",
+          "slug": "precos"
+        }
+      ],
+      "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
+      "id": "post",
+      "pid": "post"
+    },
+    {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
         "date": "2020-9-30",
         "tags": [
           "game",
@@ -101,96 +161,25 @@ export const siteData = {
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/2020-1-29-hello-world.html",
-      "relativePath": "_posts/2020-1-29-hello-world.md",
-      "key": "v-8a21bc52",
-      "path": "/2020/09/30/hello-world/",
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
       "headers": [
         {
           "level": 2,
-          "title": "Create files and folders",
-          "slug": "create-files-and-folders"
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
         },
         {
           "level": 2,
-          "title": "Switch to another file",
-          "slug": "switch-to-another-file"
-        },
-        {
-          "level": 2,
-          "title": "Rename a file",
-          "slug": "rename-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Delete a file",
-          "slug": "delete-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Export a file",
-          "slug": "export-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Open a file",
-          "slug": "open-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Save a file",
-          "slug": "save-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Synchronize a file",
-          "slug": "synchronize-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Manage file synchronization",
-          "slug": "manage-file-synchronization"
-        },
-        {
-          "level": 2,
-          "title": "Publish a File",
-          "slug": "publish-a-file"
-        },
-        {
-          "level": 2,
-          "title": "Update a publication",
-          "slug": "update-a-publication"
-        },
-        {
-          "level": 2,
-          "title": "Manage file publication",
-          "slug": "manage-file-publication"
-        },
-        {
-          "level": 2,
-          "title": "SmartyPants",
-          "slug": "smartypants"
-        },
-        {
-          "level": 2,
-          "title": "KaTeX",
-          "slug": "katex"
-        },
-        {
-          "level": 2,
-          "title": "Image",
-          "slug": "image"
-        },
-        {
-          "level": 2,
-          "title": "UML diagrams",
-          "slug": "uml-diagrams"
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
         }
       ],
-      "summary": "\n\nHi! I'm your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can ...",
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zFXI4\" frameborder=\"0 ...",
       "id": "post",
-      "pid": "post",
-      "lastUpdated": "2020-9-30 22:52:42"
+      "pid": "post"
     },
     {
       "title": "About Me",
@@ -234,6 +223,33 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "review Tag"
+      },
+      "regularPath": "/tag/review/",
+      "key": "v-2f79a5ed",
+      "path": "/tag/review/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "qdm Tag"
+      },
+      "regularPath": "/tag/qdm/",
+      "key": "v-322f4f42",
+      "path": "/tag/qdm/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "qmd Tag"
       },
       "regularPath": "/tag/qmd/",
@@ -256,6 +272,12 @@ export const siteData = {
         "name": "Disjuntores | QDM",
         "avatar": "/assets/img/disjuntores.jpg",
         "link": "https://twitter.com/disjuntoress",
+        "linktext": "Seguir"
+      },
+      {
+        "name": "Medici | QDM",
+        "avatar": "/assets/img/medici.jpg",
+        "link": "https://twitter.com/JustTaina",
         "linktext": "Seguir"
       }
     ],

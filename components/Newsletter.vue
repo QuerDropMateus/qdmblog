@@ -35,7 +35,6 @@ export default {
   .newsletter &__wrap
     max-width none
     padding: 1.8rem 2.3rem 3rem
-    background: #e5f5f0
 
   .newsletter &__fields
     display grid

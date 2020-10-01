@@ -8,7 +8,32 @@ export default {
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
-        "v-8a21bc52"
+        "v-7ff8c8e6",
+        "v-73b0dac7"
+      ]
+    },
+    "review": {
+      "key": "review",
+      "scope": "tag",
+      "path": "/tag/review/",
+      "pageKeys": [
+        "v-7ff8c8e6"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-7ff8c8e6"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-7ff8c8e6"
       ]
     },
     "qmd": {
@@ -16,7 +41,7 @@ export default {
       "scope": "tag",
       "path": "/tag/qmd/",
       "pageKeys": [
-        "v-8a21bc52"
+        "v-73b0dac7"
       ]
     },
     "stream": {
@@ -24,7 +49,7 @@ export default {
       "scope": "tag",
       "path": "/tag/stream/",
       "pageKeys": [
-        "v-8a21bc52"
+        "v-73b0dac7"
       ]
     }
   }
