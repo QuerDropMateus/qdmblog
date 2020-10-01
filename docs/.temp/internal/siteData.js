@@ -257,12 +257,6 @@ export const siteData = {
         "avatar": "/assets/img/disjuntores.jpg",
         "link": "https://twitter.com/disjuntoress",
         "linktext": "Seguir"
-      },
-      {
-        "name": "John Doe",
-        "avatar": "/assets/img/avatar.png",
-        "link": "https://bootstrapstarter.com/",
-        "linktext": "Follow"
       }
     ],
     "footer": {
