@@ -25,6 +25,14 @@ export const routes = [
     redirect: "/2020/10/01/hashiriya-drifter/"
   },
   {
+    name: "v-6dfd2991",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
+    },
+  },
+  {
     name: "v-73b0dac7",
     path: "/2020/09/30/primeiro-post/",
     component: GlobalLayout,
@@ -39,14 +47,6 @@ export const routes = [
   {
     path: "/_posts/primeiro-post.html",
     redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
-    name: "v-6dfd2991",
-    path: "/about.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
-    },
   },
   {
     name: "v-b2754d56",

@@ -144,6 +144,25 @@ export const siteData = {
       "lastUpdated": "2020-10-1 1:13:13"
     },
     {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "9/30/2020, 10:52:42 PM"
+    },
+    {
       "title": "Bem vindos!",
       "frontmatter": {
         "title": "Bem vindos!",
@@ -182,18 +201,6 @@ export const siteData = {
       "id": "post",
       "pid": "post",
       "lastUpdated": "2020-10-1 1:19:30"
-    },
-    {
-      "title": "About Me",
-      "frontmatter": {
-        "description": " ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
-      "summary": " ...",
-      "lastUpdated": "9/30/2020, 10:52:42 PM"
     },
     {
       "frontmatter": {
@@ -333,6 +340,10 @@ export const siteData = {
       {
         "text": "Tags",
         "link": "/tag/"
+      },
+      {
+        "text": "Sobre a QDM",
+        "link": "/about/"
       }
     ],
     "summary": true,
