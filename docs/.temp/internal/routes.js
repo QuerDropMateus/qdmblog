@@ -9,14 +9,6 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-6dfd2991",
-    path: "/about.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
-    },
-  },
-  {
     name: "v-8a21bc52",
     path: "/2020/09/30/hello-world/",
     component: GlobalLayout,
@@ -31,6 +23,14 @@ export const routes = [
   {
     path: "/_posts/2020-1-29-hello-world.html",
     redirect: "/2020/09/30/hello-world/"
+  },
+  {
+    name: "v-6dfd2991",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
+    },
   },
   {
     name: "v-b2754d56",

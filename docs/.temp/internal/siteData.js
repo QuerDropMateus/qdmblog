@@ -9,6 +9,53 @@ export const siteData = {
     [
       "link",
       {
+        "rel": "apple-touch-icon",
+        "sizes": "180x180",
+        "href": "/assets/favicons/apple-touch-icon.png"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "icon",
+        "type": "image/png",
+        "sizes": "32x32",
+        "href": "/assets/favicons/favicon-32x32.png"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "icon",
+        "type": "image/png",
+        "sizes": "16x16",
+        "href": "/assets/favicons/favicon-16x16.png"
+      }
+    ],
+    [
+      "link",
+      {
+        "rel": "shortcut icon",
+        "href": "/assets/favicons/favicon.ico"
+      }
+    ],
+    [
+      "meta",
+      {
+        "name": "msapplication-TileColor",
+        "content": "#3a0839"
+      }
+    ],
+    [
+      "meta",
+      {
+        "name": "theme-color",
+        "content": "#ffffff"
+      }
+    ],
+    [
+      "link",
+      {
         "rel": "alternate",
         "type": "application/rss+xml",
         "href": "https://github.com/wowthemesnet/vuepress-theme-mediumish/rss.xml",
@@ -35,17 +82,6 @@ export const siteData = {
     ]
   ],
   "pages": [
-    {
-      "title": "About Me",
-      "frontmatter": {
-        "description": " ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
-      "summary": " ..."
-    },
     {
       "title": "Primerio Post do Blog",
       "frontmatter": {
@@ -153,7 +189,20 @@ export const siteData = {
       ],
       "summary": "\n\nHi! I'm your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can ...",
       "id": "post",
-      "pid": "post"
+      "pid": "post",
+      "lastUpdated": "2020-9-30 22:52:42"
+    },
+    {
+      "title": "About Me",
+      "frontmatter": {
+        "description": " ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
+      "summary": " ...",
+      "lastUpdated": "9/30/2020, 10:52:42 PM"
     },
     {
       "frontmatter": {
