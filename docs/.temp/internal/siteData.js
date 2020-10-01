@@ -285,11 +285,11 @@ export const siteData = {
       "contact": [
         {
           "type": "twitter",
-          "link": "https://twitter.com"
+          "link": "https://twitter.com/querdropmateus"
         },
         {
           "type": "facebook",
-          "link": "#"
+          "link": "https://www.facebook.com/querdropmateus"
         },
         {
           "type": "instagram",
@@ -297,11 +297,7 @@ export const siteData = {
         },
         {
           "type": "youtube",
-          "link": "#"
-        },
-        {
-          "type": "twitch",
-          "link": "#"
+          "link": "https://www.youtube.com/channel/UCOFaVQEze43o2ISFaYfViDw"
         }
       ],
       "copyright": [

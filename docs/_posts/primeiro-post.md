@@ -14,7 +14,7 @@ sidebar: true
 
 ## Estamos de volta!
 
-[Siga nossas lives agora na twitch!](http://google.com)
+[Siga nossas lives agora na twitch!](https://www.twitch.tv/querdropmateus)
 
 ## Acompanhe nossas matérias também YouTube
 
