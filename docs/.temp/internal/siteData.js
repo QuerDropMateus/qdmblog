@@ -58,7 +58,7 @@ export const siteData = {
       {
         "rel": "alternate",
         "type": "application/rss+xml",
-        "href": "https://github.com/wowthemesnet/vuepress-theme-mediumish/rss.xml",
+        "href": "https://github.com/suhprog/qdmblog/rss.xml",
         "title": "QMD | Blog RSS Feed"
       }
     ],
@@ -67,7 +67,7 @@ export const siteData = {
       {
         "rel": "alternate",
         "type": "application/atom+xml",
-        "href": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom",
+        "href": "https://github.com/suhprog/qdmblog/feed.atom",
         "title": "QMD | Blog Atom Feed"
       }
     ],
@@ -76,7 +76,7 @@ export const siteData = {
       {
         "rel": "alternate",
         "type": "application/json",
-        "href": "https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.json",
+        "href": "https://github.com/suhprog/qdmblog/feed.json",
         "title": "QMD | Blog JSON Feed"
       }
     ]
@@ -140,7 +140,8 @@ export const siteData = {
       ],
       "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
       "id": "post",
-      "pid": "post"
+      "pid": "post",
+      "lastUpdated": "2020-10-1 1:13:13"
     },
     {
       "title": "Bem vindos!",
@@ -177,9 +178,10 @@ export const siteData = {
           "slug": "acompanhe-nossas-materias-tambem-youtube"
         }
       ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zFXI4\" frameborder=\"0 ...",
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
       "id": "post",
-      "pid": "post"
+      "pid": "post",
+      "lastUpdated": "2020-10-1 1:19:30"
     },
     {
       "title": "About Me",
@@ -292,10 +294,6 @@ export const siteData = {
           "link": "https://www.facebook.com/querdropmateus"
         },
         {
-          "type": "instagram",
-          "link": "#"
-        },
-        {
           "type": "youtube",
           "link": "https://www.youtube.com/channel/UCOFaVQEze43o2ISFaYfViDw"
         }
@@ -306,8 +304,8 @@ export const siteData = {
           "link": "/"
         },
         {
-          "text": "Made with Mediumish - free Vuepress theme",
-          "link": "https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/"
+          "text": "Lives na Twitch",
+          "link": "https://www.twitch.tv/querdropmateus"
         }
       ]
     },
@@ -323,7 +321,7 @@ export const siteData = {
       "endpoint": "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b"
     },
     "feed": {
-      "canonical_base": "https://github.com/wowthemesnet/vuepress-theme-mediumish/"
+      "canonical_base": "https://github.com/suhprog/qdmblog"
     },
     "smoothScroll": true,
     "logo": "/assets/img/logo.png",

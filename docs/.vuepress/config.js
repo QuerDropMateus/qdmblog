@@ -32,23 +32,15 @@ module.exports = {
       contact: [
         {
           type: 'twitter',
-          link: 'https://twitter.com',
+          link: 'https://twitter.com/querdropmateus',
         },
         {
           type: 'facebook',
-          link: '#',
-        },
-        {
-          type: 'instagram',
-          link: '#',
+          link: 'https://www.facebook.com/querdropmateus',
         },
         {
           type: 'youtube',
-          link: '#',
-        },
-        {
-          type: 'twitch',
-          link: '#',
+          link: 'https://www.youtube.com/channel/UCOFaVQEze43o2ISFaYfViDw',
         }
       ],
       copyright: [
@@ -57,8 +49,8 @@ module.exports = {
           link: '/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Lives na Twitch',
+          link: 'https://www.twitch.tv/querdropmateus',
         },
       ],
     },
@@ -75,7 +67,7 @@ module.exports = {
       endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://github.com/suhprog/qdmblog',
     },
     smoothScroll: true
   },

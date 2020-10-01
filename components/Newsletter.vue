@@ -1,7 +1,7 @@
 <template>
   <SimpleNewsletter>
     <div class="newsletter__wrap">
-      <div class="newsletter__title">Newsletter</div>
+      <!-- <div class="newsletter__title">Newsletter</div>
       <div class="newsletter__content">Assine nossa newsletter e fique por dentro de tudo que postamos!</div>
       <div class="newsletter__fields">
         <input
@@ -18,7 +18,7 @@
         <button type="submit" class="newsletter__button" data-cy="submit">
           Assinar
         </button>
-      </div>
+      </div> -->
     </div>
   </SimpleNewsletter>
 </template>
