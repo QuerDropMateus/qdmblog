@@ -9,6 +9,14 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
+    name: "v-6dfd2991",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
+    },
+  },
+  {
     name: "v-7ff8c8e6",
     path: "/2020/10/01/hashiriya-drifter/",
     component: GlobalLayout,
@@ -23,14 +31,6 @@ export const routes = [
   {
     path: "/_posts/hashiriya-drifter.html",
     redirect: "/2020/10/01/hashiriya-drifter/"
-  },
-  {
-    name: "v-6dfd2991",
-    path: "/about.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
-    },
   },
   {
     name: "v-73b0dac7",
