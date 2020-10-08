@@ -1,26 +1,24 @@
 <template>
-  <SimpleNewsletter>
-    <div class="newsletter__wrap">
-      <!-- <div class="newsletter__title">Newsletter</div>
-      <div class="newsletter__content">Assine nossa newsletter e fique por dentro de tudo que postamos!</div>
-      <div class="newsletter__fields">
-        <input
-          class="newsletter__input"
-          type="email"
-          name="email"
-          aria-label="Email"
-          placeholder="Email"
-          required
-          autocapitalize="off"
-          autocorrect="off"
-          data-cy="email"
-        />
-        <button type="submit" class="newsletter__button" data-cy="submit">
-          Assinar
-        </button>
-      </div> -->
-    </div>
-  </SimpleNewsletter>
+  <div class="newsletter__wrap">
+    <!-- <div class="newsletter__title">Newsletter</div>
+    <div class="newsletter__content">Assine nossa newsletter e fique por dentro de tudo que postamos!</div>
+    <div class="newsletter__fields">
+      <input
+        class="newsletter__input"
+        type="email"
+        name="email"
+        aria-label="Email"
+        placeholder="Email"
+        required
+        autocapitalize="off"
+        autocorrect="off"
+        data-cy="email"
+      />
+      <button type="submit" class="newsletter__button" data-cy="submit">
+        Assinar
+      </button>
+    </div> -->
+  </div>
 </template>
 
 <script>

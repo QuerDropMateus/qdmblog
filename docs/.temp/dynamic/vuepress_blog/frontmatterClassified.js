@@ -8,8 +8,9 @@ export default {
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
-        "v-7ff8c8e6",
-        "v-73b0dac7"
+        "v-064408b1",
+        "v-770aef51",
+        "v-0fa09731"
       ]
     },
     "review": {
@@ -17,7 +18,8 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
-        "v-7ff8c8e6"
+        "v-064408b1",
+        "v-770aef51"
       ]
     },
     "hashiriyadrifter": {
@@ -25,7 +27,7 @@ export default {
       "scope": "tag",
       "path": "/tag/hashiriyadrifter/",
       "pageKeys": [
-        "v-7ff8c8e6"
+        "v-064408b1"
       ]
     },
     "qdm": {
@@ -33,7 +35,16 @@ export default {
       "scope": "tag",
       "path": "/tag/qdm/",
       "pageKeys": [
-        "v-7ff8c8e6"
+        "v-064408b1",
+        "v-770aef51"
+      ]
+    },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
+        "v-770aef51"
       ]
     },
     "qmd": {
@@ -41,7 +52,7 @@ export default {
       "scope": "tag",
       "path": "/tag/qmd/",
       "pageKeys": [
-        "v-73b0dac7"
+        "v-0fa09731"
       ]
     },
     "stream": {
@@ -49,7 +60,7 @@ export default {
       "scope": "tag",
       "path": "/tag/stream/",
       "pageKeys": [
-        "v-73b0dac7"
+        "v-0fa09731"
       ]
     }
   }

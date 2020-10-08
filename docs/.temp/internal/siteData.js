@@ -83,25 +83,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "QDM - Quer drop, Mateus?",
-      "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
-        }
-      ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
-    },
-    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -121,10 +102,10 @@ export const siteData = {
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/hashiriya-drifter.html",
-      "relativePath": "_posts/hashiriya-drifter.md",
-      "key": "v-7ff8c8e6",
-      "path": "/2020/10/01/hashiriya-drifter/",
+      "regularPath": "/_posts/01-10-2020-hashiriya-drifter-review.html",
+      "relativePath": "_posts/01-10-2020-hashiriya-drifter-review.md",
+      "key": "v-064408b1",
+      "path": "/2020/10/01/_01-10-2020-hashiriya-drifter-review/",
       "headers": [
         {
           "level": 2,
@@ -159,8 +140,67 @@ export const siteData = {
       ],
       "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
       "id": "post",
-      "pid": "post",
-      "lastUpdated": "2020-10-1 1:13:13"
+      "pid": "post"
+    },
+    {
+      "title": "SONIC FORCES",
+      "frontmatter": {
+        "title": "SONIC FORCES",
+        "date": "2020-10-08T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "sonicforces",
+          "qdm"
+        ],
+        "author": "LCArms | QDM",
+        "featuredimg": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png",
+        "summary": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/08-10-2020-sonic-forces-review.html",
+      "relativePath": "_posts/08-10-2020-sonic-forces-review.md",
+      "key": "v-770aef51",
+      "path": "/2020/10/08/_08-10-2020-sonic-forces-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Conceito do Jogo",
+          "slug": "conceito-do-jogo"
+        },
+        {
+          "level": 2,
+          "title": "Gráficos",
+          "slug": "graficos"
+        },
+        {
+          "level": 2,
+          "title": "E a jogabilidade?",
+          "slug": "e-a-jogabilidade"
+        },
+        {
+          "level": 2,
+          "title": "Pontos Positivos",
+          "slug": "pontos-positivos"
+        },
+        {
+          "level": 2,
+          "title": "Pontos Negativos",
+          "slug": "pontos-negativos"
+        },
+        {
+          "level": 2,
+          "title": "Vale?",
+          "slug": "vale"
+        }
+      ],
+      "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
+      "id": "post",
+      "pid": "post"
     },
     {
       "title": "Bem vindos!",
@@ -181,10 +221,10 @@ export const siteData = {
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
+      "regularPath": "/_posts/30-09-2020-primeiro-post.html",
+      "relativePath": "_posts/30-09-2020-primeiro-post.md",
+      "key": "v-0fa09731",
+      "path": "/2020/09/30/_30-09-2020-primeiro-post/",
       "headers": [
         {
           "level": 2,
@@ -199,8 +239,26 @@ export const siteData = {
       ],
       "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
       "id": "post",
-      "pid": "post",
-      "lastUpdated": "2020-10-1 1:19:30"
+      "pid": "post"
+    },
+    {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
     },
     {
       "frontmatter": {
@@ -259,6 +317,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "qmd Tag"
       },
       "regularPath": "/tag/qmd/",
@@ -287,6 +354,12 @@ export const siteData = {
         "name": "Medici | QDM",
         "avatar": "/assets/img/medici.jpg",
         "link": "https://twitter.com/JustTaina",
+        "linktext": "Seguir"
+      },
+      {
+        "name": "LCArms | QDM",
+        "avatar": "/assets/img/lcarms.jpg",
+        "link": "https://instagram.com/luhararuna",
         "linktext": "Seguir"
       }
     ],

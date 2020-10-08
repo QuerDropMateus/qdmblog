@@ -26,6 +26,12 @@ module.exports = {
         avatar: '/assets/img/medici.jpg',
         link: 'https://twitter.com/JustTaina',
         linktext: 'Seguir',
+      },
+      {
+        name: 'LCArms | QDM',
+        avatar: '/assets/img/lcarms.jpg',
+        link: 'https://instagram.com/luhararuna',
+        linktext: 'Seguir',
       }
     ],
     footer: {
