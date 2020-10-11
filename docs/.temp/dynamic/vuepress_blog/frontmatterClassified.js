@@ -9,8 +9,8 @@ export default {
       "path": "/tag/game/",
       "pageKeys": [
         "v-1c62dc5e",
-        "v-96df1d4a",
-        "v-73b0dac7"
+        "v-73b0dac7",
+        "v-96df1d4a"
       ]
     },
     "review": {
@@ -39,14 +39,6 @@ export default {
         "v-96df1d4a"
       ]
     },
-    "sonicforces": {
-      "key": "sonicforces",
-      "scope": "tag",
-      "path": "/tag/sonicforces/",
-      "pageKeys": [
-        "v-96df1d4a"
-      ]
-    },
     "qmd": {
       "key": "qmd",
       "scope": "tag",
@@ -61,6 +53,14 @@ export default {
       "path": "/tag/stream/",
       "pageKeys": [
         "v-73b0dac7"
+      ]
+    },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
+        "v-96df1d4a"
       ]
     }
   }

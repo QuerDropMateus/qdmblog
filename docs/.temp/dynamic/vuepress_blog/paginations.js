@@ -52,15 +52,6 @@ export default [{
 },
 {
   pid: "tag",
-  id: "sonicforces",
-  filter: filters.tag,
-  sorter: sorters.tag,
-  pages: [{"path":"/tag/sonicforces/","interval":[0,1]}],
-  prevText: "Prev",
-  nextText: "Next",
-},
-{
-  pid: "tag",
   id: "qmd",
   filter: filters.tag,
   sorter: sorters.tag,
@@ -74,6 +65,15 @@ export default [{
   filter: filters.tag,
   sorter: sorters.tag,
   pages: [{"path":"/tag/stream/","interval":[0,1]}],
+  prevText: "Prev",
+  nextText: "Next",
+},
+{
+  pid: "tag",
+  id: "sonicforces",
+  filter: filters.tag,
+  sorter: sorters.tag,
+  pages: [{"path":"/tag/sonicforces/","interval":[0,1]}],
   prevText: "Prev",
   nextText: "Next",
 }]

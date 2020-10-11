@@ -25,6 +25,22 @@ export const routes = [
     redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
+    name: "v-73b0dac7",
+    path: "/2020/09/30/primeiro-post/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
+    },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
     name: "v-96df1d4a",
     path: "/2020/10/08/sonic-forces-review/",
     component: GlobalLayout,
@@ -47,22 +63,6 @@ export const routes = [
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
     },
-  },
-  {
-    name: "v-73b0dac7",
-    path: "/2020/09/30/primeiro-post/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
-    },
-  },
-  {
-    path: "/2020/09/30/primeiro-post/index.html",
-    redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
-    path: "/_posts/primeiro-post.html",
-    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-b2754d56",
@@ -143,19 +143,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-0f25fe45",
-    path: "/tag/sonicforces/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
-    },
-    meta: {"pid":"tag","id":"sonicforces"}
-  },
-  {
-    path: "/tag/sonicforces/index.html",
-    redirect: "/tag/sonicforces/"
-  },
-  {
     name: "v-322f0dde",
     path: "/tag/qmd/",
     component: GlobalLayout,
@@ -180,6 +167,19 @@ export const routes = [
   {
     path: "/tag/stream/index.html",
     redirect: "/tag/stream/"
+  },
+  {
+    name: "v-0f25fe45",
+    path: "/tag/sonicforces/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
+    },
+    meta: {"pid":"tag","id":"sonicforces"}
+  },
+  {
+    path: "/tag/sonicforces/index.html",
+    redirect: "/tag/sonicforces/"
   },
   {
     path: '*',
