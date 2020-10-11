@@ -9,22 +9,6 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-1c62dc5e",
-    path: "/2020/10/01/hashiriya-drifter-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-1c62dc5e").then(next)
-    },
-  },
-  {
-    path: "/2020/10/01/hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
-    path: "/_posts/hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
     name: "v-73b0dac7",
     path: "/2020/09/30/primeiro-post/",
     component: GlobalLayout,
@@ -39,6 +23,22 @@ export const routes = [
   {
     path: "/_posts/primeiro-post.html",
     redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    name: "v-1c62dc5e",
+    path: "/2020/10/01/hashiriya-drifter-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-1c62dc5e").then(next)
+    },
+  },
+  {
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
+  },
+  {
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
     name: "v-96df1d4a",
@@ -71,7 +71,7 @@ export const routes = [
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-b2754d56").then(next)
     },
-    meta: {"pid":"post","id":"post"}
+    meta: {"pid":"home","id":"home"}
   },
   {
     path: "/index.html",
@@ -102,6 +102,32 @@ export const routes = [
   {
     path: "/tag/game/index.html",
     redirect: "/tag/game/"
+  },
+  {
+    name: "v-322f0dde",
+    path: "/tag/qmd/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f0dde").then(next)
+    },
+    meta: {"pid":"tag","id":"qmd"}
+  },
+  {
+    path: "/tag/qmd/index.html",
+    redirect: "/tag/qmd/"
+  },
+  {
+    name: "v-7dbe52c5",
+    path: "/tag/stream/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+    },
+    meta: {"pid":"tag","id":"stream"}
+  },
+  {
+    path: "/tag/stream/index.html",
+    redirect: "/tag/stream/"
   },
   {
     name: "v-2f79a5ed",
@@ -141,32 +167,6 @@ export const routes = [
   {
     path: "/tag/qdm/index.html",
     redirect: "/tag/qdm/"
-  },
-  {
-    name: "v-322f0dde",
-    path: "/tag/qmd/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f0dde").then(next)
-    },
-    meta: {"pid":"tag","id":"qmd"}
-  },
-  {
-    path: "/tag/qmd/index.html",
-    redirect: "/tag/qmd/"
-  },
-  {
-    name: "v-7dbe52c5",
-    path: "/tag/stream/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
-    },
-    meta: {"pid":"tag","id":"stream"}
-  },
-  {
-    path: "/tag/stream/index.html",
-    redirect: "/tag/stream/"
   },
   {
     name: "v-0f25fe45",
