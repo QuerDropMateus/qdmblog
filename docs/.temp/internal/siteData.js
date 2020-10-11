@@ -83,46 +83,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Bem vindos!",
-      "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qmd",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
-        }
-      ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "home",
-      "pid": "home",
-      "lastUpdated": "2020-10-11 1:52:24"
-    },
-    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -179,8 +139,8 @@ export const siteData = {
         }
       ],
       "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
-      "id": "home",
-      "pid": "home",
+      "id": "blog",
+      "pid": "blog",
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
@@ -240,8 +200,8 @@ export const siteData = {
         }
       ],
       "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
-      "id": "home",
-      "pid": "home",
+      "id": "blog",
+      "pid": "blog",
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
@@ -264,9 +224,49 @@ export const siteData = {
       "lastUpdated": "10/1/2020, 6:14:59 PM"
     },
     {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qmd",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-11 1:52:24"
+    },
+    {
       "frontmatter": {
         "layout": "Layout",
-        "title": "Home"
+        "title": "Blog"
       },
       "regularPath": "/",
       "key": "v-b2754d56",
@@ -289,24 +289,6 @@ export const siteData = {
       "regularPath": "/tag/game/",
       "key": "v-14d71bda",
       "path": "/tag/game/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "qmd Tag"
-      },
-      "regularPath": "/tag/qmd/",
-      "key": "v-322f0dde",
-      "path": "/tag/qmd/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "stream Tag"
-      },
-      "regularPath": "/tag/stream/",
-      "key": "v-7dbe52c5",
-      "path": "/tag/stream/"
     },
     {
       "frontmatter": {
@@ -343,6 +325,24 @@ export const siteData = {
       "regularPath": "/tag/sonicforces/",
       "key": "v-0f25fe45",
       "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "qmd Tag"
+      },
+      "regularPath": "/tag/qmd/",
+      "key": "v-322f0dde",
+      "path": "/tag/qmd/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "stream Tag"
+      },
+      "regularPath": "/tag/stream/",
+      "key": "v-7dbe52c5",
+      "path": "/tag/stream/"
     }
   ],
   "themeConfig": {

@@ -36,7 +36,7 @@ module.exports = themeConfig => {
   const defaultBlogPluginOptions = {
     directories: [
       {
-        id: 'home',
+        id: 'blog',
         dirname: '_posts',
         path: '/',
       },
