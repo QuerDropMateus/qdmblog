@@ -9,52 +9,52 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-064408b1",
-    path: "/2020/10/01/_01-10-2020-hashiriya-drifter-review/",
+    name: "v-1c62dc5e",
+    path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-064408b1").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-1c62dc5e").then(next)
     },
   },
   {
-    path: "/2020/10/01/_01-10-2020-hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/_01-10-2020-hashiriya-drifter-review/"
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    path: "/_posts/01-10-2020-hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/_01-10-2020-hashiriya-drifter-review/"
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    name: "v-770aef51",
-    path: "/2020/10/08/_08-10-2020-sonic-forces-review/",
+    name: "v-73b0dac7",
+    path: "/2020/09/30/primeiro-post/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-770aef51").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
     },
   },
   {
-    path: "/2020/10/08/_08-10-2020-sonic-forces-review/index.html",
-    redirect: "/2020/10/08/_08-10-2020-sonic-forces-review/"
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
-    path: "/_posts/08-10-2020-sonic-forces-review.html",
-    redirect: "/2020/10/08/_08-10-2020-sonic-forces-review/"
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
-    name: "v-0fa09731",
-    path: "/2020/09/30/_30-09-2020-primeiro-post/",
+    name: "v-96df1d4a",
+    path: "/2020/10/08/sonic-forces-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-0fa09731").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-96df1d4a").then(next)
     },
   },
   {
-    path: "/2020/09/30/_30-09-2020-primeiro-post/index.html",
-    redirect: "/2020/09/30/_30-09-2020-primeiro-post/"
+    path: "/2020/10/08/sonic-forces-review/index.html",
+    redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
-    path: "/_posts/30-09-2020-primeiro-post.html",
-    redirect: "/2020/09/30/_30-09-2020-primeiro-post/"
+    path: "/_posts/sonic-forces-review.html",
+    redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
     name: "v-6dfd2991",
@@ -143,19 +143,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-0f25fe45",
-    path: "/tag/sonicforces/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
-    },
-    meta: {"pid":"tag","id":"sonicforces"}
-  },
-  {
-    path: "/tag/sonicforces/index.html",
-    redirect: "/tag/sonicforces/"
-  },
-  {
     name: "v-322f0dde",
     path: "/tag/qmd/",
     component: GlobalLayout,
@@ -180,6 +167,19 @@ export const routes = [
   {
     path: "/tag/stream/index.html",
     redirect: "/tag/stream/"
+  },
+  {
+    name: "v-0f25fe45",
+    path: "/tag/sonicforces/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
+    },
+    meta: {"pid":"tag","id":"sonicforces"}
+  },
+  {
+    path: "/tag/sonicforces/index.html",
+    redirect: "/tag/sonicforces/"
   },
   {
     path: '*',

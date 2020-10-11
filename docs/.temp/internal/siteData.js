@@ -102,10 +102,10 @@ export const siteData = {
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/01-10-2020-hashiriya-drifter-review.html",
-      "relativePath": "_posts/01-10-2020-hashiriya-drifter-review.md",
-      "key": "v-064408b1",
-      "path": "/2020/10/01/_01-10-2020-hashiriya-drifter-review/",
+      "regularPath": "/_posts/hashiriya-drifter-review.html",
+      "relativePath": "_posts/hashiriya-drifter-review.md",
+      "key": "v-1c62dc5e",
+      "path": "/2020/10/01/hashiriya-drifter-review/",
       "headers": [
         {
           "level": 2,
@@ -143,6 +143,46 @@ export const siteData = {
       "pid": "post"
     },
     {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qmd",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "post",
+      "pid": "post",
+      "lastUpdated": "2020-10-8 11:59:44"
+    },
+    {
       "title": "SONIC FORCES",
       "frontmatter": {
         "title": "SONIC FORCES",
@@ -162,10 +202,10 @@ export const siteData = {
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/08-10-2020-sonic-forces-review.html",
-      "relativePath": "_posts/08-10-2020-sonic-forces-review.md",
-      "key": "v-770aef51",
-      "path": "/2020/10/08/_08-10-2020-sonic-forces-review/",
+      "regularPath": "/_posts/sonic-forces-review.html",
+      "relativePath": "_posts/sonic-forces-review.md",
+      "key": "v-96df1d4a",
+      "path": "/2020/10/08/sonic-forces-review/",
       "headers": [
         {
           "level": 2,
@@ -199,45 +239,6 @@ export const siteData = {
         }
       ],
       "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
-      "id": "post",
-      "pid": "post"
-    },
-    {
-      "title": "Bem vindos!",
-      "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qmd",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/30-09-2020-primeiro-post.html",
-      "relativePath": "_posts/30-09-2020-primeiro-post.md",
-      "key": "v-0fa09731",
-      "path": "/2020/09/30/_30-09-2020-primeiro-post/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
-        }
-      ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
       "id": "post",
       "pid": "post"
     },
@@ -317,15 +318,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "sonicforces Tag"
-      },
-      "regularPath": "/tag/sonicforces/",
-      "key": "v-0f25fe45",
-      "path": "/tag/sonicforces/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "qmd Tag"
       },
       "regularPath": "/tag/qmd/",
@@ -340,6 +332,15 @@ export const siteData = {
       "regularPath": "/tag/stream/",
       "key": "v-7dbe52c5",
       "path": "/tag/stream/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
     }
   ],
   "themeConfig": {
