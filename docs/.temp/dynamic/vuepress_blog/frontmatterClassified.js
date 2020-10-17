@@ -36,15 +36,8 @@ export default {
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-1c62dc5e",
+        "v-73b0dac7",
         "v-96df1d4a"
-      ]
-    },
-    "qmd": {
-      "key": "qmd",
-      "scope": "tag",
-      "path": "/tag/qmd/",
-      "pageKeys": [
-        "v-73b0dac7"
       ]
     },
     "stream": {

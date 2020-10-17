@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'QMD',
+  title: 'QDM',
   base: '/',
   lang: 'pt-BR',
   description: 'Gameplays - Notícias - Streaming - Reviews',

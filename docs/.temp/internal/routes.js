@@ -143,19 +143,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-322f0dde",
-    path: "/tag/qmd/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f0dde").then(next)
-    },
-    meta: {"pid":"tag","id":"qmd"}
-  },
-  {
-    path: "/tag/qmd/index.html",
-    redirect: "/tag/qmd/"
-  },
-  {
     name: "v-7dbe52c5",
     path: "/tag/stream/",
     component: GlobalLayout,
