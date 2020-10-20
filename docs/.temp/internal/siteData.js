@@ -83,6 +83,98 @@ export const siteData = {
   ],
   "pages": [
     {
+      "title": "Crossbow Bloodnight",
+      "frontmatter": {
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-10T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "bloodnight",
+          "crossbow:bloodnight",
+          "indiegame",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://i.imgur.com/NAFNPHS.jpg",
+        "summary": "Cace, morra e cace novamente!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Cace, morra e cace novamente!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-57fcefd1",
+      "path": "/2020/10/10/crossbow-bloodnight-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog"
+    },
+    {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qdm",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-16 21:29:35"
+    },
+    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -144,44 +236,23 @@ export const siteData = {
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
-      "title": "Bem vindos!",
+      "title": "QDM - Quer drop, Mateus?",
       "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qdm",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
       },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
       "headers": [
         {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
         }
       ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "2020-10-11 1:52:24"
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
     },
     {
       "title": "SONIC FORCES",
@@ -245,25 +316,6 @@ export const siteData = {
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
-      "title": "QDM - Quer drop, Mateus?",
-      "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
-        }
-      ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
-    },
-    {
       "frontmatter": {
         "layout": "Layout",
         "title": "Blog"
@@ -302,11 +354,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
+        "title": "bloodnight Tag"
       },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
+      "regularPath": "/tag/bloodnight/",
+      "key": "v-6d69b8a7",
+      "path": "/tag/bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "crossbow:bloodnight Tag"
+      },
+      "regularPath": "/tag/crossbow:bloodnight/",
+      "key": "v-0a46594b",
+      "path": "/tag/crossbow:bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "indiegame Tag"
+      },
+      "regularPath": "/tag/indiegame/",
+      "key": "v-0e88a44c",
+      "path": "/tag/indiegame/"
     },
     {
       "frontmatter": {
@@ -325,6 +395,15 @@ export const siteData = {
       "regularPath": "/tag/stream/",
       "key": "v-7dbe52c5",
       "path": "/tag/stream/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
     },
     {
       "frontmatter": {

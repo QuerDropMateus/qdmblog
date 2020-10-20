@@ -8,8 +8,9 @@ export default {
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
-        "v-1c62dc5e",
+        "v-57fcefd1",
         "v-73b0dac7",
+        "v-1c62dc5e",
         "v-96df1d4a"
       ]
     },
@@ -18,16 +19,33 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
+        "v-57fcefd1",
         "v-1c62dc5e",
         "v-96df1d4a"
       ]
     },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
+    "bloodnight": {
+      "key": "bloodnight",
       "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
+      "path": "/tag/bloodnight/",
       "pageKeys": [
-        "v-1c62dc5e"
+        "v-57fcefd1"
+      ]
+    },
+    "crossbow:bloodnight": {
+      "key": "crossbow:bloodnight",
+      "scope": "tag",
+      "path": "/tag/crossbow:bloodnight/",
+      "pageKeys": [
+        "v-57fcefd1"
+      ]
+    },
+    "indiegame": {
+      "key": "indiegame",
+      "scope": "tag",
+      "path": "/tag/indiegame/",
+      "pageKeys": [
+        "v-57fcefd1"
       ]
     },
     "qdm": {
@@ -35,8 +53,9 @@ export default {
       "scope": "tag",
       "path": "/tag/qdm/",
       "pageKeys": [
-        "v-1c62dc5e",
+        "v-57fcefd1",
         "v-73b0dac7",
+        "v-1c62dc5e",
         "v-96df1d4a"
       ]
     },
@@ -46,6 +65,14 @@ export default {
       "path": "/tag/stream/",
       "pageKeys": [
         "v-73b0dac7"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-1c62dc5e"
       ]
     },
     "sonicforces": {
