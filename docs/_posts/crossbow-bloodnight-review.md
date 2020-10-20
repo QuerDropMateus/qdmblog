@@ -6,7 +6,6 @@ tags:
   - review
   - bloodnight
   - crossbow:bloodnight
-  - indiegame
   - qdm
 author: Medici | QDM
 featuredimg: 'https://i.imgur.com/NAFNPHS.jpg'

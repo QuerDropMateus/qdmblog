@@ -9,8 +9,8 @@ export default {
       "path": "/tag/game/",
       "pageKeys": [
         "v-57fcefd1",
-        "v-73b0dac7",
         "v-1c62dc5e",
+        "v-73b0dac7",
         "v-96df1d4a"
       ]
     },
@@ -40,31 +40,15 @@ export default {
         "v-57fcefd1"
       ]
     },
-    "indiegame": {
-      "key": "indiegame",
-      "scope": "tag",
-      "path": "/tag/indiegame/",
-      "pageKeys": [
-        "v-57fcefd1"
-      ]
-    },
     "qdm": {
       "key": "qdm",
       "scope": "tag",
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-57fcefd1",
-        "v-73b0dac7",
         "v-1c62dc5e",
+        "v-73b0dac7",
         "v-96df1d4a"
-      ]
-    },
-    "stream": {
-      "key": "stream",
-      "scope": "tag",
-      "path": "/tag/stream/",
-      "pageKeys": [
-        "v-73b0dac7"
       ]
     },
     "hashiriyadrifter": {
@@ -73,6 +57,14 @@ export default {
       "path": "/tag/hashiriyadrifter/",
       "pageKeys": [
         "v-1c62dc5e"
+      ]
+    },
+    "stream": {
+      "key": "stream",
+      "scope": "tag",
+      "path": "/tag/stream/",
+      "pageKeys": [
+        "v-73b0dac7"
       ]
     },
     "sonicforces": {

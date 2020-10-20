@@ -25,22 +25,6 @@ export const routes = [
     redirect: "/2020/10/10/crossbow-bloodnight-review/"
   },
   {
-    name: "v-73b0dac7",
-    path: "/2020/09/30/primeiro-post/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
-    },
-  },
-  {
-    path: "/2020/09/30/primeiro-post/index.html",
-    redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
-    path: "/_posts/primeiro-post.html",
-    redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
     name: "v-1c62dc5e",
     path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
@@ -57,12 +41,20 @@ export const routes = [
     redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    name: "v-6dfd2991",
-    path: "/about.html",
+    name: "v-73b0dac7",
+    path: "/2020/09/30/primeiro-post/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
     },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-96df1d4a",
@@ -79,6 +71,14 @@ export const routes = [
   {
     path: "/_posts/sonic-forces-review.html",
     redirect: "/2020/10/08/sonic-forces-review/"
+  },
+  {
+    name: "v-6dfd2991",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
+    },
   },
   {
     name: "v-b2754d56",
@@ -159,19 +159,6 @@ export const routes = [
     redirect: "/tag/crossbow:bloodnight/"
   },
   {
-    name: "v-0e88a44c",
-    path: "/tag/indiegame/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0e88a44c").then(next)
-    },
-    meta: {"pid":"tag","id":"indiegame"}
-  },
-  {
-    path: "/tag/indiegame/index.html",
-    redirect: "/tag/indiegame/"
-  },
-  {
     name: "v-322f4f42",
     path: "/tag/qdm/",
     component: GlobalLayout,
@@ -185,19 +172,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-7dbe52c5",
-    path: "/tag/stream/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
-    },
-    meta: {"pid":"tag","id":"stream"}
-  },
-  {
-    path: "/tag/stream/index.html",
-    redirect: "/tag/stream/"
-  },
-  {
     name: "v-5e540089",
     path: "/tag/hashiriyadrifter/",
     component: GlobalLayout,
@@ -209,6 +183,19 @@ export const routes = [
   {
     path: "/tag/hashiriyadrifter/index.html",
     redirect: "/tag/hashiriyadrifter/"
+  },
+  {
+    name: "v-7dbe52c5",
+    path: "/tag/stream/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+    },
+    meta: {"pid":"tag","id":"stream"}
+  },
+  {
+    path: "/tag/stream/index.html",
+    redirect: "/tag/stream/"
   },
   {
     name: "v-0f25fe45",

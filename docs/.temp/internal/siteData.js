@@ -92,7 +92,6 @@ export const siteData = {
           "review",
           "bloodnight",
           "crossbow:bloodnight",
-          "indiegame",
           "qdm"
         ],
         "author": "Medici | QDM",
@@ -132,47 +131,8 @@ export const siteData = {
       ],
       "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
       "id": "blog",
-      "pid": "blog"
-    },
-    {
-      "title": "Bem vindos!",
-      "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qdm",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
-        }
-      ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "blog",
       "pid": "blog",
-      "lastUpdated": "2020-10-16 21:29:35"
+      "lastUpdated": "2020-10-20 11:34:37"
     },
     {
       "title": "Hashiriya Drifter",
@@ -236,23 +196,44 @@ export const siteData = {
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
-      "title": "QDM - Quer drop, Mateus?",
+      "title": "Bem vindos!",
       "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qdm",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
       "headers": [
         {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
         }
       ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-16 21:29:35"
     },
     {
       "title": "SONIC FORCES",
@@ -316,6 +297,25 @@ export const siteData = {
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
+    },
+    {
       "frontmatter": {
         "layout": "Layout",
         "title": "Blog"
@@ -372,15 +372,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "indiegame Tag"
-      },
-      "regularPath": "/tag/indiegame/",
-      "key": "v-0e88a44c",
-      "path": "/tag/indiegame/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "qdm Tag"
       },
       "regularPath": "/tag/qdm/",
@@ -390,20 +381,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "stream Tag"
-      },
-      "regularPath": "/tag/stream/",
-      "key": "v-7dbe52c5",
-      "path": "/tag/stream/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "hashiriyadrifter Tag"
       },
       "regularPath": "/tag/hashiriyadrifter/",
       "key": "v-5e540089",
       "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "stream Tag"
+      },
+      "regularPath": "/tag/stream/",
+      "key": "v-7dbe52c5",
+      "path": "/tag/stream/"
     },
     {
       "frontmatter": {
