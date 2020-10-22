@@ -1,6 +1,6 @@
 ---
 title: Crossbow Bloodnight
-date: 2020-10-10
+date: 2020-10-20
 tags: 
   - game
   - review

@@ -8,10 +8,10 @@ export default {
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
-        "v-57fcefd1",
         "v-1c62dc5e",
-        "v-73b0dac7",
-        "v-96df1d4a"
+        "v-96df1d4a",
+        "v-57fcefd1",
+        "v-73b0dac7"
       ]
     },
     "review": {
@@ -19,8 +19,35 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
-        "v-57fcefd1",
         "v-1c62dc5e",
+        "v-96df1d4a",
+        "v-57fcefd1"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-1c62dc5e"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-1c62dc5e",
+        "v-96df1d4a",
+        "v-57fcefd1",
+        "v-73b0dac7"
+      ]
+    },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
         "v-96df1d4a"
       ]
     },
@@ -40,23 +67,36 @@ export default {
         "v-57fcefd1"
       ]
     },
-    "qdm": {
-      "key": "qdm",
+    "Microsoft": {
+      "key": "Microsoft",
       "scope": "tag",
-      "path": "/tag/qdm/",
+      "path": "/tag/Microsoft/",
       "pageKeys": [
-        "v-57fcefd1",
-        "v-1c62dc5e",
-        "v-73b0dac7",
-        "v-96df1d4a"
+        "v-1057cb31"
       ]
     },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
+    "Bethesda": {
+      "key": "Bethesda",
       "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
+      "path": "/tag/Bethesda/",
       "pageKeys": [
-        "v-1c62dc5e"
+        "v-1057cb31"
+      ]
+    },
+    "Zeni Max": {
+      "key": "Zeni Max",
+      "scope": "tag",
+      "path": "/tag/Zeni Max/",
+      "pageKeys": [
+        "v-1057cb31"
+      ]
+    },
+    "notícia": {
+      "key": "notícia",
+      "scope": "tag",
+      "path": "/tag/notícia/",
+      "pageKeys": [
+        "v-1057cb31"
       ]
     },
     "stream": {
@@ -65,14 +105,6 @@ export default {
       "path": "/tag/stream/",
       "pageKeys": [
         "v-73b0dac7"
-      ]
-    },
-    "sonicforces": {
-      "key": "sonicforces",
-      "scope": "tag",
-      "path": "/tag/sonicforces/",
-      "pageKeys": [
-        "v-96df1d4a"
       ]
     }
   }

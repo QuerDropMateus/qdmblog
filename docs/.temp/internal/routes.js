@@ -9,22 +9,6 @@ import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLa
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-57fcefd1",
-    path: "/2020/10/10/crossbow-bloodnight-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-57fcefd1").then(next)
-    },
-  },
-  {
-    path: "/2020/10/10/crossbow-bloodnight-review/index.html",
-    redirect: "/2020/10/10/crossbow-bloodnight-review/"
-  },
-  {
-    path: "/_posts/crossbow-bloodnight-review.html",
-    redirect: "/2020/10/10/crossbow-bloodnight-review/"
-  },
-  {
     name: "v-1c62dc5e",
     path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
@@ -39,22 +23,6 @@ export const routes = [
   {
     path: "/_posts/hashiriya-drifter-review.html",
     redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
-    name: "v-73b0dac7",
-    path: "/2020/09/30/primeiro-post/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
-    },
-  },
-  {
-    path: "/2020/09/30/primeiro-post/index.html",
-    redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
-    path: "/_posts/primeiro-post.html",
-    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-96df1d4a",
@@ -73,12 +41,60 @@ export const routes = [
     redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
+    name: "v-57fcefd1",
+    path: "/2020/10/20/crossbow-bloodnight-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-57fcefd1").then(next)
+    },
+  },
+  {
+    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
+    path: "/_posts/crossbow-bloodnight-review.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
     name: "v-6dfd2991",
     path: "/about.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
     },
+  },
+  {
+    name: "v-1057cb31",
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-1057cb31").then(next)
+    },
+  },
+  {
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    path: "/_posts/microsoft-bethesda-e-novidades.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    name: "v-73b0dac7",
+    path: "/2020/09/30/primeiro-post/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
+    },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-b2754d56",
@@ -133,6 +149,45 @@ export const routes = [
     redirect: "/tag/review/"
   },
   {
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
+  },
+  {
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
+  },
+  {
+    name: "v-322f4f42",
+    path: "/tag/qdm/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
+    },
+    meta: {"pid":"tag","id":"qdm"}
+  },
+  {
+    path: "/tag/qdm/index.html",
+    redirect: "/tag/qdm/"
+  },
+  {
+    name: "v-0f25fe45",
+    path: "/tag/sonicforces/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
+    },
+    meta: {"pid":"tag","id":"sonicforces"}
+  },
+  {
+    path: "/tag/sonicforces/index.html",
+    redirect: "/tag/sonicforces/"
+  },
+  {
     name: "v-6d69b8a7",
     path: "/tag/bloodnight/",
     component: GlobalLayout,
@@ -159,30 +214,56 @@ export const routes = [
     redirect: "/tag/crossbow:bloodnight/"
   },
   {
-    name: "v-322f4f42",
-    path: "/tag/qdm/",
+    name: "v-11be516a",
+    path: "/tag/Microsoft/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-11be516a").then(next)
     },
-    meta: {"pid":"tag","id":"qdm"}
+    meta: {"pid":"tag","id":"Microsoft"}
   },
   {
-    path: "/tag/qdm/index.html",
-    redirect: "/tag/qdm/"
+    path: "/tag/Microsoft/index.html",
+    redirect: "/tag/Microsoft/"
   },
   {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
+    name: "v-015e7e7a",
+    path: "/tag/Bethesda/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-015e7e7a").then(next)
     },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
+    meta: {"pid":"tag","id":"Bethesda"}
   },
   {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
+    path: "/tag/Bethesda/index.html",
+    redirect: "/tag/Bethesda/"
+  },
+  {
+    name: "v-b307e5c4",
+    path: "/tag/Zeni Max/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-b307e5c4").then(next)
+    },
+    meta: {"pid":"tag","id":"Zeni Max"}
+  },
+  {
+    path: "/tag/Zeni Max/index.html",
+    redirect: "/tag/Zeni Max/"
+  },
+  {
+    name: "v-26caf4a0",
+    path: "/tag/notícia/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-26caf4a0").then(next)
+    },
+    meta: {"pid":"tag","id":"notícia"}
+  },
+  {
+    path: "/tag/notícia/index.html",
+    redirect: "/tag/notícia/"
   },
   {
     name: "v-7dbe52c5",
@@ -196,19 +277,6 @@ export const routes = [
   {
     path: "/tag/stream/index.html",
     redirect: "/tag/stream/"
-  },
-  {
-    name: "v-0f25fe45",
-    path: "/tag/sonicforces/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
-    },
-    meta: {"pid":"tag","id":"sonicforces"}
-  },
-  {
-    path: "/tag/sonicforces/index.html",
-    redirect: "/tag/sonicforces/"
   },
   {
     path: '*',

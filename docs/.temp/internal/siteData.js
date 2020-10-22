@@ -83,58 +83,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Crossbow Bloodnight",
-      "frontmatter": {
-        "title": "Crossbow Bloodnight",
-        "date": "2020-10-10T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "bloodnight",
-          "crossbow:bloodnight",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://i.imgur.com/NAFNPHS.jpg",
-        "summary": "Cace, morra e cace novamente!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Cace, morra e cace novamente!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/crossbow-bloodnight-review.html",
-      "relativePath": "_posts/crossbow-bloodnight-review.md",
-      "key": "v-57fcefd1",
-      "path": "/2020/10/10/crossbow-bloodnight-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Gameplay",
-          "slug": "gameplay"
-        },
-        {
-          "level": 2,
-          "title": "Inimigos",
-          "slug": "inimigos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
-        }
-      ],
-      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "2020-10-20 11:34:37"
-    },
-    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -194,46 +142,6 @@ export const siteData = {
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "2020-10-11 1:52:24"
-    },
-    {
-      "title": "Bem vindos!",
-      "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qdm",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
-        }
-      ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "2020-10-16 21:29:35"
     },
     {
       "title": "SONIC FORCES",
@@ -297,6 +205,58 @@ export const siteData = {
       "lastUpdated": "2020-10-11 1:52:24"
     },
     {
+      "title": "Crossbow Bloodnight",
+      "frontmatter": {
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-20T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "bloodnight",
+          "crossbow:bloodnight",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://i.imgur.com/NAFNPHS.jpg",
+        "summary": "Cace, morra e cace novamente!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Cace, morra e cace novamente!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-57fcefd1",
+      "path": "/2020/10/20/crossbow-bloodnight-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-20 11:44:20"
+    },
+    {
       "title": "QDM - Quer drop, Mateus?",
       "frontmatter": {
         "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
@@ -314,6 +274,91 @@ export const siteData = {
       ],
       "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
       "lastUpdated": "10/1/2020, 6:14:59 PM"
+    },
+    {
+      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "frontmatter": {
+        "title": "Microsoft & Bethesda: a era da Sony chegou?",
+        "date": "2020-10-22T00:00:00.000Z",
+        "tags": [
+          "Microsoft",
+          "Bethesda",
+          "Zeni Max",
+          "notícia"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
+        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
+      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
+      "key": "v-1057cb31",
+      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Por que comprar a Zeni Max e outros estúdios?",
+          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+        },
+        {
+          "level": 2,
+          "title": "E qual foi o pulo do gato?",
+          "slug": "e-qual-foi-o-pulo-do-gato"
+        },
+        {
+          "level": 2,
+          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
+          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+        }
+      ],
+      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "id": "blog",
+      "pid": "blog"
+    },
+    {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qdm",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-16 21:29:35"
     },
     {
       "frontmatter": {
@@ -354,6 +399,33 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "qdm Tag"
+      },
+      "regularPath": "/tag/qdm/",
+      "key": "v-322f4f42",
+      "path": "/tag/qdm/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "bloodnight Tag"
       },
       "regularPath": "/tag/bloodnight/",
@@ -372,20 +444,38 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "qdm Tag"
+        "title": "Microsoft Tag"
       },
-      "regularPath": "/tag/qdm/",
-      "key": "v-322f4f42",
-      "path": "/tag/qdm/"
+      "regularPath": "/tag/Microsoft/",
+      "key": "v-11be516a",
+      "path": "/tag/Microsoft/"
     },
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
+        "title": "Bethesda Tag"
       },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
+      "regularPath": "/tag/Bethesda/",
+      "key": "v-015e7e7a",
+      "path": "/tag/Bethesda/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Zeni Max Tag"
+      },
+      "regularPath": "/tag/Zeni%20Max/",
+      "key": "v-b307e5c4",
+      "path": "/tag/Zeni Max/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "notícia Tag"
+      },
+      "regularPath": "/tag/not%C3%ADcia/",
+      "key": "v-26caf4a0",
+      "path": "/tag/notícia/"
     },
     {
       "frontmatter": {
@@ -395,15 +485,6 @@ export const siteData = {
       "regularPath": "/tag/stream/",
       "key": "v-7dbe52c5",
       "path": "/tag/stream/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "sonicforces Tag"
-      },
-      "regularPath": "/tag/sonicforces/",
-      "key": "v-0f25fe45",
-      "path": "/tag/sonicforces/"
     }
   ],
   "themeConfig": {
