@@ -8,7 +8,7 @@ tags:
   - crossbow:bloodnight
   - qdm
 author: Medici | QDM
-featuredimg: 'https://i.imgur.com/NAFNPHS.jpg'
+featuredimg: 'https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg'
 summary: Cace, morra e cace novamente!
 lang: 'pt-BR'
 sidebar: true

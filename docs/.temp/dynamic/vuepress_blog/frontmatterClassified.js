@@ -8,10 +8,10 @@ export default {
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
-        "v-1c62dc5e",
-        "v-96df1d4a",
         "v-57fcefd1",
-        "v-73b0dac7"
+        "v-1c62dc5e",
+        "v-73b0dac7",
+        "v-96df1d4a"
       ]
     },
     "review": {
@@ -19,35 +19,8 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
-        "v-1c62dc5e",
-        "v-96df1d4a",
-        "v-57fcefd1"
-      ]
-    },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
-      "pageKeys": [
-        "v-1c62dc5e"
-      ]
-    },
-    "qdm": {
-      "key": "qdm",
-      "scope": "tag",
-      "path": "/tag/qdm/",
-      "pageKeys": [
-        "v-1c62dc5e",
-        "v-96df1d4a",
         "v-57fcefd1",
-        "v-73b0dac7"
-      ]
-    },
-    "sonicforces": {
-      "key": "sonicforces",
-      "scope": "tag",
-      "path": "/tag/sonicforces/",
-      "pageKeys": [
+        "v-1c62dc5e",
         "v-96df1d4a"
       ]
     },
@@ -65,6 +38,25 @@ export default {
       "path": "/tag/crossbow:bloodnight/",
       "pageKeys": [
         "v-57fcefd1"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-57fcefd1",
+        "v-1c62dc5e",
+        "v-73b0dac7",
+        "v-96df1d4a"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-1c62dc5e"
       ]
     },
     "Microsoft": {
@@ -105,6 +97,14 @@ export default {
       "path": "/tag/stream/",
       "pageKeys": [
         "v-73b0dac7"
+      ]
+    },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
+        "v-96df1d4a"
       ]
     }
   }
