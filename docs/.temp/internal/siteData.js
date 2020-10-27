@@ -135,41 +135,6 @@ export const siteData = {
       "lastUpdated": "2020-10-22 18:04:59"
     },
     {
-      "title": "Cyberpunk 2077 ADIADO",
-      "frontmatter": {
-        "title": "Cyberpunk 2077 ADIADO",
-        "date": "2020-10-27T00:00:00.000Z",
-        "tags": [
-          "noticia",
-          "Cyberpunk2077",
-          "cdprojektred",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
-        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
-      "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-31c66e8d",
-      "path": "/2020/10/27/cyberpunk-2077-adiado/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "A Notícia",
-          "slug": "a-noticia"
-        }
-      ],
-      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
-      "id": "blog",
-      "pid": "blog"
-    },
-    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -277,65 +242,6 @@ export const siteData = {
       "lastUpdated": "2020-10-22 17:57:54"
     },
     {
-      "title": "Bem vindos!",
-      "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qdm",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-73b0dac7",
-      "path": "/2020/09/30/primeiro-post/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
-        }
-      ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "2020-10-16 21:29:35"
-    },
-    {
-      "title": "QDM - Quer drop, Mateus?",
-      "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-6dfd2991",
-      "path": "/about.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
-        }
-      ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
-    },
-    {
       "title": "SONIC FORCES",
       "frontmatter": {
         "title": "SONIC FORCES",
@@ -395,6 +301,101 @@ export const siteData = {
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "2020-10-11 1:52:24"
+    },
+    {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qdm",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-73b0dac7",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-16 21:29:35"
+    },
+    {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-6dfd2991",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
+    },
+    {
+      "title": "Cyberpunk 2077 ADIADO",
+      "frontmatter": {
+        "title": "Cyberpunk 2077 ADIADO",
+        "date": "2020-10-28T00:00:00.000Z",
+        "tags": [
+          "noticia",
+          "Cyberpunk2077",
+          "cdprojektred",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
+        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
+      "relativePath": "_posts/cyberpunk-2077-adiado.md",
+      "key": "v-31c66e8d",
+      "path": "/2020/10/28/cyberpunk-2077-adiado/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "A Notícia",
+          "slug": "a-noticia"
+        }
+      ],
+      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "2020-10-27 18:22:29"
     },
     {
       "frontmatter": {
@@ -462,33 +463,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
-      },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "cdprojektred Tag"
-      },
-      "regularPath": "/tag/cdprojektred/",
-      "key": "v-6036c838",
-      "path": "/tag/cdprojektred/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "hashiriyadrifter Tag"
       },
       "regularPath": "/tag/hashiriyadrifter/",
@@ -534,6 +508,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "stream Tag"
       },
       "regularPath": "/tag/stream/",
@@ -543,11 +526,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "sonicforces Tag"
+        "title": "noticia Tag"
       },
-      "regularPath": "/tag/sonicforces/",
-      "key": "v-0f25fe45",
-      "path": "/tag/sonicforces/"
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Cyberpunk2077 Tag"
+      },
+      "regularPath": "/tag/Cyberpunk2077/",
+      "key": "v-32b973c0",
+      "path": "/tag/Cyberpunk2077/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "cdprojektred Tag"
+      },
+      "regularPath": "/tag/cdprojektred/",
+      "key": "v-6036c838",
+      "path": "/tag/cdprojektred/"
     }
   ],
   "themeConfig": {

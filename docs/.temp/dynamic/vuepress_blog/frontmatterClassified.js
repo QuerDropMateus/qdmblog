@@ -10,8 +10,8 @@ export default {
       "pageKeys": [
         "v-57fcefd1",
         "v-1c62dc5e",
-        "v-73b0dac7",
-        "v-96df1d4a"
+        "v-96df1d4a",
+        "v-73b0dac7"
       ]
     },
     "review": {
@@ -46,33 +46,9 @@ export default {
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-57fcefd1",
-        "v-31c66e8d",
         "v-1c62dc5e",
+        "v-96df1d4a",
         "v-73b0dac7",
-        "v-96df1d4a"
-      ]
-    },
-    "noticia": {
-      "key": "noticia",
-      "scope": "tag",
-      "path": "/tag/noticia/",
-      "pageKeys": [
-        "v-31c66e8d"
-      ]
-    },
-    "Cyberpunk2077": {
-      "key": "Cyberpunk2077",
-      "scope": "tag",
-      "path": "/tag/Cyberpunk2077/",
-      "pageKeys": [
-        "v-31c66e8d"
-      ]
-    },
-    "cdprojektred": {
-      "key": "cdprojektred",
-      "scope": "tag",
-      "path": "/tag/cdprojektred/",
-      "pageKeys": [
         "v-31c66e8d"
       ]
     },
@@ -116,6 +92,14 @@ export default {
         "v-1057cb31"
       ]
     },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
+        "v-96df1d4a"
+      ]
+    },
     "stream": {
       "key": "stream",
       "scope": "tag",
@@ -124,12 +108,28 @@ export default {
         "v-73b0dac7"
       ]
     },
-    "sonicforces": {
-      "key": "sonicforces",
+    "noticia": {
+      "key": "noticia",
       "scope": "tag",
-      "path": "/tag/sonicforces/",
+      "path": "/tag/noticia/",
       "pageKeys": [
-        "v-96df1d4a"
+        "v-31c66e8d"
+      ]
+    },
+    "Cyberpunk2077": {
+      "key": "Cyberpunk2077",
+      "scope": "tag",
+      "path": "/tag/Cyberpunk2077/",
+      "pageKeys": [
+        "v-31c66e8d"
+      ]
+    },
+    "cdprojektred": {
+      "key": "cdprojektred",
+      "scope": "tag",
+      "path": "/tag/cdprojektred/",
+      "pageKeys": [
+        "v-31c66e8d"
       ]
     }
   }

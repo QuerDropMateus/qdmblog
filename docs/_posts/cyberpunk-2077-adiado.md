@@ -1,6 +1,6 @@
 ---
 title: Cyberpunk 2077 ADIADO
-date: 2020-10-27
+date: 2020-10-28
 tags: 
   - noticia
   - Cyberpunk2077
