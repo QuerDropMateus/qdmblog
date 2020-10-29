@@ -3,41 +3,28 @@
  */
 export default {
   "tag": {
-    "game": {
-      "key": "game",
+    "noticia": {
+      "key": "noticia",
       "scope": "tag",
-      "path": "/tag/game/",
+      "path": "/tag/noticia/",
       "pageKeys": [
-        "v-57fcefd1",
-        "v-1c62dc5e",
-        "v-96df1d4a",
-        "v-73b0dac7"
+        "v-31c66e8d"
       ]
     },
-    "review": {
-      "key": "review",
+    "Cyberpunk2077": {
+      "key": "Cyberpunk2077",
       "scope": "tag",
-      "path": "/tag/review/",
+      "path": "/tag/Cyberpunk2077/",
       "pageKeys": [
-        "v-57fcefd1",
-        "v-1c62dc5e",
-        "v-96df1d4a"
+        "v-31c66e8d"
       ]
     },
-    "bloodnight": {
-      "key": "bloodnight",
+    "cdprojektred": {
+      "key": "cdprojektred",
       "scope": "tag",
-      "path": "/tag/bloodnight/",
+      "path": "/tag/cdprojektred/",
       "pageKeys": [
-        "v-57fcefd1"
-      ]
-    },
-    "crossbow:bloodnight": {
-      "key": "crossbow:bloodnight",
-      "scope": "tag",
-      "path": "/tag/crossbow:bloodnight/",
-      "pageKeys": [
-        "v-57fcefd1"
+        "v-31c66e8d"
       ]
     },
     "qdm": {
@@ -45,19 +32,12 @@ export default {
       "scope": "tag",
       "path": "/tag/qdm/",
       "pageKeys": [
+        "v-31c66e8d",
         "v-57fcefd1",
+        "v-7eb05dea",
         "v-1c62dc5e",
         "v-96df1d4a",
-        "v-73b0dac7",
-        "v-31c66e8d"
-      ]
-    },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
-      "pageKeys": [
-        "v-1c62dc5e"
+        "v-73b0dac7"
       ]
     },
     "Microsoft": {
@@ -92,6 +72,77 @@ export default {
         "v-1057cb31"
       ]
     },
+    "game": {
+      "key": "game",
+      "scope": "tag",
+      "path": "/tag/game/",
+      "pageKeys": [
+        "v-57fcefd1",
+        "v-7eb05dea",
+        "v-1c62dc5e",
+        "v-96df1d4a",
+        "v-73b0dac7"
+      ]
+    },
+    "review": {
+      "key": "review",
+      "scope": "tag",
+      "path": "/tag/review/",
+      "pageKeys": [
+        "v-57fcefd1",
+        "v-7eb05dea",
+        "v-1c62dc5e",
+        "v-96df1d4a"
+      ]
+    },
+    "bloodnight": {
+      "key": "bloodnight",
+      "scope": "tag",
+      "path": "/tag/bloodnight/",
+      "pageKeys": [
+        "v-57fcefd1"
+      ]
+    },
+    "crossbow:bloodnight": {
+      "key": "crossbow:bloodnight",
+      "scope": "tag",
+      "path": "/tag/crossbow:bloodnight/",
+      "pageKeys": [
+        "v-57fcefd1"
+      ]
+    },
+    "syntherapy": {
+      "key": "syntherapy",
+      "scope": "tag",
+      "path": "/tag/syntherapy/",
+      "pageKeys": [
+        "v-7eb05dea"
+      ]
+    },
+    "psicólogo de robô": {
+      "key": "psicólogo de robô",
+      "scope": "tag",
+      "path": "/tag/psicólogo de robô/",
+      "pageKeys": [
+        "v-7eb05dea"
+      ]
+    },
+    "indiegame": {
+      "key": "indiegame",
+      "scope": "tag",
+      "path": "/tag/indiegame/",
+      "pageKeys": [
+        "v-7eb05dea"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-1c62dc5e"
+      ]
+    },
     "sonicforces": {
       "key": "sonicforces",
       "scope": "tag",
@@ -106,30 +157,6 @@ export default {
       "path": "/tag/stream/",
       "pageKeys": [
         "v-73b0dac7"
-      ]
-    },
-    "noticia": {
-      "key": "noticia",
-      "scope": "tag",
-      "path": "/tag/noticia/",
-      "pageKeys": [
-        "v-31c66e8d"
-      ]
-    },
-    "Cyberpunk2077": {
-      "key": "Cyberpunk2077",
-      "scope": "tag",
-      "path": "/tag/Cyberpunk2077/",
-      "pageKeys": [
-        "v-31c66e8d"
-      ]
-    },
-    "cdprojektred": {
-      "key": "cdprojektred",
-      "scope": "tag",
-      "path": "/tag/cdprojektred/",
-      "pageKeys": [
-        "v-31c66e8d"
       ]
     }
   }
