@@ -5,7 +5,6 @@ tags:
   - game
   - review
   - syntherapy
-  - psicólogo de robô
   - indiegame
   - qdm
 author: Medici | QDM

@@ -33,11 +33,58 @@ export default {
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-31c66e8d",
-        "v-57fcefd1",
-        "v-7eb05dea",
         "v-1c62dc5e",
+        "v-57fcefd1",
+        "v-73b0dac7",
         "v-96df1d4a",
-        "v-73b0dac7"
+        "v-7eb05dea"
+      ]
+    },
+    "game": {
+      "key": "game",
+      "scope": "tag",
+      "path": "/tag/game/",
+      "pageKeys": [
+        "v-1c62dc5e",
+        "v-57fcefd1",
+        "v-73b0dac7",
+        "v-96df1d4a",
+        "v-7eb05dea"
+      ]
+    },
+    "review": {
+      "key": "review",
+      "scope": "tag",
+      "path": "/tag/review/",
+      "pageKeys": [
+        "v-1c62dc5e",
+        "v-57fcefd1",
+        "v-96df1d4a",
+        "v-7eb05dea"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-1c62dc5e"
+      ]
+    },
+    "bloodnight": {
+      "key": "bloodnight",
+      "scope": "tag",
+      "path": "/tag/bloodnight/",
+      "pageKeys": [
+        "v-57fcefd1"
+      ]
+    },
+    "crossbow:bloodnight": {
+      "key": "crossbow:bloodnight",
+      "scope": "tag",
+      "path": "/tag/crossbow:bloodnight/",
+      "pageKeys": [
+        "v-57fcefd1"
       ]
     },
     "Microsoft": {
@@ -72,75 +119,12 @@ export default {
         "v-1057cb31"
       ]
     },
-    "game": {
-      "key": "game",
+    "stream": {
+      "key": "stream",
       "scope": "tag",
-      "path": "/tag/game/",
+      "path": "/tag/stream/",
       "pageKeys": [
-        "v-57fcefd1",
-        "v-7eb05dea",
-        "v-1c62dc5e",
-        "v-96df1d4a",
         "v-73b0dac7"
-      ]
-    },
-    "review": {
-      "key": "review",
-      "scope": "tag",
-      "path": "/tag/review/",
-      "pageKeys": [
-        "v-57fcefd1",
-        "v-7eb05dea",
-        "v-1c62dc5e",
-        "v-96df1d4a"
-      ]
-    },
-    "bloodnight": {
-      "key": "bloodnight",
-      "scope": "tag",
-      "path": "/tag/bloodnight/",
-      "pageKeys": [
-        "v-57fcefd1"
-      ]
-    },
-    "crossbow:bloodnight": {
-      "key": "crossbow:bloodnight",
-      "scope": "tag",
-      "path": "/tag/crossbow:bloodnight/",
-      "pageKeys": [
-        "v-57fcefd1"
-      ]
-    },
-    "syntherapy": {
-      "key": "syntherapy",
-      "scope": "tag",
-      "path": "/tag/syntherapy/",
-      "pageKeys": [
-        "v-7eb05dea"
-      ]
-    },
-    "psicólogo de robô": {
-      "key": "psicólogo de robô",
-      "scope": "tag",
-      "path": "/tag/psicólogo de robô/",
-      "pageKeys": [
-        "v-7eb05dea"
-      ]
-    },
-    "indiegame": {
-      "key": "indiegame",
-      "scope": "tag",
-      "path": "/tag/indiegame/",
-      "pageKeys": [
-        "v-7eb05dea"
-      ]
-    },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
-      "pageKeys": [
-        "v-1c62dc5e"
       ]
     },
     "sonicforces": {
@@ -151,12 +135,20 @@ export default {
         "v-96df1d4a"
       ]
     },
-    "stream": {
-      "key": "stream",
+    "syntherapy": {
+      "key": "syntherapy",
       "scope": "tag",
-      "path": "/tag/stream/",
+      "path": "/tag/syntherapy/",
       "pageKeys": [
-        "v-73b0dac7"
+        "v-7eb05dea"
+      ]
+    },
+    "indiegame": {
+      "key": "indiegame",
+      "scope": "tag",
+      "path": "/tag/indiegame/",
+      "pageKeys": [
+        "v-7eb05dea"
       ]
     }
   }
