@@ -9,38 +9,6 @@ import GlobalLayout from "/home/suh/Documents/Github/qdmblog/layouts/GlobalLayou
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-e4ff71d2",
-    path: "/2020/10/20/crossbow-bloodnight-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-e4ff71d2").then(next)
-    },
-  },
-  {
-    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
-  },
-  {
-    path: "/_posts/crossbow-bloodnight-review.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
-  },
-  {
-    name: "v-0aab0553",
-    path: "/2020/10/28/cyberpunk-2077-adiado/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
-    },
-  },
-  {
-    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
-    path: "/_posts/cyberpunk-2077-adiado.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
     name: "v-607c7c17",
     path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
@@ -71,6 +39,38 @@ export const routes = [
   {
     path: "/_posts/microsoft-bethesda-e-novidades.html",
     redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    name: "v-e4ff71d2",
+    path: "/2020/10/20/crossbow-bloodnight-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-e4ff71d2").then(next)
+    },
+  },
+  {
+    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
+    path: "/_posts/crossbow-bloodnight-review.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
+    name: "v-0aab0553",
+    path: "/2020/10/28/cyberpunk-2077-adiado/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
+    },
+  },
+  {
+    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    path: "/_posts/cyberpunk-2077-adiado.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
   },
   {
     name: "v-2f85d017",
@@ -197,30 +197,17 @@ export const routes = [
     redirect: "/tag/review/"
   },
   {
-    name: "v-6d69b8a7",
-    path: "/tag/bloodnight/",
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
     },
-    meta: {"pid":"tag","id":"bloodnight"}
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
   },
   {
-    path: "/tag/bloodnight/index.html",
-    redirect: "/tag/bloodnight/"
-  },
-  {
-    name: "v-0a46594b",
-    path: "/tag/crossbow:bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
-    },
-    meta: {"pid":"tag","id":"crossbow:bloodnight"}
-  },
-  {
-    path: "/tag/crossbow:bloodnight/index.html",
-    redirect: "/tag/crossbow:bloodnight/"
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
   },
   {
     name: "v-322f4f42",
@@ -234,58 +221,6 @@ export const routes = [
   {
     path: "/tag/qdm/index.html",
     redirect: "/tag/qdm/"
-  },
-  {
-    name: "v-2dc9ec74",
-    path: "/tag/noticia/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
-    },
-    meta: {"pid":"tag","id":"noticia"}
-  },
-  {
-    path: "/tag/noticia/index.html",
-    redirect: "/tag/noticia/"
-  },
-  {
-    name: "v-32b973c0",
-    path: "/tag/Cyberpunk2077/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
-    },
-    meta: {"pid":"tag","id":"Cyberpunk2077"}
-  },
-  {
-    path: "/tag/Cyberpunk2077/index.html",
-    redirect: "/tag/Cyberpunk2077/"
-  },
-  {
-    name: "v-6036c838",
-    path: "/tag/cdprojektred/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
-    },
-    meta: {"pid":"tag","id":"cdprojektred"}
-  },
-  {
-    path: "/tag/cdprojektred/index.html",
-    redirect: "/tag/cdprojektred/"
-  },
-  {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
-    },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
-  },
-  {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
   },
   {
     name: "v-11be516a",
@@ -338,6 +273,71 @@ export const routes = [
   {
     path: "/tag/notícia/index.html",
     redirect: "/tag/notícia/"
+  },
+  {
+    name: "v-6d69b8a7",
+    path: "/tag/bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
+    },
+    meta: {"pid":"tag","id":"bloodnight"}
+  },
+  {
+    path: "/tag/bloodnight/index.html",
+    redirect: "/tag/bloodnight/"
+  },
+  {
+    name: "v-0a46594b",
+    path: "/tag/crossbow:bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
+    },
+    meta: {"pid":"tag","id":"crossbow:bloodnight"}
+  },
+  {
+    path: "/tag/crossbow:bloodnight/index.html",
+    redirect: "/tag/crossbow:bloodnight/"
+  },
+  {
+    name: "v-2dc9ec74",
+    path: "/tag/noticia/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
+    },
+    meta: {"pid":"tag","id":"noticia"}
+  },
+  {
+    path: "/tag/noticia/index.html",
+    redirect: "/tag/noticia/"
+  },
+  {
+    name: "v-32b973c0",
+    path: "/tag/Cyberpunk2077/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
+    },
+    meta: {"pid":"tag","id":"Cyberpunk2077"}
+  },
+  {
+    path: "/tag/Cyberpunk2077/index.html",
+    redirect: "/tag/Cyberpunk2077/"
+  },
+  {
+    name: "v-6036c838",
+    path: "/tag/cdprojektred/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
+    },
+    meta: {"pid":"tag","id":"cdprojektred"}
+  },
+  {
+    path: "/tag/cdprojektred/index.html",
+    redirect: "/tag/cdprojektred/"
   },
   {
     name: "v-33c9bd29",

@@ -90,110 +90,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Crossbow Bloodnight",
-      "frontmatter": {
-        "title": "Crossbow Bloodnight",
-        "date": "2020-10-20T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "bloodnight",
-          "crossbow:bloodnight",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
-        "summary": "Cace, morra e cace novamente!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
-          }
-        ],
-        "description": "Cace, morra e cace novamente!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/crossbow-bloodnight-review.html",
-      "relativePath": "_posts/crossbow-bloodnight-review.md",
-      "key": "v-e4ff71d2",
-      "path": "/2020/10/20/crossbow-bloodnight-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Gameplay",
-          "slug": "gameplay"
-        },
-        {
-          "level": 2,
-          "title": "Inimigos",
-          "slug": "inimigos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
-        }
-      ],
-      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
-      "title": "Cyberpunk 2077 ADIADO",
-      "frontmatter": {
-        "title": "Cyberpunk 2077 ADIADO",
-        "date": "2020-10-28T00:00:00.000Z",
-        "tags": [
-          "noticia",
-          "Cyberpunk2077",
-          "cdprojektred",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
-        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
-          }
-        ],
-        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
-      "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-0aab0553",
-      "path": "/2020/10/28/cyberpunk-2077-adiado/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "A Notícia",
-          "slug": "a-noticia"
-        }
-      ],
-      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -317,6 +213,110 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
+      "title": "Crossbow Bloodnight",
+      "frontmatter": {
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-20T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "bloodnight",
+          "crossbow:bloodnight",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
+        "summary": "Cace, morra e cace novamente!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
+          }
+        ],
+        "description": "Cace, morra e cace novamente!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-e4ff71d2",
+      "path": "/2020/10/20/crossbow-bloodnight-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "Cyberpunk 2077 ADIADO",
+      "frontmatter": {
+        "title": "Cyberpunk 2077 ADIADO",
+        "date": "2020-10-28T00:00:00.000Z",
+        "tags": [
+          "noticia",
+          "Cyberpunk2077",
+          "cdprojektred",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
+        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
+          }
+        ],
+        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
+      "relativePath": "_posts/cyberpunk-2077-adiado.md",
+      "key": "v-0aab0553",
+      "path": "/2020/10/28/cyberpunk-2077-adiado/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "A Notícia",
+          "slug": "a-noticia"
+        }
+      ],
+      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
       "title": "Not for Broadcast",
       "frontmatter": {
         "title": "Not for Broadcast",
@@ -368,7 +368,7 @@ export const siteData = {
       "summary": "Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
+      "lastUpdated": "08/12/2020 18:26:34"
     },
     {
       "title": "Bem vindos!",
@@ -557,7 +557,7 @@ export const siteData = {
         }
       ],
       "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
+      "lastUpdated": "12/8/2020, 6:26:34 PM"
     },
     {
       "frontmatter": {
@@ -598,20 +598,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "bloodnight Tag"
+        "title": "hashiriyadrifter Tag"
       },
-      "regularPath": "/tag/bloodnight/",
-      "key": "v-6d69b8a7",
-      "path": "/tag/bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "crossbow:bloodnight Tag"
-      },
-      "regularPath": "/tag/crossbow:bloodnight/",
-      "key": "v-0a46594b",
-      "path": "/tag/crossbow:bloodnight/"
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
     },
     {
       "frontmatter": {
@@ -621,42 +612,6 @@ export const siteData = {
       "regularPath": "/tag/qdm/",
       "key": "v-322f4f42",
       "path": "/tag/qdm/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
-      },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "cdprojektred Tag"
-      },
-      "regularPath": "/tag/cdprojektred/",
-      "key": "v-6036c838",
-      "path": "/tag/cdprojektred/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
-      },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
     },
     {
       "frontmatter": {
@@ -693,6 +648,51 @@ export const siteData = {
       "regularPath": "/tag/not%C3%ADcia/",
       "key": "v-26caf4a0",
       "path": "/tag/notícia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "bloodnight Tag"
+      },
+      "regularPath": "/tag/bloodnight/",
+      "key": "v-6d69b8a7",
+      "path": "/tag/bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "crossbow:bloodnight Tag"
+      },
+      "regularPath": "/tag/crossbow:bloodnight/",
+      "key": "v-0a46594b",
+      "path": "/tag/crossbow:bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "noticia Tag"
+      },
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Cyberpunk2077 Tag"
+      },
+      "regularPath": "/tag/Cyberpunk2077/",
+      "key": "v-32b973c0",
+      "path": "/tag/Cyberpunk2077/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "cdprojektred Tag"
+      },
+      "regularPath": "/tag/cdprojektred/",
+      "key": "v-6036c838",
+      "path": "/tag/cdprojektred/"
     },
     {
       "frontmatter": {
