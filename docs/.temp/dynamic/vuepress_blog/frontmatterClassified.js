@@ -48,44 +48,12 @@ export default {
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-e4ff71d2",
-        "v-0aab0553",
         "v-607c7c17",
         "v-2f85d017",
+        "v-0aab0553",
         "v-819084e6",
         "v-0c2b5b21",
         "v-3d1a8dd1"
-      ]
-    },
-    "noticia": {
-      "key": "noticia",
-      "scope": "tag",
-      "path": "/tag/noticia/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "Cyberpunk2077": {
-      "key": "Cyberpunk2077",
-      "scope": "tag",
-      "path": "/tag/Cyberpunk2077/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "cdprojektred": {
-      "key": "cdprojektred",
-      "scope": "tag",
-      "path": "/tag/cdprojektred/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
-      "pageKeys": [
-        "v-607c7c17"
       ]
     },
     "Microsoft": {
@@ -120,6 +88,14 @@ export default {
         "v-416b0712"
       ]
     },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-607c7c17"
+      ]
+    },
     "análise": {
       "key": "análise",
       "scope": "tag",
@@ -142,6 +118,30 @@ export default {
       "path": "/tag/nfb/",
       "pageKeys": [
         "v-2f85d017"
+      ]
+    },
+    "noticia": {
+      "key": "noticia",
+      "scope": "tag",
+      "path": "/tag/noticia/",
+      "pageKeys": [
+        "v-0aab0553"
+      ]
+    },
+    "Cyberpunk2077": {
+      "key": "Cyberpunk2077",
+      "scope": "tag",
+      "path": "/tag/Cyberpunk2077/",
+      "pageKeys": [
+        "v-0aab0553"
+      ]
+    },
+    "cdprojektred": {
+      "key": "cdprojektred",
+      "scope": "tag",
+      "path": "/tag/cdprojektred/",
+      "pageKeys": [
+        "v-0aab0553"
       ]
     },
     "stream": {

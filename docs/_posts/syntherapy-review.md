@@ -12,6 +12,9 @@ featuredimg: 'https://pbs.twimg.com/media/EjkcHJ0XcAAiotF.jpg'
 summary: Então, imagine que antes da era das máquinas, a Skynet resolve se consultar com você como psicólogo? Confere essa review!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+    content: 'https://pbs.twimg.com/media/EjkcHJ0XcAAiotF.jpg'
 ---
 Você acredita que máquinas podem pensar? Elas podem desenvolver personalidades próprias e ter desejos, sonhos e angústias? Será que um dia chegaremos ao ponto de que máquinas sencientes procurarão psicólogos para aprender a lidar com seus sentimentos, ou ainda, elas serão os próprios psicólogos para outras máquinas e seres humanos? Bom, em Syntherapy, o enredo tem muito disso e outros floreios capazes de fazer você se questionar bastante.
 

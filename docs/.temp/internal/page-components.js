@@ -3,12 +3,12 @@
  */
 export default {
   "v-e4ff71d2": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/crossbow-bloodnight-review.md"),
-  "v-0aab0553": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/cyberpunk-2077-adiado.md"),
-  "v-607c7c17": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/hashiriya-drifter-review.md"),
   "v-416b0712": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/microsoft-bethesda-e-novidades.md"),
+  "v-607c7c17": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/hashiriya-drifter-review.md"),
   "v-2f85d017": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/not-for-broadcast-review.md"),
+  "v-0aab0553": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/cyberpunk-2077-adiado.md"),
   "v-819084e6": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/primeiro-post.md"),
   "v-0c2b5b21": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/sonic-forces-review.md"),
-  "v-3d1a8dd1": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/syntherapy-review.md"),
-  "v-2a1d0ad7": () => import("/home/suh/Documents/Github/qdmblog/docs/about.md") 
+  "v-2a1d0ad7": () => import("/home/suh/Documents/Github/qdmblog/docs/about.md"),
+  "v-3d1a8dd1": () => import("/home/suh/Documents/Github/qdmblog/docs/_posts/syntherapy-review.md") 
 }

@@ -11,6 +11,9 @@ featuredimg: 'https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.
 summary: A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg'
 ---
 
 A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empresa que tem um jogo de corrida como exclusivo - Forza - e outras duas séries com temática de guerra espacial - Gears of War e Halo -, exclusivos que por bem ou por mal não chegam perto do índice de vendas da concorrente com The Last of Us e Uncharted. Estaria a Microsoft correndo atrás do prejuízo para se tornar mais competitiva nessa nova geração? Ou já é tarde demais para buscar o empate nesse embate?

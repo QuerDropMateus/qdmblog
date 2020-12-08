@@ -10,6 +10,9 @@ featuredimg: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb
 summary: Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80'
 ---
 
 ## Estamos de volta!

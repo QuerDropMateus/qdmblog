@@ -11,6 +11,9 @@ featuredimg: 'https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-
 summary: Fast and Furious drif drif!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png'
 ---
 
 Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela Midnight Games, um estúdio independente. O game é voltado para as décadas de 70 e 80 no Japão, onde competições de rua de corrida de carros e drift eram populares. Com isso é normal que haja modelos de carro deles e as placas também.

@@ -1,7 +1,7 @@
 ---
 title: Crossbow Bloodnight
 date: 2020-10-20
-tags: 
+tags:
   - game
   - review
   - bloodnight
@@ -12,6 +12,9 @@ featuredimg: 'https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-eg
 summary: Cace, morra e cace novamente!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg'
 ---
 
 Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem tempo para pronunciamos eclesiásticos. Pois agora, no centro de uma praça, durante a noite uma horda de criaturas demoníacas emerge do chão diretamente do inferno.

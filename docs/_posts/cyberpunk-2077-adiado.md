@@ -11,6 +11,9 @@ featuredimg: 'https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpun
 summary: Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg'
 ---
 Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, **Cyberpunk 2077, foi novamente adiado** - a terceira vez - e dessa vez tem a data de lançamento para 10 de dezembro desse ano.
 

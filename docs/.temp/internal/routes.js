@@ -25,20 +25,20 @@ export const routes = [
     redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    name: "v-0aab0553",
-    path: "/2020/10/28/cyberpunk-2077-adiado/",
+    name: "v-416b0712",
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-416b0712").then(next)
     },
   },
   {
-    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
-    path: "/_posts/cyberpunk-2077-adiado.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+    path: "/_posts/microsoft-bethesda-e-novidades.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
     name: "v-607c7c17",
@@ -57,22 +57,6 @@ export const routes = [
     redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    name: "v-416b0712",
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-416b0712").then(next)
-    },
-  },
-  {
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
-  },
-  {
-    path: "/_posts/microsoft-bethesda-e-novidades.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
-  },
-  {
     name: "v-2f85d017",
     path: "/2020/12/08/not-for-broadcast-review/",
     component: GlobalLayout,
@@ -87,6 +71,22 @@ export const routes = [
   {
     path: "/_posts/not-for-broadcast-review.html",
     redirect: "/2020/12/08/not-for-broadcast-review/"
+  },
+  {
+    name: "v-0aab0553",
+    path: "/2020/10/28/cyberpunk-2077-adiado/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
+    },
+  },
+  {
+    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    path: "/_posts/cyberpunk-2077-adiado.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
   },
   {
     name: "v-819084e6",
@@ -121,6 +121,14 @@ export const routes = [
     redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
+    name: "v-2a1d0ad7",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
+    },
+  },
+  {
     name: "v-3d1a8dd1",
     path: "/2020/10/30/syntherapy-review/",
     component: GlobalLayout,
@@ -135,14 +143,6 @@ export const routes = [
   {
     path: "/_posts/syntherapy-review.html",
     redirect: "/2020/10/30/syntherapy-review/"
-  },
-  {
-    name: "v-2a1d0ad7",
-    path: "/about.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
-    },
   },
   {
     name: "v-b2754d56",
@@ -236,58 +236,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-2dc9ec74",
-    path: "/tag/noticia/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
-    },
-    meta: {"pid":"tag","id":"noticia"}
-  },
-  {
-    path: "/tag/noticia/index.html",
-    redirect: "/tag/noticia/"
-  },
-  {
-    name: "v-32b973c0",
-    path: "/tag/Cyberpunk2077/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
-    },
-    meta: {"pid":"tag","id":"Cyberpunk2077"}
-  },
-  {
-    path: "/tag/Cyberpunk2077/index.html",
-    redirect: "/tag/Cyberpunk2077/"
-  },
-  {
-    name: "v-6036c838",
-    path: "/tag/cdprojektred/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
-    },
-    meta: {"pid":"tag","id":"cdprojektred"}
-  },
-  {
-    path: "/tag/cdprojektred/index.html",
-    redirect: "/tag/cdprojektred/"
-  },
-  {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
-    },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
-  },
-  {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
-  },
-  {
     name: "v-11be516a",
     path: "/tag/Microsoft/",
     component: GlobalLayout,
@@ -340,6 +288,19 @@ export const routes = [
     redirect: "/tag/notícia/"
   },
   {
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
+  },
+  {
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
+  },
+  {
     name: "v-33c9bd29",
     path: "/tag/análise/",
     component: GlobalLayout,
@@ -377,6 +338,45 @@ export const routes = [
   {
     path: "/tag/nfb/index.html",
     redirect: "/tag/nfb/"
+  },
+  {
+    name: "v-2dc9ec74",
+    path: "/tag/noticia/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
+    },
+    meta: {"pid":"tag","id":"noticia"}
+  },
+  {
+    path: "/tag/noticia/index.html",
+    redirect: "/tag/noticia/"
+  },
+  {
+    name: "v-32b973c0",
+    path: "/tag/Cyberpunk2077/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
+    },
+    meta: {"pid":"tag","id":"Cyberpunk2077"}
+  },
+  {
+    path: "/tag/Cyberpunk2077/index.html",
+    redirect: "/tag/Cyberpunk2077/"
+  },
+  {
+    name: "v-6036c838",
+    path: "/tag/cdprojektred/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
+    },
+    meta: {"pid":"tag","id":"cdprojektred"}
+  },
+  {
+    path: "/tag/cdprojektred/index.html",
+    redirect: "/tag/cdprojektred/"
   },
   {
     name: "v-7dbe52c5",

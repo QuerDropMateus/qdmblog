@@ -11,6 +11,9 @@ featuredimg: 'https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9
 summary: Alguém anote a placa, pois um ouriço vem em alta velocidade!!
 lang: 'pt-BR'
 sidebar: true
+meta:
+  - property: 'og:image'
+  - content: 'https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png'
 ---
 
 Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, precisam derrotar um novo e perigoso vilão chamado Infinite. Totalmente poderoso e com voz de vilão realmente, o personagem é bem legal visualmente falando e traz para o game batalhas diferentes. Com muitos diálogos, a história tenta ser complexa, profunda e cheia de surpresa. Já vimos no passado exemplos de jogos do Sonic que tentaram criar uma trama mirabolante e acabaram deixando a desejar.
