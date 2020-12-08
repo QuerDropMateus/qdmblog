@@ -4,7 +4,7 @@
   v-if="author"
   class="post-meta-author"
   itemprop="publisher author"
-  itemtype="http://schema.org/Person"
+  itemtype="https://schema.org/Person"
   itemscope
   >
   <span itemprop="name">{{ author }}</span>

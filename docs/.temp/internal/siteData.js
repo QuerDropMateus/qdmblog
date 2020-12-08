@@ -147,22 +147,22 @@ export const siteData = {
       "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "22/10/2020 18:04:59"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "title": "Cyberpunk 2077 ADIADO",
       "frontmatter": {
-        "title": "Microsoft & Bethesda: a era da Sony chegou?",
-        "date": "2020-10-22T00:00:00.000Z",
+        "title": "Cyberpunk 2077 ADIADO",
+        "date": "2020-10-28T00:00:00.000Z",
         "tags": [
-          "Microsoft",
-          "Bethesda",
-          "Zeni Max",
-          "notícia"
+          "noticia",
+          "Cyberpunk2077",
+          "cdprojektred",
+          "qdm"
         ],
         "author": "Medici | QDM",
-        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
-        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
+        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
         "lang": "pt-BR",
         "sidebar": true,
         "meta": [
@@ -170,38 +170,28 @@ export const siteData = {
             "property": "og:image"
           },
           {
-            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
+            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
           }
         ],
-        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
-      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
-      "key": "v-416b0712",
-      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
+      "relativePath": "_posts/cyberpunk-2077-adiado.md",
+      "key": "v-0aab0553",
+      "path": "/2020/10/28/cyberpunk-2077-adiado/",
       "headers": [
         {
           "level": 2,
-          "title": "Por que comprar a Zeni Max e outros estúdios?",
-          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
-        },
-        {
-          "level": 2,
-          "title": "E qual foi o pulo do gato?",
-          "slug": "e-qual-foi-o-pulo-do-gato"
-        },
-        {
-          "level": 2,
-          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
-          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+          "title": "A Notícia",
+          "slug": "a-noticia"
         }
       ],
-      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "22/10/2020 17:57:54"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Hashiriya Drifter",
@@ -270,7 +260,61 @@ export const siteData = {
       "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "11/10/2020 01:52:24"
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "frontmatter": {
+        "title": "Microsoft & Bethesda: a era da Sony chegou?",
+        "date": "2020-10-22T00:00:00.000Z",
+        "tags": [
+          "Microsoft",
+          "Bethesda",
+          "Zeni Max",
+          "notícia"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
+        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
+          }
+        ],
+        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
+      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
+      "key": "v-416b0712",
+      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Por que comprar a Zeni Max e outros estúdios?",
+          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+        },
+        {
+          "level": 2,
+          "title": "E qual foi o pulo do gato?",
+          "slug": "e-qual-foi-o-pulo-do-gato"
+        },
+        {
+          "level": 2,
+          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
+          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+        }
+      ],
+      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Not for Broadcast",
@@ -324,51 +368,7 @@ export const siteData = {
       "summary": "Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "08/12/2020 17:15:28"
-    },
-    {
-      "title": "Cyberpunk 2077 ADIADO",
-      "frontmatter": {
-        "title": "Cyberpunk 2077 ADIADO",
-        "date": "2020-10-28T00:00:00.000Z",
-        "tags": [
-          "noticia",
-          "Cyberpunk2077",
-          "cdprojektred",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
-        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
-          }
-        ],
-        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
-      "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-0aab0553",
-      "path": "/2020/10/28/cyberpunk-2077-adiado/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "A Notícia",
-          "slug": "a-noticia"
-        }
-      ],
-      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "27/10/2020 18:23:53"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Bem vindos!",
@@ -416,7 +416,7 @@ export const siteData = {
       "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "16/10/2020 21:29:35"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "SONIC FORCES",
@@ -485,26 +485,7 @@ export const siteData = {
       "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "11/10/2020 01:52:24"
-    },
-    {
-      "title": "QDM - Quer drop, Mateus?",
-      "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-2a1d0ad7",
-      "path": "/about.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
-        }
-      ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Syntherapy",
@@ -557,7 +538,26 @@ export const siteData = {
       "summary": "Você acredita que máquinas podem pensar? Elas podem desenvolver personalidades próprias e ter desejos, sonhos e angústias? Será que um dia chegaremos ao ponto de que máquinas sencientes procurarão psi ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "29/10/2020 15:55:35"
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-2a1d0ad7",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
     },
     {
       "frontmatter": {
@@ -625,6 +625,42 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "noticia Tag"
+      },
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Cyberpunk2077 Tag"
+      },
+      "regularPath": "/tag/Cyberpunk2077/",
+      "key": "v-32b973c0",
+      "path": "/tag/Cyberpunk2077/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "cdprojektred Tag"
+      },
+      "regularPath": "/tag/cdprojektred/",
+      "key": "v-6036c838",
+      "path": "/tag/cdprojektred/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "Microsoft Tag"
       },
       "regularPath": "/tag/Microsoft/",
@@ -661,15 +697,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
-      },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "análise Tag"
       },
       "regularPath": "/tag/an%C3%A1lise/",
@@ -693,33 +720,6 @@ export const siteData = {
       "regularPath": "/tag/nfb/",
       "key": "v-3231fd22",
       "path": "/tag/nfb/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
-      },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "cdprojektred Tag"
-      },
-      "regularPath": "/tag/cdprojektred/",
-      "key": "v-6036c838",
-      "path": "/tag/cdprojektred/"
     },
     {
       "frontmatter": {

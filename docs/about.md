@@ -1,5 +1,5 @@
 ### QDM - Quer drop, Mateus?
-![Imagem QDM](http://i3.ytimg.com/vi/oJgTl5zFXI4/maxresdefault.jpg)
+![Imagem QDM](https://i3.ytimg.com/vi/oJgTl5zFXI4/maxresdefault.jpg)
 
 Quer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?
 

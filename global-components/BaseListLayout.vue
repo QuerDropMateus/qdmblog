@@ -1,7 +1,7 @@
 <template>
 <div id="">
 
-<div class="card-panel-content row" itemscope itemtype="http://schema.org/Blog">
+<div class="card-panel-content row" itemscope itemtype="https://schema.org/Blog">
 
 <article
 v-for="page in pages"
