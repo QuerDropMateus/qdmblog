@@ -12,6 +12,7 @@ module.exports = {
     ['link', { rel: "shortcut icon", href: "/assets/favicons/favicon.ico"}],
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
     ['meta', { name: "theme-color", content: "#ffffff"}],
+    ['meta', { property: "og:image", content: "/assets/img/logo.png"}]
   ],
   themeConfig: {
     authors: [

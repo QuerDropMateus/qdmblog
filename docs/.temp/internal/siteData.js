@@ -54,6 +54,13 @@ export const siteData = {
       }
     ],
     [
+      "meta",
+      {
+        "property": "og:image",
+        "content": "/assets/img/logo.png"
+      }
+    ],
+    [
       "link",
       {
         "rel": "alternate",
@@ -135,51 +142,6 @@ export const siteData = {
       "lastUpdated": "22/10/2020 18:04:59"
     },
     {
-      "title": "Not for Broadcast",
-      "frontmatter": {
-        "title": "Not for Broadcast",
-        "date": "2020-12-08T00:00:00.000Z",
-        "tags": [
-          "análise",
-          "not for broadcast",
-          "nfb",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg",
-        "summary": "Boa noite, estamos começando mais um jornal QDM. Eu sou Médici, sua apresentadora e agora veremos as notícias da noite!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Boa noite, estamos começando mais um jornal QDM. Eu sou Médici, sua apresentadora e agora veremos as notícias da noite!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/not-for-broadcast-review.html",
-      "relativePath": "_posts/not-for-broadcast-review.md",
-      "key": "v-2f85d017",
-      "path": "/2020/12/08/not-for-broadcast-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "O Jogo",
-          "slug": "o-jogo"
-        },
-        {
-          "level": 2,
-          "title": "O Enredo",
-          "slug": "o-enredo"
-        },
-        {
-          "level": 2,
-          "title": "Posso fazer a crítica?",
-          "slug": "posso-fazer-a-critica"
-        }
-      ],
-      "summary": "Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de ...",
-      "id": "blog",
-      "pid": "blog"
-    },
-    {
       "title": "Cyberpunk 2077 ADIADO",
       "frontmatter": {
         "title": "Cyberpunk 2077 ADIADO",
@@ -214,52 +176,6 @@ export const siteData = {
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "27/10/2020 18:23:53"
-    },
-    {
-      "title": "Microsoft & Bethesda: a era da Sony chegou?",
-      "frontmatter": {
-        "title": "Microsoft & Bethesda: a era da Sony chegou?",
-        "date": "2020-10-22T00:00:00.000Z",
-        "tags": [
-          "Microsoft",
-          "Bethesda",
-          "Zeni Max",
-          "notícia"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
-        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
-      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
-      "key": "v-416b0712",
-      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Por que comprar a Zeni Max e outros estúdios?",
-          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
-        },
-        {
-          "level": 2,
-          "title": "E qual foi o pulo do gato?",
-          "slug": "e-qual-foi-o-pulo-do-gato"
-        },
-        {
-          "level": 2,
-          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
-          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
-        }
-      ],
-      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "22/10/2020 17:57:54"
     },
     {
       "title": "Hashiriya Drifter",
@@ -323,23 +239,136 @@ export const siteData = {
       "lastUpdated": "11/10/2020 01:52:24"
     },
     {
-      "title": "QDM - Quer drop, Mateus?",
+      "title": "Microsoft & Bethesda: a era da Sony chegou?",
       "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
+        "title": "Microsoft & Bethesda: a era da Sony chegou?",
+        "date": "2020-10-22T00:00:00.000Z",
+        "tags": [
+          "Microsoft",
+          "Bethesda",
+          "Zeni Max",
+          "notícia"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
+        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-2a1d0ad7",
-      "path": "/about.html",
+      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
+      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
+      "key": "v-416b0712",
+      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
       "headers": [
         {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
+          "level": 2,
+          "title": "Por que comprar a Zeni Max e outros estúdios?",
+          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+        },
+        {
+          "level": 2,
+          "title": "E qual foi o pulo do gato?",
+          "slug": "e-qual-foi-o-pulo-do-gato"
+        },
+        {
+          "level": 2,
+          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
+          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
         }
       ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
-      "lastUpdated": "10/1/2020, 6:14:59 PM"
+      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "22/10/2020 17:57:54"
+    },
+    {
+      "title": "Not for Broadcast",
+      "frontmatter": {
+        "title": "Not for Broadcast",
+        "date": "2020-12-08T00:00:00.000Z",
+        "tags": [
+          "análise",
+          "not for broadcast",
+          "nfb",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg",
+        "summary": "Boa noite, estamos começando mais um jornal QDM. Eu sou Médici, sua apresentadora e agora veremos as notícias da noite!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Boa noite, estamos começando mais um jornal QDM. Eu sou Médici, sua apresentadora e agora veremos as notícias da noite!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/not-for-broadcast-review.html",
+      "relativePath": "_posts/not-for-broadcast-review.md",
+      "key": "v-2f85d017",
+      "path": "/2020/12/08/not-for-broadcast-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "O Jogo",
+          "slug": "o-jogo"
+        },
+        {
+          "level": 2,
+          "title": "O Enredo",
+          "slug": "o-enredo"
+        },
+        {
+          "level": 2,
+          "title": "Posso fazer a crítica?",
+          "slug": "posso-fazer-a-critica"
+        }
+      ],
+      "summary": "Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:15:28"
+    },
+    {
+      "title": "Bem vindos!",
+      "frontmatter": {
+        "title": "Bem vindos!",
+        "date": "2020-9-30",
+        "tags": [
+          "game",
+          "qdm",
+          "stream"
+        ],
+        "author": "Disjuntores | QDM",
+        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/primeiro-post.html",
+      "relativePath": "_posts/primeiro-post.md",
+      "key": "v-819084e6",
+      "path": "/2020/09/30/primeiro-post/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Estamos de volta!",
+          "slug": "estamos-de-volta"
+        },
+        {
+          "level": 2,
+          "title": "Acompanhe nossas matérias também YouTube",
+          "slug": "acompanhe-nossas-materias-tambem-youtube"
+        }
+      ],
+      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "16/10/2020 21:29:35"
     },
     {
       "title": "SONIC FORCES",
@@ -450,44 +479,23 @@ export const siteData = {
       "lastUpdated": "29/10/2020 15:55:35"
     },
     {
-      "title": "Bem vindos!",
+      "title": "QDM - Quer drop, Mateus?",
       "frontmatter": {
-        "title": "Bem vindos!",
-        "date": "2020-9-30",
-        "tags": [
-          "game",
-          "qdm",
-          "stream"
-        ],
-        "author": "Disjuntores | QDM",
-        "featuredimg": "https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
-        "summary": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Estamos de volta com mais novidades e games pra vocês, agora com uma equipe maior e mais conteúdo!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ..."
       },
-      "regularPath": "/_posts/primeiro-post.html",
-      "relativePath": "_posts/primeiro-post.md",
-      "key": "v-819084e6",
-      "path": "/2020/09/30/primeiro-post/",
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-2a1d0ad7",
+      "path": "/about.html",
       "headers": [
         {
-          "level": 2,
-          "title": "Estamos de volta!",
-          "slug": "estamos-de-volta"
-        },
-        {
-          "level": 2,
-          "title": "Acompanhe nossas matérias também YouTube",
-          "slug": "acompanhe-nossas-materias-tambem-youtube"
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
         }
       ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "16/10/2020 21:29:35"
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](htt ...",
+      "lastUpdated": "10/1/2020, 6:14:59 PM"
     },
     {
       "frontmatter": {
@@ -555,33 +563,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "análise Tag"
-      },
-      "regularPath": "/tag/an%C3%A1lise/",
-      "key": "v-33c9bd29",
-      "path": "/tag/análise/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "not for broadcast Tag"
-      },
-      "regularPath": "/tag/not%20for%20broadcast/",
-      "key": "v-491f0362",
-      "path": "/tag/not for broadcast/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "nfb Tag"
-      },
-      "regularPath": "/tag/nfb/",
-      "key": "v-3231fd22",
-      "path": "/tag/nfb/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "noticia Tag"
       },
       "regularPath": "/tag/noticia/",
@@ -605,6 +586,15 @@ export const siteData = {
       "regularPath": "/tag/cdprojektred/",
       "key": "v-6036c838",
       "path": "/tag/cdprojektred/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
     },
     {
       "frontmatter": {
@@ -645,11 +635,38 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
+        "title": "análise Tag"
       },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
+      "regularPath": "/tag/an%C3%A1lise/",
+      "key": "v-33c9bd29",
+      "path": "/tag/análise/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "not for broadcast Tag"
+      },
+      "regularPath": "/tag/not%20for%20broadcast/",
+      "key": "v-491f0362",
+      "path": "/tag/not for broadcast/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "nfb Tag"
+      },
+      "regularPath": "/tag/nfb/",
+      "key": "v-3231fd22",
+      "path": "/tag/nfb/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "stream Tag"
+      },
+      "regularPath": "/tag/stream/",
+      "key": "v-7dbe52c5",
+      "path": "/tag/stream/"
     },
     {
       "frontmatter": {
@@ -677,33 +694,6 @@ export const siteData = {
       "regularPath": "/tag/indiegame/",
       "key": "v-0e88a44c",
       "path": "/tag/indiegame/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "stream Tag"
-      },
-      "regularPath": "/tag/stream/",
-      "key": "v-7dbe52c5",
-      "path": "/tag/stream/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Layout",
-        "title": "Page 2 | Blog"
-      },
-      "regularPath": "/page/2/",
-      "key": "v-8fdafa70",
-      "path": "/page/2/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Layout",
-        "title": "Page 2 - qdm | Tag"
-      },
-      "regularPath": "/tag/qdm/page/2/",
-      "key": "v-6fa33704",
-      "path": "/tag/qdm/page/2/"
     }
   ],
   "themeConfig": {

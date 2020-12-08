@@ -25,22 +25,6 @@ export const routes = [
     redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    name: "v-2f85d017",
-    path: "/2020/12/08/not-for-broadcast-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-2f85d017").then(next)
-    },
-  },
-  {
-    path: "/2020/12/08/not-for-broadcast-review/index.html",
-    redirect: "/2020/12/08/not-for-broadcast-review/"
-  },
-  {
-    path: "/_posts/not-for-broadcast-review.html",
-    redirect: "/2020/12/08/not-for-broadcast-review/"
-  },
-  {
     name: "v-0aab0553",
     path: "/2020/10/28/cyberpunk-2077-adiado/",
     component: GlobalLayout,
@@ -55,22 +39,6 @@ export const routes = [
   {
     path: "/_posts/cyberpunk-2077-adiado.html",
     redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
-    name: "v-416b0712",
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-416b0712").then(next)
-    },
-  },
-  {
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
-  },
-  {
-    path: "/_posts/microsoft-bethesda-e-novidades.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
     name: "v-607c7c17",
@@ -89,12 +57,52 @@ export const routes = [
     redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    name: "v-2a1d0ad7",
-    path: "/about.html",
+    name: "v-416b0712",
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-416b0712").then(next)
     },
+  },
+  {
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    path: "/_posts/microsoft-bethesda-e-novidades.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    name: "v-2f85d017",
+    path: "/2020/12/08/not-for-broadcast-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-2f85d017").then(next)
+    },
+  },
+  {
+    path: "/2020/12/08/not-for-broadcast-review/index.html",
+    redirect: "/2020/12/08/not-for-broadcast-review/"
+  },
+  {
+    path: "/_posts/not-for-broadcast-review.html",
+    redirect: "/2020/12/08/not-for-broadcast-review/"
+  },
+  {
+    name: "v-819084e6",
+    path: "/2020/09/30/primeiro-post/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-819084e6").then(next)
+    },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-0c2b5b21",
@@ -129,20 +137,12 @@ export const routes = [
     redirect: "/2020/10/30/syntherapy-review/"
   },
   {
-    name: "v-819084e6",
-    path: "/2020/09/30/primeiro-post/",
+    name: "v-2a1d0ad7",
+    path: "/about.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-819084e6").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
     },
-  },
-  {
-    path: "/2020/09/30/primeiro-post/index.html",
-    redirect: "/2020/09/30/primeiro-post/"
-  },
-  {
-    path: "/_posts/primeiro-post.html",
-    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-b2754d56",
@@ -236,45 +236,6 @@ export const routes = [
     redirect: "/tag/qdm/"
   },
   {
-    name: "v-33c9bd29",
-    path: "/tag/análise/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-33c9bd29").then(next)
-    },
-    meta: {"pid":"tag","id":"análise"}
-  },
-  {
-    path: "/tag/análise/index.html",
-    redirect: "/tag/análise/"
-  },
-  {
-    name: "v-491f0362",
-    path: "/tag/not for broadcast/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-491f0362").then(next)
-    },
-    meta: {"pid":"tag","id":"not for broadcast"}
-  },
-  {
-    path: "/tag/not for broadcast/index.html",
-    redirect: "/tag/not for broadcast/"
-  },
-  {
-    name: "v-3231fd22",
-    path: "/tag/nfb/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3231fd22").then(next)
-    },
-    meta: {"pid":"tag","id":"nfb"}
-  },
-  {
-    path: "/tag/nfb/index.html",
-    redirect: "/tag/nfb/"
-  },
-  {
     name: "v-2dc9ec74",
     path: "/tag/noticia/",
     component: GlobalLayout,
@@ -312,6 +273,19 @@ export const routes = [
   {
     path: "/tag/cdprojektred/index.html",
     redirect: "/tag/cdprojektred/"
+  },
+  {
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
+  },
+  {
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
   },
   {
     name: "v-11be516a",
@@ -366,17 +340,56 @@ export const routes = [
     redirect: "/tag/notícia/"
   },
   {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
+    name: "v-33c9bd29",
+    path: "/tag/análise/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-33c9bd29").then(next)
     },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
+    meta: {"pid":"tag","id":"análise"}
   },
   {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
+    path: "/tag/análise/index.html",
+    redirect: "/tag/análise/"
+  },
+  {
+    name: "v-491f0362",
+    path: "/tag/not for broadcast/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-491f0362").then(next)
+    },
+    meta: {"pid":"tag","id":"not for broadcast"}
+  },
+  {
+    path: "/tag/not for broadcast/index.html",
+    redirect: "/tag/not for broadcast/"
+  },
+  {
+    name: "v-3231fd22",
+    path: "/tag/nfb/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3231fd22").then(next)
+    },
+    meta: {"pid":"tag","id":"nfb"}
+  },
+  {
+    path: "/tag/nfb/index.html",
+    redirect: "/tag/nfb/"
+  },
+  {
+    name: "v-7dbe52c5",
+    path: "/tag/stream/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+    },
+    meta: {"pid":"tag","id":"stream"}
+  },
+  {
+    path: "/tag/stream/index.html",
+    redirect: "/tag/stream/"
   },
   {
     name: "v-0f25fe45",
@@ -416,45 +429,6 @@ export const routes = [
   {
     path: "/tag/indiegame/index.html",
     redirect: "/tag/indiegame/"
-  },
-  {
-    name: "v-7dbe52c5",
-    path: "/tag/stream/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
-    },
-    meta: {"pid":"tag","id":"stream"}
-  },
-  {
-    path: "/tag/stream/index.html",
-    redirect: "/tag/stream/"
-  },
-  {
-    name: "v-8fdafa70",
-    path: "/page/2/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-8fdafa70").then(next)
-    },
-    meta: {"pid":"blog","id":"blog"}
-  },
-  {
-    path: "/page/2/index.html",
-    redirect: "/page/2/"
-  },
-  {
-    name: "v-6fa33704",
-    path: "/tag/qdm/page/2/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6fa33704").then(next)
-    },
-    meta: {"pid":"tag","id":"qdm"}
-  },
-  {
-    path: "/tag/qdm/page/2/index.html",
-    redirect: "/tag/qdm/page/2/"
   },
   {
     path: '*',

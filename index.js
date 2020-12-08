@@ -49,7 +49,9 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 6,
+      lengthPerPage: 9,
+      prevText: 'Anterior',
+      nextText: 'Próximo'
     },
   }
 

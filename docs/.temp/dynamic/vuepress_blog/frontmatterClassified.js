@@ -10,9 +10,9 @@ export default {
       "pageKeys": [
         "v-e4ff71d2",
         "v-607c7c17",
+        "v-819084e6",
         "v-0c2b5b21",
-        "v-3d1a8dd1",
-        "v-819084e6"
+        "v-3d1a8dd1"
       ]
     },
     "review": {
@@ -48,36 +48,12 @@ export default {
       "path": "/tag/qdm/",
       "pageKeys": [
         "v-e4ff71d2",
-        "v-2f85d017",
         "v-0aab0553",
         "v-607c7c17",
+        "v-2f85d017",
+        "v-819084e6",
         "v-0c2b5b21",
-        "v-3d1a8dd1",
-        "v-819084e6"
-      ]
-    },
-    "análise": {
-      "key": "análise",
-      "scope": "tag",
-      "path": "/tag/análise/",
-      "pageKeys": [
-        "v-2f85d017"
-      ]
-    },
-    "not for broadcast": {
-      "key": "not for broadcast",
-      "scope": "tag",
-      "path": "/tag/not for broadcast/",
-      "pageKeys": [
-        "v-2f85d017"
-      ]
-    },
-    "nfb": {
-      "key": "nfb",
-      "scope": "tag",
-      "path": "/tag/nfb/",
-      "pageKeys": [
-        "v-2f85d017"
+        "v-3d1a8dd1"
       ]
     },
     "noticia": {
@@ -102,6 +78,14 @@ export default {
       "path": "/tag/cdprojektred/",
       "pageKeys": [
         "v-0aab0553"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-607c7c17"
       ]
     },
     "Microsoft": {
@@ -136,12 +120,36 @@ export default {
         "v-416b0712"
       ]
     },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
+    "análise": {
+      "key": "análise",
       "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
+      "path": "/tag/análise/",
       "pageKeys": [
-        "v-607c7c17"
+        "v-2f85d017"
+      ]
+    },
+    "not for broadcast": {
+      "key": "not for broadcast",
+      "scope": "tag",
+      "path": "/tag/not for broadcast/",
+      "pageKeys": [
+        "v-2f85d017"
+      ]
+    },
+    "nfb": {
+      "key": "nfb",
+      "scope": "tag",
+      "path": "/tag/nfb/",
+      "pageKeys": [
+        "v-2f85d017"
+      ]
+    },
+    "stream": {
+      "key": "stream",
+      "scope": "tag",
+      "path": "/tag/stream/",
+      "pageKeys": [
+        "v-819084e6"
       ]
     },
     "sonicforces": {
@@ -166,14 +174,6 @@ export default {
       "path": "/tag/indiegame/",
       "pageKeys": [
         "v-3d1a8dd1"
-      ]
-    },
-    "stream": {
-      "key": "stream",
-      "scope": "tag",
-      "path": "/tag/stream/",
-      "pageKeys": [
-        "v-819084e6"
       ]
     }
   }
