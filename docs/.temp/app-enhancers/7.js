@@ -1,1 +1,1 @@
-export { default } from "/home/suh/Documentos/projetos/qdmblog/node_modules/vuepress-plugin-mailchimp/src/enhanceAppFile.js"
+export { default } from "/home/suh/Documents/Github/qdmblog/node_modules/vuepress-plugin-mailchimp/src/enhanceAppFile.js"

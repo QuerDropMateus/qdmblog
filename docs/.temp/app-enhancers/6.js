@@ -1,1 +1,1 @@
-export { default } from "/home/suh/Documentos/projetos/qdmblog/node_modules/vuepress-plugin-disqus/enhanceAppFile.js"
+export { default } from "/home/suh/Documents/Github/qdmblog/node_modules/vuepress-plugin-disqus/enhanceAppFile.js"

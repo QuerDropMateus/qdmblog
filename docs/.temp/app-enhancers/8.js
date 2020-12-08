@@ -1,1 +1,1 @@
-export { default } from "/home/suh/Documentos/projetos/qdmblog/node_modules/vuepress-plugin-smooth-scroll/lib/enhanceApp.js"
+export { default } from "/home/suh/Documents/Github/qdmblog/node_modules/vuepress-plugin-smooth-scroll/lib/enhanceApp.js"

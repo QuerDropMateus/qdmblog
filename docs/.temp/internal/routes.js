@@ -4,48 +4,16 @@
 
 import { injectComponentOption, ensureAsyncComponentsLoaded } from '@app/util'
 import rootMixins from '@internal/root-mixins'
-import GlobalLayout from "/home/suh/Documentos/projetos/qdmblog/layouts/GlobalLayout.vue"
+import GlobalLayout from "/home/suh/Documents/Github/qdmblog/layouts/GlobalLayout.vue"
 
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-31c66e8d",
-    path: "/2020/10/28/cyberpunk-2077-adiado/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-31c66e8d").then(next)
-    },
-  },
-  {
-    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
-    path: "/_posts/cyberpunk-2077-adiado.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
-    name: "v-1c62dc5e",
-    path: "/2020/10/01/hashiriya-drifter-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-1c62dc5e").then(next)
-    },
-  },
-  {
-    path: "/2020/10/01/hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
-    path: "/_posts/hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
-    name: "v-57fcefd1",
+    name: "v-e4ff71d2",
     path: "/2020/10/20/crossbow-bloodnight-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-57fcefd1").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-e4ff71d2").then(next)
     },
   },
   {
@@ -57,11 +25,43 @@ export const routes = [
     redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    name: "v-1057cb31",
+    name: "v-2f85d017",
+    path: "/2020/12/08/not-for-broadcast-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-2f85d017").then(next)
+    },
+  },
+  {
+    path: "/2020/12/08/not-for-broadcast-review/index.html",
+    redirect: "/2020/12/08/not-for-broadcast-review/"
+  },
+  {
+    path: "/_posts/not-for-broadcast-review.html",
+    redirect: "/2020/12/08/not-for-broadcast-review/"
+  },
+  {
+    name: "v-0aab0553",
+    path: "/2020/10/28/cyberpunk-2077-adiado/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
+    },
+  },
+  {
+    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    path: "/_posts/cyberpunk-2077-adiado.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    name: "v-416b0712",
     path: "/2020/10/22/microsoft-bethesda-e-novidades/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-1057cb31").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-416b0712").then(next)
     },
   },
   {
@@ -73,27 +73,35 @@ export const routes = [
     redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
-    name: "v-73b0dac7",
-    path: "/2020/09/30/primeiro-post/",
+    name: "v-607c7c17",
+    path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-73b0dac7").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-607c7c17").then(next)
     },
   },
   {
-    path: "/2020/09/30/primeiro-post/index.html",
-    redirect: "/2020/09/30/primeiro-post/"
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    path: "/_posts/primeiro-post.html",
-    redirect: "/2020/09/30/primeiro-post/"
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    name: "v-96df1d4a",
+    name: "v-2a1d0ad7",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
+    },
+  },
+  {
+    name: "v-0c2b5b21",
     path: "/2020/10/08/sonic-forces-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-96df1d4a").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-0c2b5b21").then(next)
     },
   },
   {
@@ -105,19 +113,11 @@ export const routes = [
     redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
-    name: "v-6dfd2991",
-    path: "/about.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-6dfd2991").then(next)
-    },
-  },
-  {
-    name: "v-7eb05dea",
+    name: "v-3d1a8dd1",
     path: "/2020/10/30/syntherapy-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-7eb05dea").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-3d1a8dd1").then(next)
     },
   },
   {
@@ -127,6 +127,22 @@ export const routes = [
   {
     path: "/_posts/syntherapy-review.html",
     redirect: "/2020/10/30/syntherapy-review/"
+  },
+  {
+    name: "v-819084e6",
+    path: "/2020/09/30/primeiro-post/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-819084e6").then(next)
+    },
+  },
+  {
+    path: "/2020/09/30/primeiro-post/index.html",
+    redirect: "/2020/09/30/primeiro-post/"
+  },
+  {
+    path: "/_posts/primeiro-post.html",
+    redirect: "/2020/09/30/primeiro-post/"
   },
   {
     name: "v-b2754d56",
@@ -153,6 +169,110 @@ export const routes = [
   {
     path: "/tag/index.html",
     redirect: "/tag/"
+  },
+  {
+    name: "v-14d71bda",
+    path: "/tag/game/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
+    },
+    meta: {"pid":"tag","id":"game"}
+  },
+  {
+    path: "/tag/game/index.html",
+    redirect: "/tag/game/"
+  },
+  {
+    name: "v-2f79a5ed",
+    path: "/tag/review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2f79a5ed").then(next)
+    },
+    meta: {"pid":"tag","id":"review"}
+  },
+  {
+    path: "/tag/review/index.html",
+    redirect: "/tag/review/"
+  },
+  {
+    name: "v-6d69b8a7",
+    path: "/tag/bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
+    },
+    meta: {"pid":"tag","id":"bloodnight"}
+  },
+  {
+    path: "/tag/bloodnight/index.html",
+    redirect: "/tag/bloodnight/"
+  },
+  {
+    name: "v-0a46594b",
+    path: "/tag/crossbow:bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
+    },
+    meta: {"pid":"tag","id":"crossbow:bloodnight"}
+  },
+  {
+    path: "/tag/crossbow:bloodnight/index.html",
+    redirect: "/tag/crossbow:bloodnight/"
+  },
+  {
+    name: "v-322f4f42",
+    path: "/tag/qdm/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
+    },
+    meta: {"pid":"tag","id":"qdm"}
+  },
+  {
+    path: "/tag/qdm/index.html",
+    redirect: "/tag/qdm/"
+  },
+  {
+    name: "v-33c9bd29",
+    path: "/tag/análise/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-33c9bd29").then(next)
+    },
+    meta: {"pid":"tag","id":"análise"}
+  },
+  {
+    path: "/tag/análise/index.html",
+    redirect: "/tag/análise/"
+  },
+  {
+    name: "v-491f0362",
+    path: "/tag/not for broadcast/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-491f0362").then(next)
+    },
+    meta: {"pid":"tag","id":"not for broadcast"}
+  },
+  {
+    path: "/tag/not for broadcast/index.html",
+    redirect: "/tag/not for broadcast/"
+  },
+  {
+    name: "v-3231fd22",
+    path: "/tag/nfb/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3231fd22").then(next)
+    },
+    meta: {"pid":"tag","id":"nfb"}
+  },
+  {
+    path: "/tag/nfb/index.html",
+    redirect: "/tag/nfb/"
   },
   {
     name: "v-2dc9ec74",
@@ -192,84 +312,6 @@ export const routes = [
   {
     path: "/tag/cdprojektred/index.html",
     redirect: "/tag/cdprojektred/"
-  },
-  {
-    name: "v-322f4f42",
-    path: "/tag/qdm/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
-    },
-    meta: {"pid":"tag","id":"qdm"}
-  },
-  {
-    path: "/tag/qdm/index.html",
-    redirect: "/tag/qdm/"
-  },
-  {
-    name: "v-14d71bda",
-    path: "/tag/game/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
-    },
-    meta: {"pid":"tag","id":"game"}
-  },
-  {
-    path: "/tag/game/index.html",
-    redirect: "/tag/game/"
-  },
-  {
-    name: "v-2f79a5ed",
-    path: "/tag/review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2f79a5ed").then(next)
-    },
-    meta: {"pid":"tag","id":"review"}
-  },
-  {
-    path: "/tag/review/index.html",
-    redirect: "/tag/review/"
-  },
-  {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
-    },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
-  },
-  {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
-  },
-  {
-    name: "v-6d69b8a7",
-    path: "/tag/bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
-    },
-    meta: {"pid":"tag","id":"bloodnight"}
-  },
-  {
-    path: "/tag/bloodnight/index.html",
-    redirect: "/tag/bloodnight/"
-  },
-  {
-    name: "v-0a46594b",
-    path: "/tag/crossbow:bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
-    },
-    meta: {"pid":"tag","id":"crossbow:bloodnight"}
-  },
-  {
-    path: "/tag/crossbow:bloodnight/index.html",
-    redirect: "/tag/crossbow:bloodnight/"
   },
   {
     name: "v-11be516a",
@@ -324,17 +366,17 @@ export const routes = [
     redirect: "/tag/notícia/"
   },
   {
-    name: "v-7dbe52c5",
-    path: "/tag/stream/",
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
     },
-    meta: {"pid":"tag","id":"stream"}
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
   },
   {
-    path: "/tag/stream/index.html",
-    redirect: "/tag/stream/"
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
   },
   {
     name: "v-0f25fe45",
@@ -376,6 +418,19 @@ export const routes = [
     redirect: "/tag/indiegame/"
   },
   {
+    name: "v-7dbe52c5",
+    path: "/tag/stream/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+    },
+    meta: {"pid":"tag","id":"stream"}
+  },
+  {
+    path: "/tag/stream/index.html",
+    redirect: "/tag/stream/"
+  },
+  {
     name: "v-8fdafa70",
     path: "/page/2/",
     component: GlobalLayout,
@@ -387,6 +442,19 @@ export const routes = [
   {
     path: "/page/2/index.html",
     redirect: "/page/2/"
+  },
+  {
+    name: "v-6fa33704",
+    path: "/tag/qdm/page/2/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-6fa33704").then(next)
+    },
+    meta: {"pid":"tag","id":"qdm"}
+  },
+  {
+    path: "/tag/qdm/page/2/index.html",
+    redirect: "/tag/qdm/page/2/"
   },
   {
     path: '*',
