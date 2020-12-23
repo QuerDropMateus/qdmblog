@@ -90,6 +90,110 @@ export const siteData = {
   ],
   "pages": [
     {
+      "title": "Cyberpunk 2077 ADIADO",
+      "frontmatter": {
+        "title": "Cyberpunk 2077 ADIADO",
+        "date": "2020-10-28T00:00:00.000Z",
+        "tags": [
+          "noticia",
+          "Cyberpunk2077",
+          "cdprojektred",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
+        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
+          }
+        ],
+        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
+      "relativePath": "_posts/cyberpunk-2077-adiado.md",
+      "key": "v-0aab0553",
+      "path": "/2020/10/28/cyberpunk-2077-adiado/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "A Notícia",
+          "slug": "a-noticia"
+        }
+      ],
+      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "Crossbow Bloodnight",
+      "frontmatter": {
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-20T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "bloodnight",
+          "crossbow:bloodnight",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
+        "summary": "Cace, morra e cace novamente!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
+          }
+        ],
+        "description": "Cace, morra e cace novamente!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-e4ff71d2",
+      "path": "/2020/10/20/crossbow-bloodnight-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
       "title": "Hashiriya Drifter",
       "frontmatter": {
         "title": "Hashiriya Drifter",
@@ -213,110 +317,6 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "Crossbow Bloodnight",
-      "frontmatter": {
-        "title": "Crossbow Bloodnight",
-        "date": "2020-10-20T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "bloodnight",
-          "crossbow:bloodnight",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
-        "summary": "Cace, morra e cace novamente!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
-          }
-        ],
-        "description": "Cace, morra e cace novamente!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/crossbow-bloodnight-review.html",
-      "relativePath": "_posts/crossbow-bloodnight-review.md",
-      "key": "v-e4ff71d2",
-      "path": "/2020/10/20/crossbow-bloodnight-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Gameplay",
-          "slug": "gameplay"
-        },
-        {
-          "level": 2,
-          "title": "Inimigos",
-          "slug": "inimigos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
-        }
-      ],
-      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
-      "title": "Cyberpunk 2077 ADIADO",
-      "frontmatter": {
-        "title": "Cyberpunk 2077 ADIADO",
-        "date": "2020-10-28T00:00:00.000Z",
-        "tags": [
-          "noticia",
-          "Cyberpunk2077",
-          "cdprojektred",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
-        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
-          }
-        ],
-        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
-      "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-0aab0553",
-      "path": "/2020/10/28/cyberpunk-2077-adiado/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "A Notícia",
-          "slug": "a-noticia"
-        }
-      ],
-      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "title": "Not for Broadcast",
       "frontmatter": {
         "title": "Not for Broadcast",
@@ -368,7 +368,57 @@ export const siteData = {
       "summary": "Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "08/12/2020 18:26:34"
+      "lastUpdated": "08/12/2020 18:37:08"
+    },
+    {
+      "title": "Space Avenger Empire of Nexx",
+      "frontmatter": {
+        "title": "Space Avenger Empire of Nexx",
+        "date": "2020-12-22T00:00:00.000Z",
+        "tags": [
+          "spaceavengerempireofnexx",
+          "review",
+          "indiegame",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/647650/capsule_616x353.jpg",
+        "summary": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/space-avangrs-review.html",
+      "relativePath": "_posts/space-avangrs-review.md",
+      "key": "v-732d7fd2",
+      "path": "/2020/12/22/space-avangrs-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Mecânica",
+          "slug": "mecanica"
+        },
+        {
+          "level": 2,
+          "title": "Gráficos",
+          "slug": "graficos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Space Avenger Empire of Nexx é um jogo para aqueles que buscam reviver antigas lembranças dos famosos jogos em que você só precisa controlar sua espaço-nave e sentar tiro nos inimigos! O jogo resgata ...",
+      "id": "blog",
+      "pid": "blog"
     },
     {
       "title": "Bem vindos!",
@@ -488,6 +538,25 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-2a1d0ad7",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
+      "lastUpdated": "12/8/2020, 6:26:34 PM"
+    },
+    {
       "title": "Syntherapy",
       "frontmatter": {
         "title": "Syntherapy",
@@ -541,25 +610,6 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "QDM - Quer drop, Mateus?",
-      "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
-      },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-2a1d0ad7",
-      "path": "/about.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
-        }
-      ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
-      "lastUpdated": "12/8/2020, 6:26:34 PM"
-    },
-    {
       "frontmatter": {
         "layout": "Layout",
         "title": "Blog"
@@ -576,6 +626,42 @@ export const siteData = {
       "regularPath": "/tag/",
       "key": "v-b1564aac",
       "path": "/tag/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "noticia Tag"
+      },
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Cyberpunk2077 Tag"
+      },
+      "regularPath": "/tag/Cyberpunk2077/",
+      "key": "v-32b973c0",
+      "path": "/tag/Cyberpunk2077/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "cdprojektred Tag"
+      },
+      "regularPath": "/tag/cdprojektred/",
+      "key": "v-6036c838",
+      "path": "/tag/cdprojektred/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "qdm Tag"
+      },
+      "regularPath": "/tag/qdm/",
+      "key": "v-322f4f42",
+      "path": "/tag/qdm/"
     },
     {
       "frontmatter": {
@@ -598,20 +684,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "bloodnight Tag"
+      },
+      "regularPath": "/tag/bloodnight/",
+      "key": "v-6d69b8a7",
+      "path": "/tag/bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "crossbow:bloodnight Tag"
+      },
+      "regularPath": "/tag/crossbow:bloodnight/",
+      "key": "v-0a46594b",
+      "path": "/tag/crossbow:bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "hashiriyadrifter Tag"
       },
       "regularPath": "/tag/hashiriyadrifter/",
       "key": "v-5e540089",
       "path": "/tag/hashiriyadrifter/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "qdm Tag"
-      },
-      "regularPath": "/tag/qdm/",
-      "key": "v-322f4f42",
-      "path": "/tag/qdm/"
     },
     {
       "frontmatter": {
@@ -652,51 +747,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "bloodnight Tag"
-      },
-      "regularPath": "/tag/bloodnight/",
-      "key": "v-6d69b8a7",
-      "path": "/tag/bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "crossbow:bloodnight Tag"
-      },
-      "regularPath": "/tag/crossbow:bloodnight/",
-      "key": "v-0a46594b",
-      "path": "/tag/crossbow:bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
-      },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "cdprojektred Tag"
-      },
-      "regularPath": "/tag/cdprojektred/",
-      "key": "v-6036c838",
-      "path": "/tag/cdprojektred/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "análise Tag"
       },
       "regularPath": "/tag/an%C3%A1lise/",
@@ -724,6 +774,24 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "spaceavengerempireofnexx Tag"
+      },
+      "regularPath": "/tag/spaceavengerempireofnexx/",
+      "key": "v-75e032f3",
+      "path": "/tag/spaceavengerempireofnexx/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "indiegame Tag"
+      },
+      "regularPath": "/tag/indiegame/",
+      "key": "v-0e88a44c",
+      "path": "/tag/indiegame/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "stream Tag"
       },
       "regularPath": "/tag/stream/",
@@ -747,15 +815,6 @@ export const siteData = {
       "regularPath": "/tag/syntherapy/",
       "key": "v-1fa16278",
       "path": "/tag/syntherapy/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "indiegame Tag"
-      },
-      "regularPath": "/tag/indiegame/",
-      "key": "v-0e88a44c",
-      "path": "/tag/indiegame/"
     }
   ],
   "themeConfig": {
