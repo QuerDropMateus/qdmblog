@@ -3,51 +3,13 @@
  */
 export default {
   "tag": {
-    "noticia": {
-      "key": "noticia",
-      "scope": "tag",
-      "path": "/tag/noticia/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "Cyberpunk2077": {
-      "key": "Cyberpunk2077",
-      "scope": "tag",
-      "path": "/tag/Cyberpunk2077/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "cdprojektred": {
-      "key": "cdprojektred",
-      "scope": "tag",
-      "path": "/tag/cdprojektred/",
-      "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "qdm": {
-      "key": "qdm",
-      "scope": "tag",
-      "path": "/tag/qdm/",
-      "pageKeys": [
-        "v-0aab0553",
-        "v-e4ff71d2",
-        "v-607c7c17",
-        "v-2f85d017",
-        "v-732d7fd2",
-        "v-819084e6",
-        "v-0c2b5b21",
-        "v-3d1a8dd1"
-      ]
-    },
     "game": {
       "key": "game",
       "scope": "tag",
       "path": "/tag/game/",
       "pageKeys": [
         "v-e4ff71d2",
+        "v-3b944177",
         "v-607c7c17",
         "v-819084e6",
         "v-0c2b5b21",
@@ -60,9 +22,10 @@ export default {
       "path": "/tag/review/",
       "pageKeys": [
         "v-e4ff71d2",
+        "v-3b944177",
         "v-607c7c17",
-        "v-732d7fd2",
         "v-0c2b5b21",
+        "v-732d7fd2",
         "v-3d1a8dd1"
       ]
     },
@@ -82,12 +45,38 @@ export default {
         "v-e4ff71d2"
       ]
     },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
+    "qdm": {
+      "key": "qdm",
       "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
+      "path": "/tag/qdm/",
       "pageKeys": [
-        "v-607c7c17"
+        "v-e4ff71d2",
+        "v-3b944177",
+        "v-0aab0553",
+        "v-607c7c17",
+        "v-2f85d017",
+        "v-819084e6",
+        "v-0c2b5b21",
+        "v-732d7fd2",
+        "v-3d1a8dd1"
+      ]
+    },
+    "dreadstar": {
+      "key": "dreadstar",
+      "scope": "tag",
+      "path": "/tag/dreadstar/",
+      "pageKeys": [
+        "v-3b944177"
+      ]
+    },
+    "indiegame": {
+      "key": "indiegame",
+      "scope": "tag",
+      "path": "/tag/indiegame/",
+      "pageKeys": [
+        "v-3b944177",
+        "v-732d7fd2",
+        "v-3d1a8dd1"
       ]
     },
     "Microsoft": {
@@ -122,6 +111,38 @@ export default {
         "v-416b0712"
       ]
     },
+    "noticia": {
+      "key": "noticia",
+      "scope": "tag",
+      "path": "/tag/noticia/",
+      "pageKeys": [
+        "v-0aab0553"
+      ]
+    },
+    "Cyberpunk2077": {
+      "key": "Cyberpunk2077",
+      "scope": "tag",
+      "path": "/tag/Cyberpunk2077/",
+      "pageKeys": [
+        "v-0aab0553"
+      ]
+    },
+    "cdprojektred": {
+      "key": "cdprojektred",
+      "scope": "tag",
+      "path": "/tag/cdprojektred/",
+      "pageKeys": [
+        "v-0aab0553"
+      ]
+    },
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriyadrifter/",
+      "pageKeys": [
+        "v-607c7c17"
+      ]
+    },
     "análise": {
       "key": "análise",
       "scope": "tag",
@@ -146,23 +167,6 @@ export default {
         "v-2f85d017"
       ]
     },
-    "spaceavengerempireofnexx": {
-      "key": "spaceavengerempireofnexx",
-      "scope": "tag",
-      "path": "/tag/spaceavengerempireofnexx/",
-      "pageKeys": [
-        "v-732d7fd2"
-      ]
-    },
-    "indiegame": {
-      "key": "indiegame",
-      "scope": "tag",
-      "path": "/tag/indiegame/",
-      "pageKeys": [
-        "v-732d7fd2",
-        "v-3d1a8dd1"
-      ]
-    },
     "stream": {
       "key": "stream",
       "scope": "tag",
@@ -177,6 +181,14 @@ export default {
       "path": "/tag/sonicforces/",
       "pageKeys": [
         "v-0c2b5b21"
+      ]
+    },
+    "spaceavengerempireofnexx": {
+      "key": "spaceavengerempireofnexx",
+      "scope": "tag",
+      "path": "/tag/spaceavengerempireofnexx/",
+      "pageKeys": [
+        "v-732d7fd2"
       ]
     },
     "syntherapy": {

@@ -9,22 +9,6 @@ import GlobalLayout from "/home/suh/Documents/Github/qdmblog/layouts/GlobalLayou
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-0aab0553",
-    path: "/2020/10/28/cyberpunk-2077-adiado/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
-    },
-  },
-  {
-    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
-    path: "/_posts/cyberpunk-2077-adiado.html",
-    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
-  },
-  {
     name: "v-e4ff71d2",
     path: "/2020/10/20/crossbow-bloodnight-review/",
     component: GlobalLayout,
@@ -41,20 +25,20 @@ export const routes = [
     redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    name: "v-607c7c17",
-    path: "/2020/10/01/hashiriya-drifter-review/",
+    name: "v-3b944177",
+    path: "/2021/01/05/dreadstar-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-607c7c17").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-3b944177").then(next)
     },
   },
   {
-    path: "/2020/10/01/hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
+    path: "/2021/01/05/dreadstar-review/index.html",
+    redirect: "/2021/01/05/dreadstar-review/"
   },
   {
-    path: "/_posts/hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
+    path: "/_posts/dreadstar-review.html",
+    redirect: "/2021/01/05/dreadstar-review/"
   },
   {
     name: "v-416b0712",
@@ -73,6 +57,38 @@ export const routes = [
     redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
+    name: "v-0aab0553",
+    path: "/2020/10/28/cyberpunk-2077-adiado/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-0aab0553").then(next)
+    },
+  },
+  {
+    path: "/2020/10/28/cyberpunk-2077-adiado/index.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    path: "/_posts/cyberpunk-2077-adiado.html",
+    redirect: "/2020/10/28/cyberpunk-2077-adiado/"
+  },
+  {
+    name: "v-607c7c17",
+    path: "/2020/10/01/hashiriya-drifter-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-607c7c17").then(next)
+    },
+  },
+  {
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
+  },
+  {
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
+  },
+  {
     name: "v-2f85d017",
     path: "/2020/12/08/not-for-broadcast-review/",
     component: GlobalLayout,
@@ -87,22 +103,6 @@ export const routes = [
   {
     path: "/_posts/not-for-broadcast-review.html",
     redirect: "/2020/12/08/not-for-broadcast-review/"
-  },
-  {
-    name: "v-732d7fd2",
-    path: "/2020/12/22/space-avangrs-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-732d7fd2").then(next)
-    },
-  },
-  {
-    path: "/2020/12/22/space-avangrs-review/index.html",
-    redirect: "/2020/12/22/space-avangrs-review/"
-  },
-  {
-    path: "/_posts/space-avangrs-review.html",
-    redirect: "/2020/12/22/space-avangrs-review/"
   },
   {
     name: "v-819084e6",
@@ -137,12 +137,20 @@ export const routes = [
     redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
-    name: "v-2a1d0ad7",
-    path: "/about.html",
+    name: "v-732d7fd2",
+    path: "/2020/12/22/space-avangrs-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-732d7fd2").then(next)
     },
+  },
+  {
+    path: "/2020/12/22/space-avangrs-review/index.html",
+    redirect: "/2020/12/22/space-avangrs-review/"
+  },
+  {
+    path: "/_posts/space-avangrs-review.html",
+    redirect: "/2020/12/22/space-avangrs-review/"
   },
   {
     name: "v-3d1a8dd1",
@@ -159,6 +167,14 @@ export const routes = [
   {
     path: "/_posts/syntherapy-review.html",
     redirect: "/2020/10/30/syntherapy-review/"
+  },
+  {
+    name: "v-2a1d0ad7",
+    path: "/about.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
+    },
   },
   {
     name: "v-b2754d56",
@@ -185,58 +201,6 @@ export const routes = [
   {
     path: "/tag/index.html",
     redirect: "/tag/"
-  },
-  {
-    name: "v-2dc9ec74",
-    path: "/tag/noticia/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
-    },
-    meta: {"pid":"tag","id":"noticia"}
-  },
-  {
-    path: "/tag/noticia/index.html",
-    redirect: "/tag/noticia/"
-  },
-  {
-    name: "v-32b973c0",
-    path: "/tag/Cyberpunk2077/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
-    },
-    meta: {"pid":"tag","id":"Cyberpunk2077"}
-  },
-  {
-    path: "/tag/Cyberpunk2077/index.html",
-    redirect: "/tag/Cyberpunk2077/"
-  },
-  {
-    name: "v-6036c838",
-    path: "/tag/cdprojektred/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
-    },
-    meta: {"pid":"tag","id":"cdprojektred"}
-  },
-  {
-    path: "/tag/cdprojektred/index.html",
-    redirect: "/tag/cdprojektred/"
-  },
-  {
-    name: "v-322f4f42",
-    path: "/tag/qdm/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
-    },
-    meta: {"pid":"tag","id":"qdm"}
-  },
-  {
-    path: "/tag/qdm/index.html",
-    redirect: "/tag/qdm/"
   },
   {
     name: "v-14d71bda",
@@ -291,17 +255,43 @@ export const routes = [
     redirect: "/tag/crossbow:bloodnight/"
   },
   {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
+    name: "v-322f4f42",
+    path: "/tag/qdm/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
     },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
+    meta: {"pid":"tag","id":"qdm"}
   },
   {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
+    path: "/tag/qdm/index.html",
+    redirect: "/tag/qdm/"
+  },
+  {
+    name: "v-59d7368d",
+    path: "/tag/dreadstar/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-59d7368d").then(next)
+    },
+    meta: {"pid":"tag","id":"dreadstar"}
+  },
+  {
+    path: "/tag/dreadstar/index.html",
+    redirect: "/tag/dreadstar/"
+  },
+  {
+    name: "v-0e88a44c",
+    path: "/tag/indiegame/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0e88a44c").then(next)
+    },
+    meta: {"pid":"tag","id":"indiegame"}
+  },
+  {
+    path: "/tag/indiegame/index.html",
+    redirect: "/tag/indiegame/"
   },
   {
     name: "v-11be516a",
@@ -356,6 +346,58 @@ export const routes = [
     redirect: "/tag/notícia/"
   },
   {
+    name: "v-2dc9ec74",
+    path: "/tag/noticia/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-2dc9ec74").then(next)
+    },
+    meta: {"pid":"tag","id":"noticia"}
+  },
+  {
+    path: "/tag/noticia/index.html",
+    redirect: "/tag/noticia/"
+  },
+  {
+    name: "v-32b973c0",
+    path: "/tag/Cyberpunk2077/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-32b973c0").then(next)
+    },
+    meta: {"pid":"tag","id":"Cyberpunk2077"}
+  },
+  {
+    path: "/tag/Cyberpunk2077/index.html",
+    redirect: "/tag/Cyberpunk2077/"
+  },
+  {
+    name: "v-6036c838",
+    path: "/tag/cdprojektred/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6036c838").then(next)
+    },
+    meta: {"pid":"tag","id":"cdprojektred"}
+  },
+  {
+    path: "/tag/cdprojektred/index.html",
+    redirect: "/tag/cdprojektred/"
+  },
+  {
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
+  },
+  {
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
+  },
+  {
     name: "v-33c9bd29",
     path: "/tag/análise/",
     component: GlobalLayout,
@@ -395,32 +437,6 @@ export const routes = [
     redirect: "/tag/nfb/"
   },
   {
-    name: "v-75e032f3",
-    path: "/tag/spaceavengerempireofnexx/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-75e032f3").then(next)
-    },
-    meta: {"pid":"tag","id":"spaceavengerempireofnexx"}
-  },
-  {
-    path: "/tag/spaceavengerempireofnexx/index.html",
-    redirect: "/tag/spaceavengerempireofnexx/"
-  },
-  {
-    name: "v-0e88a44c",
-    path: "/tag/indiegame/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0e88a44c").then(next)
-    },
-    meta: {"pid":"tag","id":"indiegame"}
-  },
-  {
-    path: "/tag/indiegame/index.html",
-    redirect: "/tag/indiegame/"
-  },
-  {
     name: "v-7dbe52c5",
     path: "/tag/stream/",
     component: GlobalLayout,
@@ -447,6 +463,19 @@ export const routes = [
     redirect: "/tag/sonicforces/"
   },
   {
+    name: "v-75e032f3",
+    path: "/tag/spaceavengerempireofnexx/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-75e032f3").then(next)
+    },
+    meta: {"pid":"tag","id":"spaceavengerempireofnexx"}
+  },
+  {
+    path: "/tag/spaceavengerempireofnexx/index.html",
+    redirect: "/tag/spaceavengerempireofnexx/"
+  },
+  {
     name: "v-1fa16278",
     path: "/tag/syntherapy/",
     component: GlobalLayout,
@@ -458,6 +487,19 @@ export const routes = [
   {
     path: "/tag/syntherapy/index.html",
     redirect: "/tag/syntherapy/"
+  },
+  {
+    name: "v-8fdafa70",
+    path: "/page/2/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-8fdafa70").then(next)
+    },
+    meta: {"pid":"blog","id":"blog"}
+  },
+  {
+    path: "/page/2/index.html",
+    redirect: "/page/2/"
   },
   {
     path: '*',

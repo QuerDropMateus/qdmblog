@@ -90,50 +90,6 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Cyberpunk 2077 ADIADO",
-      "frontmatter": {
-        "title": "Cyberpunk 2077 ADIADO",
-        "date": "2020-10-28T00:00:00.000Z",
-        "tags": [
-          "noticia",
-          "Cyberpunk2077",
-          "cdprojektred",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
-        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
-          }
-        ],
-        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
-      "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-0aab0553",
-      "path": "/2020/10/28/cyberpunk-2077-adiado/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "A Notícia",
-          "slug": "a-noticia"
-        }
-      ],
-      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "title": "Crossbow Bloodnight",
       "frontmatter": {
         "title": "Crossbow Bloodnight",
@@ -189,6 +145,151 @@ export const siteData = {
         }
       ],
       "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "DreadStar The Quest for Revenge",
+      "frontmatter": {
+        "title": "DreadStar The Quest for Revenge",
+        "date": "2021-01-05T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          null,
+          "dreadstar",
+          "indiegame",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://i.imgur.com/UoTiXSI.jpg",
+        "summary": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/dreadstar-review.html",
+      "relativePath": "_posts/dreadstar-review.md",
+      "key": "v-3b944177",
+      "path": "/2021/01/05/dreadstar-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "O game",
+          "slug": "o-game"
+        },
+        {
+          "level": 2,
+          "title": "Mecânica",
+          "slug": "mecanica"
+        },
+        {
+          "level": 2,
+          "title": "Minha Opinião",
+          "slug": "minha-opiniao"
+        }
+      ],
+      "summary": "DreadStar é um jogo simplesmente fantástico, pegue um caldeirão e junte um pouco de nostalgia, muito tiro no espaço e acrescente umas pitadas de rpg e pronto. A simplicidade gritante deu como resultad ...",
+      "id": "blog",
+      "pid": "blog"
+    },
+    {
+      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "frontmatter": {
+        "title": "Microsoft & Bethesda: a era da Sony chegou?",
+        "date": "2020-10-22T00:00:00.000Z",
+        "tags": [
+          "Microsoft",
+          "Bethesda",
+          "Zeni Max",
+          "notícia"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
+        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
+          }
+        ],
+        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
+      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
+      "key": "v-416b0712",
+      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Por que comprar a Zeni Max e outros estúdios?",
+          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+        },
+        {
+          "level": 2,
+          "title": "E qual foi o pulo do gato?",
+          "slug": "e-qual-foi-o-pulo-do-gato"
+        },
+        {
+          "level": 2,
+          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
+          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+        }
+      ],
+      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
+      "title": "Cyberpunk 2077 ADIADO",
+      "frontmatter": {
+        "title": "Cyberpunk 2077 ADIADO",
+        "date": "2020-10-28T00:00:00.000Z",
+        "tags": [
+          "noticia",
+          "Cyberpunk2077",
+          "cdprojektred",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
+        "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg"
+          }
+        ],
+        "description": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/cyberpunk-2077-adiado.html",
+      "relativePath": "_posts/cyberpunk-2077-adiado.md",
+      "key": "v-0aab0553",
+      "path": "/2020/10/28/cyberpunk-2077-adiado/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "A Notícia",
+          "slug": "a-noticia"
+        }
+      ],
+      "summary": "Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto. Um dos jogos mais aguardados do ano, Cyberpunk 2077, foi novamente adiado - a terceira vez - e dessa vez tem a dat ...",
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "08/12/2020 17:51:31"
@@ -263,60 +364,6 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "Microsoft & Bethesda: a era da Sony chegou?",
-      "frontmatter": {
-        "title": "Microsoft & Bethesda: a era da Sony chegou?",
-        "date": "2020-10-22T00:00:00.000Z",
-        "tags": [
-          "Microsoft",
-          "Bethesda",
-          "Zeni Max",
-          "notícia"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
-        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
-          }
-        ],
-        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
-      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
-      "key": "v-416b0712",
-      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Por que comprar a Zeni Max e outros estúdios?",
-          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
-        },
-        {
-          "level": 2,
-          "title": "E qual foi o pulo do gato?",
-          "slug": "e-qual-foi-o-pulo-do-gato"
-        },
-        {
-          "level": 2,
-          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
-          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
-        }
-      ],
-      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "title": "Not for Broadcast",
       "frontmatter": {
         "title": "Not for Broadcast",
@@ -369,56 +416,6 @@ export const siteData = {
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "08/12/2020 18:37:08"
-    },
-    {
-      "title": "Space Avenger Empire of Nexx",
-      "frontmatter": {
-        "title": "Space Avenger Empire of Nexx",
-        "date": "2020-12-22T00:00:00.000Z",
-        "tags": [
-          "spaceavengerempireofnexx",
-          "review",
-          "indiegame",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/647650/capsule_616x353.jpg",
-        "summary": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/space-avangrs-review.html",
-      "relativePath": "_posts/space-avangrs-review.md",
-      "key": "v-732d7fd2",
-      "path": "/2020/12/22/space-avangrs-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Mecânica",
-          "slug": "mecanica"
-        },
-        {
-          "level": 2,
-          "title": "Gráficos",
-          "slug": "graficos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
-        }
-      ],
-      "summary": "Space Avenger Empire of Nexx é um jogo para aqueles que buscam reviver antigas lembranças dos famosos jogos em que você só precisa controlar sua espaço-nave e sentar tiro nos inimigos! O jogo resgata ...",
-      "id": "blog",
-      "pid": "blog"
     },
     {
       "title": "Bem vindos!",
@@ -538,23 +535,55 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "QDM - Quer drop, Mateus?",
+      "title": "Space Avenger Empire of Nexx",
       "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
+        "title": "Space Avenger Empire of Nexx",
+        "date": "2020-12-22T00:00:00.000Z",
+        "tags": [
+          "spaceavengerempireofnexx",
+          "review",
+          "indiegame",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/647650/capsule_616x353.jpg",
+        "summary": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/about.html",
-      "relativePath": "about.md",
-      "key": "v-2a1d0ad7",
-      "path": "/about.html",
+      "regularPath": "/_posts/space-avangrs-review.html",
+      "relativePath": "_posts/space-avangrs-review.md",
+      "key": "v-732d7fd2",
+      "path": "/2020/12/22/space-avangrs-review/",
       "headers": [
         {
-          "level": 3,
-          "title": "QDM - Quer drop, Mateus?",
-          "slug": "qdm-quer-drop-mateus"
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Mecânica",
+          "slug": "mecanica"
+        },
+        {
+          "level": 2,
+          "title": "Gráficos",
+          "slug": "graficos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
         }
       ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
-      "lastUpdated": "12/8/2020, 6:26:34 PM"
+      "summary": "Space Avenger Empire of Nexx é um jogo para aqueles que buscam reviver antigas lembranças dos famosos jogos em que você só precisa controlar sua espaço-nave e sentar tiro nos inimigos! O jogo resgata ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "22/12/2020 21:24:45"
     },
     {
       "title": "Syntherapy",
@@ -610,6 +639,25 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
+      "title": "QDM - Quer drop, Mateus?",
+      "frontmatter": {
+        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
+      },
+      "regularPath": "/about.html",
+      "relativePath": "about.md",
+      "key": "v-2a1d0ad7",
+      "path": "/about.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "QDM - Quer drop, Mateus?",
+          "slug": "qdm-quer-drop-mateus"
+        }
+      ],
+      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
+      "lastUpdated": "12/8/2020, 6:26:34 PM"
+    },
+    {
       "frontmatter": {
         "layout": "Layout",
         "title": "Blog"
@@ -626,42 +674,6 @@ export const siteData = {
       "regularPath": "/tag/",
       "key": "v-b1564aac",
       "path": "/tag/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
-      },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "cdprojektred Tag"
-      },
-      "regularPath": "/tag/cdprojektred/",
-      "key": "v-6036c838",
-      "path": "/tag/cdprojektred/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "qdm Tag"
-      },
-      "regularPath": "/tag/qdm/",
-      "key": "v-322f4f42",
-      "path": "/tag/qdm/"
     },
     {
       "frontmatter": {
@@ -702,11 +714,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
+        "title": "qdm Tag"
       },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
+      "regularPath": "/tag/qdm/",
+      "key": "v-322f4f42",
+      "path": "/tag/qdm/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "dreadstar Tag"
+      },
+      "regularPath": "/tag/dreadstar/",
+      "key": "v-59d7368d",
+      "path": "/tag/dreadstar/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "indiegame Tag"
+      },
+      "regularPath": "/tag/indiegame/",
+      "key": "v-0e88a44c",
+      "path": "/tag/indiegame/"
     },
     {
       "frontmatter": {
@@ -747,6 +777,42 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "noticia Tag"
+      },
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Cyberpunk2077 Tag"
+      },
+      "regularPath": "/tag/Cyberpunk2077/",
+      "key": "v-32b973c0",
+      "path": "/tag/Cyberpunk2077/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "cdprojektred Tag"
+      },
+      "regularPath": "/tag/cdprojektred/",
+      "key": "v-6036c838",
+      "path": "/tag/cdprojektred/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "hashiriyadrifter Tag"
+      },
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "análise Tag"
       },
       "regularPath": "/tag/an%C3%A1lise/",
@@ -774,24 +840,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "spaceavengerempireofnexx Tag"
-      },
-      "regularPath": "/tag/spaceavengerempireofnexx/",
-      "key": "v-75e032f3",
-      "path": "/tag/spaceavengerempireofnexx/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "indiegame Tag"
-      },
-      "regularPath": "/tag/indiegame/",
-      "key": "v-0e88a44c",
-      "path": "/tag/indiegame/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "stream Tag"
       },
       "regularPath": "/tag/stream/",
@@ -810,11 +858,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "spaceavengerempireofnexx Tag"
+      },
+      "regularPath": "/tag/spaceavengerempireofnexx/",
+      "key": "v-75e032f3",
+      "path": "/tag/spaceavengerempireofnexx/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "syntherapy Tag"
       },
       "regularPath": "/tag/syntherapy/",
       "key": "v-1fa16278",
       "path": "/tag/syntherapy/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Layout",
+        "title": "Page 2 | Blog"
+      },
+      "regularPath": "/page/2/",
+      "key": "v-8fdafa70",
+      "path": "/page/2/"
     }
   ],
   "themeConfig": {
