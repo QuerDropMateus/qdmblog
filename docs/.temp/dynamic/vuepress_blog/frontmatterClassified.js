@@ -3,12 +3,17 @@
  */
 export default {
   "tag": {
-    "80's overdrive": {
-      "key": "80's overdrive",
+    "game": {
+      "key": "game",
       "scope": "tag",
-      "path": "/tag/80's overdrive/",
+      "path": "/tag/game/",
       "pageKeys": [
-        "v-7a573b77"
+        "v-e4ff71d2",
+        "v-3b944177",
+        "v-607c7c17",
+        "v-819084e6",
+        "v-0c2b5b21",
+        "v-3d1a8dd1"
       ]
     },
     "review": {
@@ -16,14 +21,56 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
+        "v-e4ff71d2",
         "v-7a573b77",
         "v-3b944177",
-        "v-e4ff71d2",
-        "v-fe373992",
-        "v-732d7fd2",
         "v-607c7c17",
-        "v-3d1a8dd1",
-        "v-0c2b5b21"
+        "v-fe373992",
+        "v-0c2b5b21",
+        "v-732d7fd2",
+        "v-3d1a8dd1"
+      ]
+    },
+    "bloodnight": {
+      "key": "bloodnight",
+      "scope": "tag",
+      "path": "/tag/bloodnight/",
+      "pageKeys": [
+        "v-e4ff71d2"
+      ]
+    },
+    "crossbow:bloodnight": {
+      "key": "crossbow:bloodnight",
+      "scope": "tag",
+      "path": "/tag/crossbow:bloodnight/",
+      "pageKeys": [
+        "v-e4ff71d2"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-e4ff71d2",
+        "v-7a573b77",
+        "v-0aab0553",
+        "v-3b944177",
+        "v-607c7c17",
+        "v-2f85d017",
+        "v-819084e6",
+        "v-fe373992",
+        "v-0c2b5b21",
+        "v-732d7fd2",
+        "v-3d1a8dd1"
+      ]
+    },
+    "80's overdrive": {
+      "key": "80's overdrive",
+      "scope": "tag",
+      "path": "/tag/80's overdrive/",
+      "pageKeys": [
+        "v-7a573b77"
       ]
     },
     "indiegame": {
@@ -36,24 +83,6 @@ export default {
         "v-fe373992",
         "v-732d7fd2",
         "v-3d1a8dd1"
-      ]
-    },
-    "qdm": {
-      "key": "qdm",
-      "scope": "tag",
-      "path": "/tag/qdm/",
-      "pageKeys": [
-        "v-7a573b77",
-        "v-0aab0553",
-        "v-3b944177",
-        "v-e4ff71d2",
-        "v-2f85d017",
-        "v-819084e6",
-        "v-fe373992",
-        "v-732d7fd2",
-        "v-607c7c17",
-        "v-3d1a8dd1",
-        "v-0c2b5b21"
       ]
     },
     "noticia": {
@@ -80,19 +109,6 @@ export default {
         "v-0aab0553"
       ]
     },
-    "game": {
-      "key": "game",
-      "scope": "tag",
-      "path": "/tag/game/",
-      "pageKeys": [
-        "v-3b944177",
-        "v-e4ff71d2",
-        "v-819084e6",
-        "v-607c7c17",
-        "v-3d1a8dd1",
-        "v-0c2b5b21"
-      ]
-    },
     "dreadstar": {
       "key": "dreadstar",
       "scope": "tag",
@@ -101,20 +117,12 @@ export default {
         "v-3b944177"
       ]
     },
-    "bloodnight": {
-      "key": "bloodnight",
+    "hashiriyadrifter": {
+      "key": "hashiriyadrifter",
       "scope": "tag",
-      "path": "/tag/bloodnight/",
+      "path": "/tag/hashiriyadrifter/",
       "pageKeys": [
-        "v-e4ff71d2"
-      ]
-    },
-    "crossbow:bloodnight": {
-      "key": "crossbow:bloodnight",
-      "scope": "tag",
-      "path": "/tag/crossbow:bloodnight/",
-      "pageKeys": [
-        "v-e4ff71d2"
+        "v-607c7c17"
       ]
     },
     "Microsoft": {
@@ -197,6 +205,14 @@ export default {
         "v-fe373992"
       ]
     },
+    "sonicforces": {
+      "key": "sonicforces",
+      "scope": "tag",
+      "path": "/tag/sonicforces/",
+      "pageKeys": [
+        "v-0c2b5b21"
+      ]
+    },
     "spaceavengerempireofnexx": {
       "key": "spaceavengerempireofnexx",
       "scope": "tag",
@@ -205,28 +221,12 @@ export default {
         "v-732d7fd2"
       ]
     },
-    "hashiriyadrifter": {
-      "key": "hashiriyadrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriyadrifter/",
-      "pageKeys": [
-        "v-607c7c17"
-      ]
-    },
     "syntherapy": {
       "key": "syntherapy",
       "scope": "tag",
       "path": "/tag/syntherapy/",
       "pageKeys": [
         "v-3d1a8dd1"
-      ]
-    },
-    "sonicforces": {
-      "key": "sonicforces",
-      "scope": "tag",
-      "path": "/tag/sonicforces/",
-      "pageKeys": [
-        "v-0c2b5b21"
       ]
     }
   }

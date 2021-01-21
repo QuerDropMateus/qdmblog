@@ -9,6 +9,22 @@ import GlobalLayout from "/home/suh/Documents/Github/qdmblog/layouts/GlobalLayou
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
+    name: "v-e4ff71d2",
+    path: "/2020/10/20/crossbow-bloodnight-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-e4ff71d2").then(next)
+    },
+  },
+  {
+    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
+    path: "/_posts/crossbow-bloodnight-review.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+  },
+  {
     name: "v-7a573b77",
     path: "/2021/01/18/_80s-overdrive-review/",
     component: GlobalLayout,
@@ -57,20 +73,20 @@ export const routes = [
     redirect: "/2021/01/05/dreadstar-review/"
   },
   {
-    name: "v-e4ff71d2",
-    path: "/2020/10/20/crossbow-bloodnight-review/",
+    name: "v-607c7c17",
+    path: "/2020/10/01/hashiriya-drifter-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-e4ff71d2").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-607c7c17").then(next)
     },
   },
   {
-    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
-    path: "/_posts/crossbow-bloodnight-review.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
     name: "v-416b0712",
@@ -137,6 +153,22 @@ export const routes = [
     redirect: "/2021/01/20/secret-of-harrow-manor-2/"
   },
   {
+    name: "v-0c2b5b21",
+    path: "/2020/10/08/sonic-forces-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-0c2b5b21").then(next)
+    },
+  },
+  {
+    path: "/2020/10/08/sonic-forces-review/index.html",
+    redirect: "/2020/10/08/sonic-forces-review/"
+  },
+  {
+    path: "/_posts/sonic-forces-review.html",
+    redirect: "/2020/10/08/sonic-forces-review/"
+  },
+  {
     name: "v-732d7fd2",
     path: "/2020/12/22/space-avangrs-review/",
     component: GlobalLayout,
@@ -151,22 +183,6 @@ export const routes = [
   {
     path: "/_posts/space-avangrs-review.html",
     redirect: "/2020/12/22/space-avangrs-review/"
-  },
-  {
-    name: "v-607c7c17",
-    path: "/2020/10/01/hashiriya-drifter-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-607c7c17").then(next)
-    },
-  },
-  {
-    path: "/2020/10/01/hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
-  },
-  {
-    path: "/_posts/hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
     name: "v-3d1a8dd1",
@@ -191,22 +207,6 @@ export const routes = [
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-2a1d0ad7").then(next)
     },
-  },
-  {
-    name: "v-0c2b5b21",
-    path: "/2020/10/08/sonic-forces-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-0c2b5b21").then(next)
-    },
-  },
-  {
-    path: "/2020/10/08/sonic-forces-review/index.html",
-    redirect: "/2020/10/08/sonic-forces-review/"
-  },
-  {
-    path: "/_posts/sonic-forces-review.html",
-    redirect: "/2020/10/08/sonic-forces-review/"
   },
   {
     name: "v-b2754d56",
@@ -235,17 +235,17 @@ export const routes = [
     redirect: "/tag/"
   },
   {
-    name: "v-ace7bbe4",
-    path: "/tag/80's overdrive/",
+    name: "v-14d71bda",
+    path: "/tag/game/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-ace7bbe4").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
     },
-    meta: {"pid":"tag","id":"80's overdrive"}
+    meta: {"pid":"tag","id":"game"}
   },
   {
-    path: "/tag/80's overdrive/index.html",
-    redirect: "/tag/80's overdrive/"
+    path: "/tag/game/index.html",
+    redirect: "/tag/game/"
   },
   {
     name: "v-2f79a5ed",
@@ -261,17 +261,30 @@ export const routes = [
     redirect: "/tag/review/"
   },
   {
-    name: "v-0e88a44c",
-    path: "/tag/indiegame/",
+    name: "v-6d69b8a7",
+    path: "/tag/bloodnight/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0e88a44c").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
     },
-    meta: {"pid":"tag","id":"indiegame"}
+    meta: {"pid":"tag","id":"bloodnight"}
   },
   {
-    path: "/tag/indiegame/index.html",
-    redirect: "/tag/indiegame/"
+    path: "/tag/bloodnight/index.html",
+    redirect: "/tag/bloodnight/"
+  },
+  {
+    name: "v-0a46594b",
+    path: "/tag/crossbow:bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
+    },
+    meta: {"pid":"tag","id":"crossbow:bloodnight"}
+  },
+  {
+    path: "/tag/crossbow:bloodnight/index.html",
+    redirect: "/tag/crossbow:bloodnight/"
   },
   {
     name: "v-322f4f42",
@@ -285,6 +298,32 @@ export const routes = [
   {
     path: "/tag/qdm/index.html",
     redirect: "/tag/qdm/"
+  },
+  {
+    name: "v-ace7bbe4",
+    path: "/tag/80's overdrive/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-ace7bbe4").then(next)
+    },
+    meta: {"pid":"tag","id":"80's overdrive"}
+  },
+  {
+    path: "/tag/80's overdrive/index.html",
+    redirect: "/tag/80's overdrive/"
+  },
+  {
+    name: "v-0e88a44c",
+    path: "/tag/indiegame/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0e88a44c").then(next)
+    },
+    meta: {"pid":"tag","id":"indiegame"}
+  },
+  {
+    path: "/tag/indiegame/index.html",
+    redirect: "/tag/indiegame/"
   },
   {
     name: "v-2dc9ec74",
@@ -326,19 +365,6 @@ export const routes = [
     redirect: "/tag/cdprojektred/"
   },
   {
-    name: "v-14d71bda",
-    path: "/tag/game/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
-    },
-    meta: {"pid":"tag","id":"game"}
-  },
-  {
-    path: "/tag/game/index.html",
-    redirect: "/tag/game/"
-  },
-  {
     name: "v-59d7368d",
     path: "/tag/dreadstar/",
     component: GlobalLayout,
@@ -352,30 +378,17 @@ export const routes = [
     redirect: "/tag/dreadstar/"
   },
   {
-    name: "v-6d69b8a7",
-    path: "/tag/bloodnight/",
+    name: "v-5e540089",
+    path: "/tag/hashiriyadrifter/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
     },
-    meta: {"pid":"tag","id":"bloodnight"}
+    meta: {"pid":"tag","id":"hashiriyadrifter"}
   },
   {
-    path: "/tag/bloodnight/index.html",
-    redirect: "/tag/bloodnight/"
-  },
-  {
-    name: "v-0a46594b",
-    path: "/tag/crossbow:bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0a46594b").then(next)
-    },
-    meta: {"pid":"tag","id":"crossbow:bloodnight"}
-  },
-  {
-    path: "/tag/crossbow:bloodnight/index.html",
-    redirect: "/tag/crossbow:bloodnight/"
+    path: "/tag/hashiriyadrifter/index.html",
+    redirect: "/tag/hashiriyadrifter/"
   },
   {
     name: "v-11be516a",
@@ -508,6 +521,19 @@ export const routes = [
     redirect: "/tag/secret of harrow manor 2/"
   },
   {
+    name: "v-0f25fe45",
+    path: "/tag/sonicforces/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
+    },
+    meta: {"pid":"tag","id":"sonicforces"}
+  },
+  {
+    path: "/tag/sonicforces/index.html",
+    redirect: "/tag/sonicforces/"
+  },
+  {
     name: "v-75e032f3",
     path: "/tag/spaceavengerempireofnexx/",
     component: GlobalLayout,
@@ -521,19 +547,6 @@ export const routes = [
     redirect: "/tag/spaceavengerempireofnexx/"
   },
   {
-    name: "v-5e540089",
-    path: "/tag/hashiriyadrifter/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5e540089").then(next)
-    },
-    meta: {"pid":"tag","id":"hashiriyadrifter"}
-  },
-  {
-    path: "/tag/hashiriyadrifter/index.html",
-    redirect: "/tag/hashiriyadrifter/"
-  },
-  {
     name: "v-1fa16278",
     path: "/tag/syntherapy/",
     component: GlobalLayout,
@@ -545,19 +558,6 @@ export const routes = [
   {
     path: "/tag/syntherapy/index.html",
     redirect: "/tag/syntherapy/"
-  },
-  {
-    name: "v-0f25fe45",
-    path: "/tag/sonicforces/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-0f25fe45").then(next)
-    },
-    meta: {"pid":"tag","id":"sonicforces"}
-  },
-  {
-    path: "/tag/sonicforces/index.html",
-    redirect: "/tag/sonicforces/"
   },
   {
     name: "v-8fdafa70",

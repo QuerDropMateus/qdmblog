@@ -90,6 +90,66 @@ export const siteData = {
   ],
   "pages": [
     {
+      "title": "Crossbow Bloodnight",
+      "frontmatter": {
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-20T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "bloodnight",
+          "crossbow:bloodnight",
+          "qdm"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
+        "summary": "Cace, morra e cace novamente!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
+          }
+        ],
+        "description": "Cace, morra e cace novamente!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-e4ff71d2",
+      "path": "/2020/10/20/crossbow-bloodnight-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
+        },
+        {
+          "level": 2,
+          "title": "Gameplay",
+          "slug": "gameplay"
+        },
+        {
+          "level": 2,
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
+        }
+      ],
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
+    },
+    {
       "title": "80's Overdrive Review",
       "frontmatter": {
         "title": "80's Overdrive Review",
@@ -133,7 +193,8 @@ export const siteData = {
       ],
       "summary": "Confesso aos senhores que logo que vi a imagem de divulgação de 80s Overdrive o coração bateu forte lembrando das boas aventuras em Policenauts. Nunca fui grande fã de jogos de corrida, mas a impecabi ...",
       "id": "blog",
-      "pid": "blog"
+      "pid": "blog",
+      "lastUpdated": "20/01/2021 22:33:32"
     },
     {
       "title": "Cyberpunk 2077 ADIADO",
@@ -228,20 +289,19 @@ export const siteData = {
       "lastUpdated": "05/01/2021 15:22:32"
     },
     {
-      "title": "Crossbow Bloodnight",
+      "title": "Hashiriya Drifter",
       "frontmatter": {
-        "title": "Crossbow Bloodnight",
-        "date": "2020-10-20T00:00:00.000Z",
+        "title": "Hashiriya Drifter",
+        "date": "2020-10-01T00:00:00.000Z",
         "tags": [
           "game",
           "review",
-          "bloodnight",
-          "crossbow:bloodnight",
+          "hashiriyadrifter",
           "qdm"
         ],
         "author": "Medici | QDM",
-        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
-        "summary": "Cace, morra e cace novamente!",
+        "featuredimg": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png",
+        "summary": "Fast and Furious drif drif!",
         "lang": "pt-BR",
         "sidebar": true,
         "meta": [
@@ -249,17 +309,17 @@ export const siteData = {
             "property": "og:image"
           },
           {
-            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
+            "content": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png"
           }
         ],
-        "description": "Cace, morra e cace novamente!",
+        "description": "Fast and Furious drif drif!",
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/crossbow-bloodnight-review.html",
-      "relativePath": "_posts/crossbow-bloodnight-review.md",
-      "key": "v-e4ff71d2",
-      "path": "/2020/10/20/crossbow-bloodnight-review/",
+      "regularPath": "/_posts/hashiriya-drifter-review.html",
+      "relativePath": "_posts/hashiriya-drifter-review.md",
+      "key": "v-607c7c17",
+      "path": "/2020/10/01/hashiriya-drifter-review/",
       "headers": [
         {
           "level": 2,
@@ -268,21 +328,31 @@ export const siteData = {
         },
         {
           "level": 2,
+          "title": "Trilha sonora",
+          "slug": "trilha-sonora"
+        },
+        {
+          "level": 2,
+          "title": "Tradução",
+          "slug": "traducao"
+        },
+        {
+          "level": 2,
+          "title": "Modos de jogo",
+          "slug": "modos-de-jogo"
+        },
+        {
+          "level": 2,
           "title": "Gameplay",
           "slug": "gameplay"
         },
         {
           "level": 2,
-          "title": "Inimigos",
-          "slug": "inimigos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
+          "title": "Preços",
+          "slug": "precos"
         }
       ],
-      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
+      "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "08/12/2020 17:51:31"
@@ -497,7 +567,77 @@ export const siteData = {
       ],
       "summary": "Secret of Harrow Manor 2 é um jogo indie desenvolvido por Brandon Smith e distribuido pela Only Human Studios. O game teve data de lançamento em 06 de Outubro de 2020 e está disponível para PC através ...",
       "id": "blog",
-      "pid": "blog"
+      "pid": "blog",
+      "lastUpdated": "20/01/2021 22:33:32"
+    },
+    {
+      "title": "SONIC FORCES",
+      "frontmatter": {
+        "title": "SONIC FORCES",
+        "date": "2020-10-08T00:00:00.000Z",
+        "tags": [
+          "game",
+          "review",
+          "sonicforces",
+          "qdm"
+        ],
+        "author": "LCArms | QDM",
+        "featuredimg": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png",
+        "summary": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png"
+          }
+        ],
+        "description": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/sonic-forces-review.html",
+      "relativePath": "_posts/sonic-forces-review.md",
+      "key": "v-0c2b5b21",
+      "path": "/2020/10/08/sonic-forces-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Conceito do Jogo",
+          "slug": "conceito-do-jogo"
+        },
+        {
+          "level": 2,
+          "title": "Gráficos",
+          "slug": "graficos"
+        },
+        {
+          "level": 2,
+          "title": "E a jogabilidade?",
+          "slug": "e-a-jogabilidade"
+        },
+        {
+          "level": 2,
+          "title": "Pontos Positivos",
+          "slug": "pontos-positivos"
+        },
+        {
+          "level": 2,
+          "title": "Pontos Negativos",
+          "slug": "pontos-negativos"
+        },
+        {
+          "level": 2,
+          "title": "Vale?",
+          "slug": "vale"
+        }
+      ],
+      "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Space Avenger Empire of Nexx",
@@ -549,75 +689,6 @@ export const siteData = {
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "22/12/2020 21:24:45"
-    },
-    {
-      "title": "Hashiriya Drifter",
-      "frontmatter": {
-        "title": "Hashiriya Drifter",
-        "date": "2020-10-01T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "hashiriyadrifter",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png",
-        "summary": "Fast and Furious drif drif!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png"
-          }
-        ],
-        "description": "Fast and Furious drif drif!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/hashiriya-drifter-review.html",
-      "relativePath": "_posts/hashiriya-drifter-review.md",
-      "key": "v-607c7c17",
-      "path": "/2020/10/01/hashiriya-drifter-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Trilha sonora",
-          "slug": "trilha-sonora"
-        },
-        {
-          "level": 2,
-          "title": "Tradução",
-          "slug": "traducao"
-        },
-        {
-          "level": 2,
-          "title": "Modos de jogo",
-          "slug": "modos-de-jogo"
-        },
-        {
-          "level": 2,
-          "title": "Gameplay",
-          "slug": "gameplay"
-        },
-        {
-          "level": 2,
-          "title": "Preços",
-          "slug": "precos"
-        }
-      ],
-      "summary": "Saudações meus caros, a review de hoje é de Hashirya Drifter, um jogo para PC e Mobile, lançado inicialmente para mobile no primeiro semestre de 2019 e esse ano para computador. Foi desenvolvido pela ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Syntherapy",
@@ -692,75 +763,6 @@ export const siteData = {
       "lastUpdated": "12/8/2020, 6:26:34 PM"
     },
     {
-      "title": "SONIC FORCES",
-      "frontmatter": {
-        "title": "SONIC FORCES",
-        "date": "2020-10-08T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "sonicforces",
-          "qdm"
-        ],
-        "author": "LCArms | QDM",
-        "featuredimg": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png",
-        "summary": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png"
-          }
-        ],
-        "description": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/sonic-forces-review.html",
-      "relativePath": "_posts/sonic-forces-review.md",
-      "key": "v-0c2b5b21",
-      "path": "/2020/10/08/sonic-forces-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Conceito do Jogo",
-          "slug": "conceito-do-jogo"
-        },
-        {
-          "level": 2,
-          "title": "Gráficos",
-          "slug": "graficos"
-        },
-        {
-          "level": 2,
-          "title": "E a jogabilidade?",
-          "slug": "e-a-jogabilidade"
-        },
-        {
-          "level": 2,
-          "title": "Pontos Positivos",
-          "slug": "pontos-positivos"
-        },
-        {
-          "level": 2,
-          "title": "Pontos Negativos",
-          "slug": "pontos-negativos"
-        },
-        {
-          "level": 2,
-          "title": "Vale?",
-          "slug": "vale"
-        }
-      ],
-      "summary": "Mais uma vez o Dr. Robotnik – ou Eggman – quer dominar o mundo e para isso trouxe diversas bugigangas. Sonic e seus amigos precisam evitar que os planos maléficos do bigodão deem certo. Mas para isso, ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "frontmatter": {
         "layout": "Layout",
         "title": "Blog"
@@ -781,11 +783,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "80's overdrive Tag"
+        "title": "game Tag"
       },
-      "regularPath": "/tag/80's%20overdrive/",
-      "key": "v-ace7bbe4",
-      "path": "/tag/80's overdrive/"
+      "regularPath": "/tag/game/",
+      "key": "v-14d71bda",
+      "path": "/tag/game/"
     },
     {
       "frontmatter": {
@@ -799,11 +801,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "indiegame Tag"
+        "title": "bloodnight Tag"
       },
-      "regularPath": "/tag/indiegame/",
-      "key": "v-0e88a44c",
-      "path": "/tag/indiegame/"
+      "regularPath": "/tag/bloodnight/",
+      "key": "v-6d69b8a7",
+      "path": "/tag/bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "crossbow:bloodnight Tag"
+      },
+      "regularPath": "/tag/crossbow:bloodnight/",
+      "key": "v-0a46594b",
+      "path": "/tag/crossbow:bloodnight/"
     },
     {
       "frontmatter": {
@@ -813,6 +824,24 @@ export const siteData = {
       "regularPath": "/tag/qdm/",
       "key": "v-322f4f42",
       "path": "/tag/qdm/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "80's overdrive Tag"
+      },
+      "regularPath": "/tag/80's%20overdrive/",
+      "key": "v-ace7bbe4",
+      "path": "/tag/80's overdrive/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "indiegame Tag"
+      },
+      "regularPath": "/tag/indiegame/",
+      "key": "v-0e88a44c",
+      "path": "/tag/indiegame/"
     },
     {
       "frontmatter": {
@@ -844,15 +873,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "game Tag"
-      },
-      "regularPath": "/tag/game/",
-      "key": "v-14d71bda",
-      "path": "/tag/game/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "dreadstar Tag"
       },
       "regularPath": "/tag/dreadstar/",
@@ -862,20 +882,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "bloodnight Tag"
+        "title": "hashiriyadrifter Tag"
       },
-      "regularPath": "/tag/bloodnight/",
-      "key": "v-6d69b8a7",
-      "path": "/tag/bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "crossbow:bloodnight Tag"
-      },
-      "regularPath": "/tag/crossbow:bloodnight/",
-      "key": "v-0a46594b",
-      "path": "/tag/crossbow:bloodnight/"
+      "regularPath": "/tag/hashiriyadrifter/",
+      "key": "v-5e540089",
+      "path": "/tag/hashiriyadrifter/"
     },
     {
       "frontmatter": {
@@ -970,6 +981,15 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
         "title": "spaceavengerempireofnexx Tag"
       },
       "regularPath": "/tag/spaceavengerempireofnexx/",
@@ -979,29 +999,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "hashiriyadrifter Tag"
-      },
-      "regularPath": "/tag/hashiriyadrifter/",
-      "key": "v-5e540089",
-      "path": "/tag/hashiriyadrifter/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "syntherapy Tag"
       },
       "regularPath": "/tag/syntherapy/",
       "key": "v-1fa16278",
       "path": "/tag/syntherapy/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "sonicforces Tag"
-      },
-      "regularPath": "/tag/sonicforces/",
-      "key": "v-0f25fe45",
-      "path": "/tag/sonicforces/"
     },
     {
       "frontmatter": {
