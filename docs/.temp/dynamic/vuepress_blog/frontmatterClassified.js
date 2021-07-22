@@ -3,16 +3,12 @@
  */
 export default {
   "tag": {
-    "game": {
-      "key": "game",
+    "80s overdrive": {
+      "key": "80s overdrive",
       "scope": "tag",
-      "path": "/tag/game/",
+      "path": "/tag/80s overdrive/",
       "pageKeys": [
-        "v-079ebe8a",
-        "v-03d85c5b",
-        "v-7164405e",
-        "v-40cc594a",
-        "v-64ec3765"
+        "v-b35bd28a"
       ]
     },
     "review": {
@@ -20,23 +16,15 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
-        "v-079ebe8a",
-        "v-03d85c5b",
         "v-b35bd28a",
-        "v-8d387cda",
-        "v-0001ba7b",
+        "v-03d85c5b",
+        "v-079ebe8a",
         "v-40cc594a",
+        "v-0001ba7b",
+        "v-8d387cda",
         "v-64ec3765",
         "v-1b37c94a",
         "v-481c2c15"
-      ]
-    },
-    "dreadstar": {
-      "key": "dreadstar",
-      "scope": "tag",
-      "path": "/tag/dreadstar/",
-      "pageKeys": [
-        "v-079ebe8a"
       ]
     },
     "indiegame": {
@@ -44,27 +32,11 @@ export default {
       "scope": "tag",
       "path": "/tag/indiegame/",
       "pageKeys": [
-        "v-079ebe8a",
         "v-b35bd28a",
+        "v-079ebe8a",
         "v-0001ba7b",
         "v-1b37c94a",
         "v-481c2c15"
-      ]
-    },
-    "bloodnight": {
-      "key": "bloodnight",
-      "scope": "tag",
-      "path": "/tag/bloodnight/",
-      "pageKeys": [
-        "v-03d85c5b"
-      ]
-    },
-    "crossbow bloodnight": {
-      "key": "crossbow bloodnight",
-      "scope": "tag",
-      "path": "/tag/crossbow bloodnight/",
-      "pageKeys": [
-        "v-03d85c5b"
       ]
     },
     "cyberpunk 2077": {
@@ -91,12 +63,97 @@ export default {
         "v-235c1f97"
       ]
     },
-    "80s overdrive": {
-      "key": "80s overdrive",
+    "game": {
+      "key": "game",
       "scope": "tag",
-      "path": "/tag/80s overdrive/",
+      "path": "/tag/game/",
       "pageKeys": [
-        "v-b35bd28a"
+        "v-03d85c5b",
+        "v-079ebe8a",
+        "v-40cc594a",
+        "v-7164405e",
+        "v-64ec3765"
+      ]
+    },
+    "bloodnight": {
+      "key": "bloodnight",
+      "scope": "tag",
+      "path": "/tag/bloodnight/",
+      "pageKeys": [
+        "v-03d85c5b"
+      ]
+    },
+    "crossbow bloodnight": {
+      "key": "crossbow bloodnight",
+      "scope": "tag",
+      "path": "/tag/crossbow bloodnight/",
+      "pageKeys": [
+        "v-03d85c5b"
+      ]
+    },
+    "dreadstar": {
+      "key": "dreadstar",
+      "scope": "tag",
+      "path": "/tag/dreadstar/",
+      "pageKeys": [
+        "v-079ebe8a"
+      ]
+    },
+    "hashiriy adrifter": {
+      "key": "hashiriy adrifter",
+      "scope": "tag",
+      "path": "/tag/hashiriy adrifter/",
+      "pageKeys": [
+        "v-40cc594a"
+      ]
+    },
+    "not for broadcast": {
+      "key": "not for broadcast",
+      "scope": "tag",
+      "path": "/tag/not for broadcast/",
+      "pageKeys": [
+        "v-a2b9b14a"
+      ]
+    },
+    "nfb": {
+      "key": "nfb",
+      "scope": "tag",
+      "path": "/tag/nfb/",
+      "pageKeys": [
+        "v-a2b9b14a"
+      ]
+    },
+    "análise": {
+      "key": "análise",
+      "scope": "tag",
+      "path": "/tag/análise/",
+      "pageKeys": [
+        "v-a2b9b14a",
+        "v-8d387cda"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-7164405e"
+      ]
+    },
+    "stream": {
+      "key": "stream",
+      "scope": "tag",
+      "path": "/tag/stream/",
+      "pageKeys": [
+        "v-7164405e"
+      ]
+    },
+    "secret of harrow manor 2": {
+      "key": "secret of harrow manor 2",
+      "scope": "tag",
+      "path": "/tag/secret of harrow manor 2/",
+      "pageKeys": [
+        "v-0001ba7b"
       ]
     },
     "Microsoft": {
@@ -131,31 +188,6 @@ export default {
         "v-7ceb0dbb"
       ]
     },
-    "not for broadcast": {
-      "key": "not for broadcast",
-      "scope": "tag",
-      "path": "/tag/not for broadcast/",
-      "pageKeys": [
-        "v-a2b9b14a"
-      ]
-    },
-    "nfb": {
-      "key": "nfb",
-      "scope": "tag",
-      "path": "/tag/nfb/",
-      "pageKeys": [
-        "v-a2b9b14a"
-      ]
-    },
-    "análise": {
-      "key": "análise",
-      "scope": "tag",
-      "path": "/tag/análise/",
-      "pageKeys": [
-        "v-a2b9b14a",
-        "v-8d387cda"
-      ]
-    },
     "in rays of the light": {
       "key": "in rays of the light",
       "scope": "tag",
@@ -186,38 +218,6 @@ export default {
       "path": "/tag/Xbox/",
       "pageKeys": [
         "v-8d387cda"
-      ]
-    },
-    "qdm": {
-      "key": "qdm",
-      "scope": "tag",
-      "path": "/tag/qdm/",
-      "pageKeys": [
-        "v-7164405e"
-      ]
-    },
-    "stream": {
-      "key": "stream",
-      "scope": "tag",
-      "path": "/tag/stream/",
-      "pageKeys": [
-        "v-7164405e"
-      ]
-    },
-    "secret of harrow manor 2": {
-      "key": "secret of harrow manor 2",
-      "scope": "tag",
-      "path": "/tag/secret of harrow manor 2/",
-      "pageKeys": [
-        "v-0001ba7b"
-      ]
-    },
-    "hashiriy adrifter": {
-      "key": "hashiriy adrifter",
-      "scope": "tag",
-      "path": "/tag/hashiriy adrifter/",
-      "pageKeys": [
-        "v-40cc594a"
       ]
     },
     "sonic forces": {

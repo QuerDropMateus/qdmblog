@@ -9,36 +9,20 @@ import GlobalLayout from "C:\\Users\\tumbl\\Documents\\GitHub\\qdmblog\\layouts\
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-079ebe8a",
-    path: "/2021/01/05/dreadstar-review/",
+    name: "v-b35bd28a",
+    path: "/2021/01/18/_80s-overdrive-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-079ebe8a").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-b35bd28a").then(next)
     },
   },
   {
-    path: "/2021/01/05/dreadstar-review/index.html",
-    redirect: "/2021/01/05/dreadstar-review/"
+    path: "/2021/01/18/_80s-overdrive-review/index.html",
+    redirect: "/2021/01/18/_80s-overdrive-review/"
   },
   {
-    path: "/_posts/dreadstar-review.html",
-    redirect: "/2021/01/05/dreadstar-review/"
-  },
-  {
-    name: "v-03d85c5b",
-    path: "/2020/10/20/crossbow-bloodnight-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-03d85c5b").then(next)
-    },
-  },
-  {
-    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
-  },
-  {
-    path: "/_posts/crossbow-bloodnight-review.html",
-    redirect: "/2020/10/20/crossbow-bloodnight-review/"
+    path: "/_posts/80s-overdrive-review.html",
+    redirect: "/2021/01/18/_80s-overdrive-review/"
   },
   {
     name: "v-235c1f97",
@@ -57,36 +41,52 @@ export const routes = [
     redirect: "/2020/10/28/cyberpunk-2077-adiado/"
   },
   {
-    name: "v-b35bd28a",
-    path: "/2021/01/18/_80s-overdrive-review/",
+    name: "v-03d85c5b",
+    path: "/2020/10/20/crossbow-bloodnight-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-b35bd28a").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-03d85c5b").then(next)
     },
   },
   {
-    path: "/2021/01/18/_80s-overdrive-review/index.html",
-    redirect: "/2021/01/18/_80s-overdrive-review/"
+    path: "/2020/10/20/crossbow-bloodnight-review/index.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    path: "/_posts/80s-overdrive-review.html",
-    redirect: "/2021/01/18/_80s-overdrive-review/"
+    path: "/_posts/crossbow-bloodnight-review.html",
+    redirect: "/2020/10/20/crossbow-bloodnight-review/"
   },
   {
-    name: "v-7ceb0dbb",
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
+    name: "v-079ebe8a",
+    path: "/2021/01/05/dreadstar-review/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-7ceb0dbb").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-079ebe8a").then(next)
     },
   },
   {
-    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+    path: "/2021/01/05/dreadstar-review/index.html",
+    redirect: "/2021/01/05/dreadstar-review/"
   },
   {
-    path: "/_posts/microsoft-bethesda-e-novidades.html",
-    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+    path: "/_posts/dreadstar-review.html",
+    redirect: "/2021/01/05/dreadstar-review/"
+  },
+  {
+    name: "v-40cc594a",
+    path: "/2020/10/01/hashiriya-drifter-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-40cc594a").then(next)
+    },
+  },
+  {
+    path: "/2020/10/01/hashiriya-drifter-review/index.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
+  },
+  {
+    path: "/_posts/hashiriya-drifter-review.html",
+    redirect: "/2020/10/01/hashiriya-drifter-review/"
   },
   {
     name: "v-a2b9b14a",
@@ -103,22 +103,6 @@ export const routes = [
   {
     path: "/_posts/not-for-broadcast-review.html",
     redirect: "/2020/12/08/not-for-broadcast-review/"
-  },
-  {
-    name: "v-8d387cda",
-    path: "/2021/07/22/in-rays-of-the-light-review/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-8d387cda").then(next)
-    },
-  },
-  {
-    path: "/2021/07/22/in-rays-of-the-light-review/index.html",
-    redirect: "/2021/07/22/in-rays-of-the-light-review/"
-  },
-  {
-    path: "/_posts/in-rays-of-the-light-review.html",
-    redirect: "/2021/07/22/in-rays-of-the-light-review/"
   },
   {
     name: "v-7164405e",
@@ -153,20 +137,36 @@ export const routes = [
     redirect: "/2021/01/20/secret-of-harrow-manor-2/"
   },
   {
-    name: "v-40cc594a",
-    path: "/2020/10/01/hashiriya-drifter-review/",
+    name: "v-7ceb0dbb",
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Post", "v-40cc594a").then(next)
+      ensureAsyncComponentsLoaded("Post", "v-7ceb0dbb").then(next)
     },
   },
   {
-    path: "/2020/10/01/hashiriya-drifter-review/index.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
+    path: "/2020/10/22/microsoft-bethesda-e-novidades/index.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
   },
   {
-    path: "/_posts/hashiriya-drifter-review.html",
-    redirect: "/2020/10/01/hashiriya-drifter-review/"
+    path: "/_posts/microsoft-bethesda-e-novidades.html",
+    redirect: "/2020/10/22/microsoft-bethesda-e-novidades/"
+  },
+  {
+    name: "v-8d387cda",
+    path: "/2021/07/22/in-rays-of-the-light-review/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Post", "v-8d387cda").then(next)
+    },
+  },
+  {
+    path: "/2021/07/22/in-rays-of-the-light-review/index.html",
+    redirect: "/2021/07/22/in-rays-of-the-light-review/"
+  },
+  {
+    path: "/_posts/in-rays-of-the-light-review.html",
+    redirect: "/2021/07/22/in-rays-of-the-light-review/"
   },
   {
     name: "v-64ec3765",
@@ -251,17 +251,17 @@ export const routes = [
     redirect: "/tag/"
   },
   {
-    name: "v-14d71bda",
-    path: "/tag/game/",
+    name: "v-7b8615aa",
+    path: "/tag/80s overdrive/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7b8615aa").then(next)
     },
-    meta: {"pid":"tag","id":"game"}
+    meta: {"pid":"tag","id":"80s overdrive"}
   },
   {
-    path: "/tag/game/index.html",
-    redirect: "/tag/game/"
+    path: "/tag/80s overdrive/index.html",
+    redirect: "/tag/80s overdrive/"
   },
   {
     name: "v-2f79a5ed",
@@ -277,19 +277,6 @@ export const routes = [
     redirect: "/tag/review/"
   },
   {
-    name: "v-59d7368d",
-    path: "/tag/dreadstar/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-59d7368d").then(next)
-    },
-    meta: {"pid":"tag","id":"dreadstar"}
-  },
-  {
-    path: "/tag/dreadstar/index.html",
-    redirect: "/tag/dreadstar/"
-  },
-  {
     name: "v-0e88a44c",
     path: "/tag/indiegame/",
     component: GlobalLayout,
@@ -301,32 +288,6 @@ export const routes = [
   {
     path: "/tag/indiegame/index.html",
     redirect: "/tag/indiegame/"
-  },
-  {
-    name: "v-6d69b8a7",
-    path: "/tag/bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
-    },
-    meta: {"pid":"tag","id":"bloodnight"}
-  },
-  {
-    path: "/tag/bloodnight/index.html",
-    redirect: "/tag/bloodnight/"
-  },
-  {
-    name: "v-3af7e07c",
-    path: "/tag/crossbow bloodnight/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3af7e07c").then(next)
-    },
-    meta: {"pid":"tag","id":"crossbow bloodnight"}
-  },
-  {
-    path: "/tag/crossbow bloodnight/index.html",
-    redirect: "/tag/crossbow bloodnight/"
   },
   {
     name: "v-82814602",
@@ -368,17 +329,147 @@ export const routes = [
     redirect: "/tag/noticia/"
   },
   {
-    name: "v-7b8615aa",
-    path: "/tag/80s overdrive/",
+    name: "v-14d71bda",
+    path: "/tag/game/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7b8615aa").then(next)
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-14d71bda").then(next)
     },
-    meta: {"pid":"tag","id":"80s overdrive"}
+    meta: {"pid":"tag","id":"game"}
   },
   {
-    path: "/tag/80s overdrive/index.html",
-    redirect: "/tag/80s overdrive/"
+    path: "/tag/game/index.html",
+    redirect: "/tag/game/"
+  },
+  {
+    name: "v-6d69b8a7",
+    path: "/tag/bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-6d69b8a7").then(next)
+    },
+    meta: {"pid":"tag","id":"bloodnight"}
+  },
+  {
+    path: "/tag/bloodnight/index.html",
+    redirect: "/tag/bloodnight/"
+  },
+  {
+    name: "v-3af7e07c",
+    path: "/tag/crossbow bloodnight/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3af7e07c").then(next)
+    },
+    meta: {"pid":"tag","id":"crossbow bloodnight"}
+  },
+  {
+    path: "/tag/crossbow bloodnight/index.html",
+    redirect: "/tag/crossbow bloodnight/"
+  },
+  {
+    name: "v-59d7368d",
+    path: "/tag/dreadstar/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-59d7368d").then(next)
+    },
+    meta: {"pid":"tag","id":"dreadstar"}
+  },
+  {
+    path: "/tag/dreadstar/index.html",
+    redirect: "/tag/dreadstar/"
+  },
+  {
+    name: "v-5ec657c8",
+    path: "/tag/hashiriy adrifter/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5ec657c8").then(next)
+    },
+    meta: {"pid":"tag","id":"hashiriy adrifter"}
+  },
+  {
+    path: "/tag/hashiriy adrifter/index.html",
+    redirect: "/tag/hashiriy adrifter/"
+  },
+  {
+    name: "v-491f0362",
+    path: "/tag/not for broadcast/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-491f0362").then(next)
+    },
+    meta: {"pid":"tag","id":"not for broadcast"}
+  },
+  {
+    path: "/tag/not for broadcast/index.html",
+    redirect: "/tag/not for broadcast/"
+  },
+  {
+    name: "v-3231fd22",
+    path: "/tag/nfb/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3231fd22").then(next)
+    },
+    meta: {"pid":"tag","id":"nfb"}
+  },
+  {
+    path: "/tag/nfb/index.html",
+    redirect: "/tag/nfb/"
+  },
+  {
+    name: "v-33c9bd29",
+    path: "/tag/análise/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-33c9bd29").then(next)
+    },
+    meta: {"pid":"tag","id":"análise"}
+  },
+  {
+    path: "/tag/análise/index.html",
+    redirect: "/tag/análise/"
+  },
+  {
+    name: "v-322f4f42",
+    path: "/tag/qdm/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
+    },
+    meta: {"pid":"tag","id":"qdm"}
+  },
+  {
+    path: "/tag/qdm/index.html",
+    redirect: "/tag/qdm/"
+  },
+  {
+    name: "v-7dbe52c5",
+    path: "/tag/stream/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
+    },
+    meta: {"pid":"tag","id":"stream"}
+  },
+  {
+    path: "/tag/stream/index.html",
+    redirect: "/tag/stream/"
+  },
+  {
+    name: "v-ae4605fc",
+    path: "/tag/secret of harrow manor 2/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-ae4605fc").then(next)
+    },
+    meta: {"pid":"tag","id":"secret of harrow manor 2"}
+  },
+  {
+    path: "/tag/secret of harrow manor 2/index.html",
+    redirect: "/tag/secret of harrow manor 2/"
   },
   {
     name: "v-11be516a",
@@ -433,45 +524,6 @@ export const routes = [
     redirect: "/tag/notícia/"
   },
   {
-    name: "v-491f0362",
-    path: "/tag/not for broadcast/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-491f0362").then(next)
-    },
-    meta: {"pid":"tag","id":"not for broadcast"}
-  },
-  {
-    path: "/tag/not for broadcast/index.html",
-    redirect: "/tag/not for broadcast/"
-  },
-  {
-    name: "v-3231fd22",
-    path: "/tag/nfb/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-3231fd22").then(next)
-    },
-    meta: {"pid":"tag","id":"nfb"}
-  },
-  {
-    path: "/tag/nfb/index.html",
-    redirect: "/tag/nfb/"
-  },
-  {
-    name: "v-33c9bd29",
-    path: "/tag/análise/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-33c9bd29").then(next)
-    },
-    meta: {"pid":"tag","id":"análise"}
-  },
-  {
-    path: "/tag/análise/index.html",
-    redirect: "/tag/análise/"
-  },
-  {
     name: "v-4777b1de",
     path: "/tag/in rays of the light/",
     component: GlobalLayout,
@@ -522,58 +574,6 @@ export const routes = [
   {
     path: "/tag/Xbox/index.html",
     redirect: "/tag/Xbox/"
-  },
-  {
-    name: "v-322f4f42",
-    path: "/tag/qdm/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-322f4f42").then(next)
-    },
-    meta: {"pid":"tag","id":"qdm"}
-  },
-  {
-    path: "/tag/qdm/index.html",
-    redirect: "/tag/qdm/"
-  },
-  {
-    name: "v-7dbe52c5",
-    path: "/tag/stream/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-7dbe52c5").then(next)
-    },
-    meta: {"pid":"tag","id":"stream"}
-  },
-  {
-    path: "/tag/stream/index.html",
-    redirect: "/tag/stream/"
-  },
-  {
-    name: "v-ae4605fc",
-    path: "/tag/secret of harrow manor 2/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-ae4605fc").then(next)
-    },
-    meta: {"pid":"tag","id":"secret of harrow manor 2"}
-  },
-  {
-    path: "/tag/secret of harrow manor 2/index.html",
-    redirect: "/tag/secret of harrow manor 2/"
-  },
-  {
-    name: "v-5ec657c8",
-    path: "/tag/hashiriy adrifter/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("FrontmatterPagination", "v-5ec657c8").then(next)
-    },
-    meta: {"pid":"tag","id":"hashiriy adrifter"}
-  },
-  {
-    path: "/tag/hashiriy adrifter/index.html",
-    redirect: "/tag/hashiriy adrifter/"
   },
   {
     name: "v-631d1f06",
