@@ -2,11 +2,9 @@
 title: Syntherapy
 date: 2020-10-30
 tags: 
-  - game
-  - review
   - syntherapy
   - indiegame
-  - qdm
+  - review
 author: Medici | QDM
 featuredimg: 'https://pbs.twimg.com/media/EjkcHJ0XcAAiotF.jpg'
 summary: Então, imagine que antes da era das máquinas, a Skynet resolve se consultar com você como psicólogo? Confere essa review!

@@ -2,17 +2,16 @@
 title: Not for Broadcast
 date: 2020-12-08
 tags: 
-  - análise
   - not for broadcast
   - nfb
-  - qdm
+  - análise
 author: Medici | QDM
 featuredimg: 'https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg'
 summary: Boa noite, estamos começando mais um jornal QDM. Eu sou Médici, sua apresentadora e agora veremos as notícias da noite!
 lang: 'pt-BR'
 sidebar: true
 meta:
-  - property: 'og:image'
+  - property: 'og:steam'
   - content: 'https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg'
 ---
 Not for Broadcast é um jogo da NotGames e distribuído pela tinyBuild. O game foi oficialmente lançado em janeiro de 2020 e continua em acesso antecipado, isto é, o jogo não está completo e acredite de certa forma isso é muito bom, dado o que o que o jogo visa oferecer. Porém, vamos ao que interessa...

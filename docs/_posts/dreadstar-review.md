@@ -1,13 +1,11 @@
 ---
-title: DreadStar The Quest for Revenge
+title: Dreadstar The Quest for Revenge
 date: 2021-01-05
 tags: 
   - game
   - review
-  - #DreadStarGame
   - dreadstar
   - indiegame
-  - qdm
 author: Medici | QDM
 featuredimg: 'https://i.imgur.com/UoTiXSI.jpg'
 summary: Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!

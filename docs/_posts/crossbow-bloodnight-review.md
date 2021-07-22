@@ -5,8 +5,7 @@ tags:
   - game
   - review
   - bloodnight
-  - crossbow:bloodnight
-  - qdm
+  - crossbow\n: bloodnight
 author: Medici | QDM
 featuredimg: 'https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg'
 summary: Cace, morra e cace novamente!

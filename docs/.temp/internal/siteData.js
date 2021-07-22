@@ -90,76 +90,14 @@ export const siteData = {
   ],
   "pages": [
     {
-      "title": "Crossbow Bloodnight",
-      "frontmatter": {
-        "title": "Crossbow Bloodnight",
-        "date": "2020-10-20T00:00:00.000Z",
-        "tags": [
-          "game",
-          "review",
-          "bloodnight",
-          "crossbow:bloodnight",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
-        "summary": "Cace, morra e cace novamente!",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
-          }
-        ],
-        "description": "Cace, morra e cace novamente!",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/crossbow-bloodnight-review.html",
-      "relativePath": "_posts/crossbow-bloodnight-review.md",
-      "key": "v-e4ff71d2",
-      "path": "/2020/10/20/crossbow-bloodnight-review/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Sobre o game",
-          "slug": "sobre-o-game"
-        },
-        {
-          "level": 2,
-          "title": "Gameplay",
-          "slug": "gameplay"
-        },
-        {
-          "level": 2,
-          "title": "Inimigos",
-          "slug": "inimigos"
-        },
-        {
-          "level": 2,
-          "title": "Conclusão",
-          "slug": "conclusao"
-        }
-      ],
-      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
       "title": "80's Overdrive Review",
       "frontmatter": {
         "title": "80's Overdrive Review",
         "date": "2021-01-18T00:00:00.000Z",
         "tags": [
-          null,
           "80's overdrive",
           "review",
-          "indiegame",
-          "qdm"
+          "indiegame"
         ],
         "author": "Medici | QDM",
         "featuredimg": "https://i.imgur.com/mNSf76R.jpg",
@@ -172,7 +110,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/80s-overdrive-review.html",
       "relativePath": "_posts/80s-overdrive-review.md",
-      "key": "v-7a573b77",
+      "key": "v-b35bd28a",
       "path": "/2021/01/18/_80s-overdrive-review/",
       "headers": [
         {
@@ -202,10 +140,9 @@ export const siteData = {
         "title": "Cyberpunk 2077 ADIADO",
         "date": "2020-10-28T00:00:00.000Z",
         "tags": [
-          "noticia",
-          "Cyberpunk2077",
+          "Cyberpunk 2077",
           "cdprojektred",
-          "qdm"
+          "noticia"
         ],
         "author": "Medici | QDM",
         "featuredimg": "https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg",
@@ -226,7 +163,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/cyberpunk-2077-adiado.html",
       "relativePath": "_posts/cyberpunk-2077-adiado.md",
-      "key": "v-0aab0553",
+      "key": "v-235c1f97",
       "path": "/2020/10/28/cyberpunk-2077-adiado/",
       "headers": [
         {
@@ -241,52 +178,65 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "DreadStar The Quest for Revenge",
+      "title": "Crossbow Bloodnight",
       "frontmatter": {
-        "title": "DreadStar The Quest for Revenge",
-        "date": "2021-01-05T00:00:00.000Z",
+        "title": "Crossbow Bloodnight",
+        "date": "2020-10-20T00:00:00.000Z",
         "tags": [
           "game",
           "review",
-          null,
-          "dreadstar",
-          "indiegame",
-          "qdm"
+          "bloodnight",
+          {
+            "crossbow\\n": "bloodnight"
+          }
         ],
         "author": "Medici | QDM",
-        "featuredimg": "https://i.imgur.com/UoTiXSI.jpg",
-        "summary": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
+        "featuredimg": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg",
+        "summary": "Cace, morra e cace novamente!",
         "lang": "pt-BR",
         "sidebar": true,
-        "description": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://www.pcguru.hu/uploads/editors/crossbow-bloodnight-johet-egy-horrorisztikus-fps.jpg"
+          }
+        ],
+        "description": "Cace, morra e cace novamente!",
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/dreadstar-review.html",
-      "relativePath": "_posts/dreadstar-review.md",
-      "key": "v-3b944177",
-      "path": "/2021/01/05/dreadstar-review/",
+      "regularPath": "/_posts/crossbow-bloodnight-review.html",
+      "relativePath": "_posts/crossbow-bloodnight-review.md",
+      "key": "v-03d85c5b",
+      "path": "/2020/10/20/crossbow-bloodnight-review/",
       "headers": [
         {
           "level": 2,
-          "title": "O game",
-          "slug": "o-game"
+          "title": "Sobre o game",
+          "slug": "sobre-o-game"
         },
         {
           "level": 2,
-          "title": "Mecânica",
-          "slug": "mecanica"
+          "title": "Gameplay",
+          "slug": "gameplay"
         },
         {
           "level": 2,
-          "title": "Minha Opinião",
-          "slug": "minha-opiniao"
+          "title": "Inimigos",
+          "slug": "inimigos"
+        },
+        {
+          "level": 2,
+          "title": "Conclusão",
+          "slug": "conclusao"
         }
       ],
-      "summary": "DreadStar é um jogo simplesmente fantástico, pegue um caldeirão e junte um pouco de nostalgia, muito tiro no espaço e acrescente umas pitadas de rpg e pronto. A simplicidade gritante deu como resultad ...",
+      "summary": "Você é o membro de uma ordem que luta contra os criaturas da noite usando uma Crossbow, uma besta. A mesma arma dada como demoníaca e não sagrada pelo Concílio de Latrão em 1139. Porém, você não tem t ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "05/01/2021 15:22:32"
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "title": "Hashiriya Drifter",
@@ -296,20 +246,19 @@ export const siteData = {
         "tags": [
           "game",
           "review",
-          "hashiriyadrifter",
-          "qdm"
+          "hashiriyadrifter"
         ],
         "author": "Medici | QDM",
-        "featuredimg": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png",
+        "featuredimg": "https://cdn.akamai.steamstatic.com/steam/apps/1336560/capsule_616x353.jpg",
         "summary": "Fast and Furious drif drif!",
         "lang": "pt-BR",
         "sidebar": true,
         "meta": [
           {
-            "property": "og:image"
+            "property": "og:steam"
           },
           {
-            "content": "https://techbigs.com/wp-content/uploads/2020/02/hashiriya-drifter-1004-1200x585.png"
+            "content": "https://cdn.akamai.steamstatic.com/steam/apps/1336560/capsule_616x353.jpg"
           }
         ],
         "description": "Fast and Furious drif drif!",
@@ -318,7 +267,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/hashiriya-drifter-review.html",
       "relativePath": "_posts/hashiriya-drifter-review.md",
-      "key": "v-607c7c17",
+      "key": "v-40cc594a",
       "path": "/2020/10/01/hashiriya-drifter-review/",
       "headers": [
         {
@@ -358,58 +307,162 @@ export const siteData = {
       "lastUpdated": "08/12/2020 17:51:31"
     },
     {
-      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "title": "Dreadstar The Quest for Revenge",
       "frontmatter": {
-        "title": "Microsoft & Bethesda: a era da Sony chegou?",
-        "date": "2020-10-22T00:00:00.000Z",
+        "title": "Dreadstar The Quest for Revenge",
+        "date": "2021-01-05T00:00:00.000Z",
         "tags": [
-          "Microsoft",
-          "Bethesda",
-          "Zeni Max",
-          "notícia"
+          "game",
+          "review",
+          "dreadstar",
+          "indiegame"
         ],
         "author": "Medici | QDM",
-        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
-        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "featuredimg": "https://i.imgur.com/UoTiXSI.jpg",
+        "summary": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
         "lang": "pt-BR",
         "sidebar": true,
-        "meta": [
-          {
-            "property": "og:image"
-          },
-          {
-            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
-          }
-        ],
-        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "description": "Não tem Han Solo, nem Milenion Falcon, aqui no vasto espaço você procura a DreadSkull para vingar a morte de seu pai enquanto segue como um caçador de recompensas no espaço. Um jogo retrô com pitadas de brilhantismo para todos!",
         "layout": "Post",
         "permalink": "/:year/:month/:day/:slug"
       },
-      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
-      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
-      "key": "v-416b0712",
-      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "regularPath": "/_posts/dreadstar-review.html",
+      "relativePath": "_posts/dreadstar-review.md",
+      "key": "v-079ebe8a",
+      "path": "/2021/01/05/dreadstar-review/",
       "headers": [
         {
           "level": 2,
-          "title": "Por que comprar a Zeni Max e outros estúdios?",
-          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+          "title": "O game",
+          "slug": "o-game"
         },
         {
           "level": 2,
-          "title": "E qual foi o pulo do gato?",
-          "slug": "e-qual-foi-o-pulo-do-gato"
+          "title": "Mecânica",
+          "slug": "mecanica"
         },
         {
           "level": 2,
-          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
-          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+          "title": "Minha Opinião",
+          "slug": "minha-opiniao"
         }
       ],
-      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "summary": "DreadStar é um jogo simplesmente fantástico, pegue um caldeirão e junte um pouco de nostalgia, muito tiro no espaço e acrescente umas pitadas de rpg e pronto. A simplicidade gritante deu como resultad ...",
       "id": "blog",
       "pid": "blog",
-      "lastUpdated": "08/12/2020 17:51:31"
+      "lastUpdated": "05/01/2021 15:22:32"
+    },
+    {
+      "title": "Análise In Rays of the Light (PS4) e a breviedade da humanidade",
+      "frontmatter": {
+        "title": "Análise In Rays of the Light (PS4) e a breviedade da humanidade",
+        "date": "2021-07-22T00:00:00.000Z",
+        "tags": [
+          "In Rays of the Light",
+          "análise",
+          "review",
+          "Playstation",
+          "PC",
+          "Xbox"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://www.conversadesofa.com/wp-content/uploads/2021/05/In-rays-of-the-Light_20210504162313-700x394.jpg",
+        "summary": "Qual o nosso lugar no mundo? Para onde vamos e de onde viemos? Descubra nessa jornada curta e solitária.",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Qual o nosso lugar no mundo? Para onde vamos e de onde viemos? Descubra nessa jornada curta e solitária.",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/in-rays-of-the-light-review.html",
+      "relativePath": "_posts/in-rays-of-the-light-review.md",
+      "key": "v-8d387cda",
+      "path": "/2021/07/22/in-rays-of-the-light-review/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Um mundo pós-apocalíptico",
+          "slug": "um-mundo-pos-apocaliptico"
+        },
+        {
+          "level": 2,
+          "title": "Como funcionam as engrenagens",
+          "slug": "como-funcionam-as-engrenagens"
+        },
+        {
+          "level": 2,
+          "title": "O fim de uma curta história",
+          "slug": "o-fim-de-uma-curta-historia"
+        },
+        {
+          "level": 2,
+          "title": "Prós:",
+          "slug": "pros"
+        },
+        {
+          "level": 2,
+          "title": "Contras:",
+          "slug": "contras"
+        }
+      ],
+      "summary": "In Rays of the Light foi sem dúvida uma experiência diferente. O jogo foi desenvolvido por uma única pessoa, Sergey Noskov, o mesmo desenvolvedor do jogo 7th Sector. Além disso, o jogo também é uma no ...",
+      "id": "blog",
+      "pid": "blog"
+    },
+    {
+      "title": "Secret Of Harrow Manor 2",
+      "frontmatter": {
+        "title": "Secret Of Harrow Manor 2",
+        "date": "2021-01-20T00:00:00.000Z",
+        "tags": [
+          "secret of harrow manor 2",
+          "review",
+          "indiegame"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://i.imgur.com/Hmu6bn1.jpg",
+        "summary": "Zumbis humanóides, zumbis cachorros demoníacos",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "description": "Zumbis humanóides, zumbis cachorros demoníacos",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/secret-of-harrow-manor-2.html",
+      "relativePath": "_posts/secret-of-harrow-manor-2.md",
+      "key": "v-0001ba7b",
+      "path": "/2021/01/20/secret-of-harrow-manor-2/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Minha Experiência",
+          "slug": "minha-experiencia"
+        },
+        {
+          "level": 2,
+          "title": "A História",
+          "slug": "a-historia"
+        },
+        {
+          "level": 2,
+          "title": "Mecânica",
+          "slug": "mecanica"
+        },
+        {
+          "level": 2,
+          "title": "Uma Análise Profunda",
+          "slug": "uma-analise-profunda"
+        },
+        {
+          "level": 2,
+          "title": "Concluindo",
+          "slug": "concluindo"
+        }
+      ],
+      "summary": "Secret of Harrow Manor 2 é um jogo indie desenvolvido por Brandon Smith e distribuido pela Only Human Studios. O game teve data de lançamento em 06 de Outubro de 2020 e está disponível para PC através ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "20/01/2021 22:33:32"
     },
     {
       "title": "Not for Broadcast",
@@ -417,10 +470,9 @@ export const siteData = {
         "title": "Not for Broadcast",
         "date": "2020-12-08T00:00:00.000Z",
         "tags": [
-          "análise",
           "not for broadcast",
           "nfb",
-          "qdm"
+          "análise"
         ],
         "author": "Medici | QDM",
         "featuredimg": "https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg",
@@ -429,7 +481,7 @@ export const siteData = {
         "sidebar": true,
         "meta": [
           {
-            "property": "og:image"
+            "property": "og:steam"
           },
           {
             "content": "https://steamcdn-a.akamaihd.net/steam/apps/1201400/capsule_616x353.jpg"
@@ -441,7 +493,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/not-for-broadcast-review.html",
       "relativePath": "_posts/not-for-broadcast-review.md",
-      "key": "v-2f85d017",
+      "key": "v-a2b9b14a",
       "path": "/2020/12/08/not-for-broadcast-review/",
       "headers": [
         {
@@ -494,7 +546,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/primeiro-post.html",
       "relativePath": "_posts/primeiro-post.md",
-      "key": "v-819084e6",
+      "key": "v-7164405e",
       "path": "/2020/09/30/primeiro-post/",
       "headers": [
         {
@@ -508,67 +560,10 @@ export const siteData = {
           "slug": "acompanhe-nossas-materias-tambem-youtube"
         }
       ],
-      "summary": "\n\nSiga nossas lives agora na twitch!\n\nAcompanhe nossas matérias também YouTube\n\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJgTl5zF ...",
+      "summary": "\nSiga nossas lives agora na twitch!\nAcompanhe nossas matérias também YouTube\n<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/oJ ...",
       "id": "blog",
       "pid": "blog",
       "lastUpdated": "08/12/2020 17:51:31"
-    },
-    {
-      "title": "Secret Of Harrow Manor 2",
-      "frontmatter": {
-        "title": "Secret Of Harrow Manor 2",
-        "date": "2021-01-20T00:00:00.000Z",
-        "tags": [
-          "SecretOfHarrowManor2",
-          "secret of harrow manor 2",
-          "review",
-          "indiegame",
-          "qdm"
-        ],
-        "author": "Medici | QDM",
-        "featuredimg": "https://i.imgur.com/Hmu6bn1.jpg",
-        "summary": "Zumbis humanóides, zumbis cachorros demoníacos",
-        "lang": "pt-BR",
-        "sidebar": true,
-        "description": "Zumbis humanóides, zumbis cachorros demoníacos",
-        "layout": "Post",
-        "permalink": "/:year/:month/:day/:slug"
-      },
-      "regularPath": "/_posts/secret-of-harrow-manor-2.html",
-      "relativePath": "_posts/secret-of-harrow-manor-2.md",
-      "key": "v-fe373992",
-      "path": "/2021/01/20/secret-of-harrow-manor-2/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "Minha Experiência",
-          "slug": "minha-experiencia"
-        },
-        {
-          "level": 2,
-          "title": "A História",
-          "slug": "a-historia"
-        },
-        {
-          "level": 2,
-          "title": "Mecânica",
-          "slug": "mecanica"
-        },
-        {
-          "level": 2,
-          "title": "Uma Análise Profunda",
-          "slug": "uma-analise-profunda"
-        },
-        {
-          "level": 2,
-          "title": "Concluindo",
-          "slug": "concluindo"
-        }
-      ],
-      "summary": "Secret of Harrow Manor 2 é um jogo indie desenvolvido por Brandon Smith e distribuido pela Only Human Studios. O game teve data de lançamento em 06 de Outubro de 2020 e está disponível para PC através ...",
-      "id": "blog",
-      "pid": "blog",
-      "lastUpdated": "20/01/2021 22:33:32"
     },
     {
       "title": "SONIC FORCES",
@@ -578,11 +573,10 @@ export const siteData = {
         "tags": [
           "game",
           "review",
-          "sonicforces",
-          "qdm"
+          "sonicforces"
         ],
         "author": "LCArms | QDM",
-        "featuredimg": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png",
+        "featuredimg": "https://cdn.akamai.steamstatic.com/steam/apps/637100/header.jpg",
         "summary": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
         "lang": "pt-BR",
         "sidebar": true,
@@ -591,7 +585,7 @@ export const siteData = {
             "property": "og:image"
           },
           {
-            "content": "https://2.bp.blogspot.com/-vFnAUXaaaBU/Wl42Gn5IGgI/AAAAAAAACt0/ud9aByjOi3I6_Yp5CDrggpdacVkVVPpxQCLcBGAs/s640/Sonic-Forces-Screenshot-2017-11-08-21-21-11.png"
+            "content": "https://cdn.akamai.steamstatic.com/steam/apps/637100/header.jpg"
           }
         ],
         "description": "Alguém anote a placa, pois um ouriço vem em alta velocidade!!",
@@ -600,7 +594,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/sonic-forces-review.html",
       "relativePath": "_posts/sonic-forces-review.md",
-      "key": "v-0c2b5b21",
+      "key": "v-64ec3765",
       "path": "/2020/10/08/sonic-forces-review/",
       "headers": [
         {
@@ -645,10 +639,9 @@ export const siteData = {
         "title": "Space Avenger Empire of Nexx",
         "date": "2020-12-22T00:00:00.000Z",
         "tags": [
-          "spaceavengerempireofnexx",
+          "space avenger empire of nexx",
           "review",
-          "indiegame",
-          "qdm"
+          "indiegame"
         ],
         "author": "Medici | QDM",
         "featuredimg": "https://cdn.cloudflare.steamstatic.com/steam/apps/647650/capsule_616x353.jpg",
@@ -661,7 +654,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/space-avangrs-review.html",
       "relativePath": "_posts/space-avangrs-review.md",
-      "key": "v-732d7fd2",
+      "key": "v-1b37c94a",
       "path": "/2020/12/22/space-avangrs-review/",
       "headers": [
         {
@@ -699,8 +692,7 @@ export const siteData = {
           "game",
           "review",
           "syntherapy",
-          "indiegame",
-          "qdm"
+          "indiegame"
         ],
         "author": "Medici | QDM",
         "featuredimg": "https://pbs.twimg.com/media/EjkcHJ0XcAAiotF.jpg",
@@ -719,7 +711,7 @@ export const siteData = {
       },
       "regularPath": "/_posts/syntherapy-review.html",
       "relativePath": "_posts/syntherapy-review.md",
-      "key": "v-3d1a8dd1",
+      "key": "v-481c2c15",
       "path": "/2020/10/30/syntherapy-review/",
       "headers": [
         {
@@ -746,11 +738,11 @@ export const siteData = {
     {
       "title": "QDM - Quer drop, Mateus?",
       "frontmatter": {
-        "description": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ..."
+        "description": "\nImagem QDM\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\nLives na TwitchTV **[@querdropmateu ..."
       },
       "regularPath": "/about.html",
       "relativePath": "about.md",
-      "key": "v-2a1d0ad7",
+      "key": "v-31e1976e",
       "path": "/about.html",
       "headers": [
         {
@@ -759,8 +751,62 @@ export const siteData = {
           "slug": "qdm-quer-drop-mateus"
         }
       ],
-      "summary": "\nImagem QDM\n\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\n\nLives na TwitchTV **[@querdropmateus](ht ...",
+      "summary": "\nImagem QDM\nQuer ficar por dentro de todas as notícias, vídeos, gamebplays e streams do nosso time?\nLives na TwitchTV **[@querdropmateu ...",
       "lastUpdated": "12/8/2020, 6:26:34 PM"
+    },
+    {
+      "title": "Microsoft & Bethesda: a era da Sony chegou?",
+      "frontmatter": {
+        "title": "Microsoft & Bethesda: a era da Sony chegou?",
+        "date": "2020-10-22T00:00:00.000Z",
+        "tags": [
+          "Microsoft",
+          "Bethesda",
+          "Zeni Max",
+          "notícia"
+        ],
+        "author": "Medici | QDM",
+        "featuredimg": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg",
+        "summary": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "lang": "pt-BR",
+        "sidebar": true,
+        "meta": [
+          {
+            "property": "og:image"
+          },
+          {
+            "content": "https://bloody-disgusting.com/wp-content/uploads/2020/09/xboxbeth.jpg"
+          }
+        ],
+        "description": "A compra que gerou um grande rebuliço na comunidade gamer ganha novos contornos. Nós da QDM mastigamos pra você!",
+        "layout": "Post",
+        "permalink": "/:year/:month/:day/:slug"
+      },
+      "regularPath": "/_posts/microsoft-bethesda-e-novidades.html",
+      "relativePath": "_posts/microsoft-bethesda-e-novidades.md",
+      "key": "v-7ceb0dbb",
+      "path": "/2020/10/22/microsoft-bethesda-e-novidades/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "Por que comprar a Zeni Max e outros estúdios?",
+          "slug": "por-que-comprar-a-zeni-max-e-outros-estudios"
+        },
+        {
+          "level": 2,
+          "title": "E qual foi o pulo do gato?",
+          "slug": "e-qual-foi-o-pulo-do-gato"
+        },
+        {
+          "level": 2,
+          "title": "A nova entrevista de Phil Spencer ao site Kotaku",
+          "slug": "a-nova-entrevista-de-phil-spencer-ao-site-kotaku"
+        }
+      ],
+      "summary": "A compra da Bethesda pela Microsoft foi uma declaração de guerra, em alto e bom som. A empresa americana, com sede em Redmond, Washington, parece ter aberto os cofres mais uma vez. Porém para uma empr ...",
+      "id": "blog",
+      "pid": "blog",
+      "lastUpdated": "08/12/2020 17:51:31"
     },
     {
       "frontmatter": {
@@ -783,11 +829,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "game Tag"
+        "title": "80's overdrive Tag"
       },
-      "regularPath": "/tag/game/",
-      "key": "v-14d71bda",
-      "path": "/tag/game/"
+      "regularPath": "/tag/80's%20overdrive/",
+      "key": "v-ace7bbe4",
+      "path": "/tag/80's overdrive/"
     },
     {
       "frontmatter": {
@@ -801,42 +847,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "bloodnight Tag"
-      },
-      "regularPath": "/tag/bloodnight/",
-      "key": "v-6d69b8a7",
-      "path": "/tag/bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "crossbow:bloodnight Tag"
-      },
-      "regularPath": "/tag/crossbow:bloodnight/",
-      "key": "v-0a46594b",
-      "path": "/tag/crossbow:bloodnight/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "qdm Tag"
-      },
-      "regularPath": "/tag/qdm/",
-      "key": "v-322f4f42",
-      "path": "/tag/qdm/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "80's overdrive Tag"
-      },
-      "regularPath": "/tag/80's%20overdrive/",
-      "key": "v-ace7bbe4",
-      "path": "/tag/80's overdrive/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
         "title": "indiegame Tag"
       },
       "regularPath": "/tag/indiegame/",
@@ -846,20 +856,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "noticia Tag"
+        "title": "Cyberpunk 2077 Tag"
       },
-      "regularPath": "/tag/noticia/",
-      "key": "v-2dc9ec74",
-      "path": "/tag/noticia/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "Cyberpunk2077 Tag"
-      },
-      "regularPath": "/tag/Cyberpunk2077/",
-      "key": "v-32b973c0",
-      "path": "/tag/Cyberpunk2077/"
+      "regularPath": "/tag/Cyberpunk%202077/",
+      "key": "v-acf8c642",
+      "path": "/tag/Cyberpunk 2077/"
     },
     {
       "frontmatter": {
@@ -873,11 +874,38 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "FrontmatterPagination",
-        "title": "dreadstar Tag"
+        "title": "noticia Tag"
       },
-      "regularPath": "/tag/dreadstar/",
-      "key": "v-59d7368d",
-      "path": "/tag/dreadstar/"
+      "regularPath": "/tag/noticia/",
+      "key": "v-2dc9ec74",
+      "path": "/tag/noticia/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "game Tag"
+      },
+      "regularPath": "/tag/game/",
+      "key": "v-14d71bda",
+      "path": "/tag/game/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "bloodnight Tag"
+      },
+      "regularPath": "/tag/bloodnight/",
+      "key": "v-6d69b8a7",
+      "path": "/tag/bloodnight/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "[object Object] Tag"
+      },
+      "regularPath": "/tag/%5Bobject%20Object%5D/",
+      "key": "v-7b4835d6",
+      "path": "/tag/[object Object]/"
     },
     {
       "frontmatter": {
@@ -887,6 +915,132 @@ export const siteData = {
       "regularPath": "/tag/hashiriyadrifter/",
       "key": "v-5e540089",
       "path": "/tag/hashiriyadrifter/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "dreadstar Tag"
+      },
+      "regularPath": "/tag/dreadstar/",
+      "key": "v-59d7368d",
+      "path": "/tag/dreadstar/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "In Rays of the Light Tag"
+      },
+      "regularPath": "/tag/In%20Rays%20of%20the%20Light/",
+      "key": "v-090ab19e",
+      "path": "/tag/In Rays of the Light/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "análise Tag"
+      },
+      "regularPath": "/tag/an%C3%A1lise/",
+      "key": "v-33c9bd29",
+      "path": "/tag/análise/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Playstation Tag"
+      },
+      "regularPath": "/tag/Playstation/",
+      "key": "v-6a9fbc79",
+      "path": "/tag/Playstation/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "PC Tag"
+      },
+      "regularPath": "/tag/PC/",
+      "key": "v-e8d93c9c",
+      "path": "/tag/PC/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "Xbox Tag"
+      },
+      "regularPath": "/tag/Xbox/",
+      "key": "v-167ce09c",
+      "path": "/tag/Xbox/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "secret of harrow manor 2 Tag"
+      },
+      "regularPath": "/tag/secret%20of%20harrow%20manor%202/",
+      "key": "v-ae4605fc",
+      "path": "/tag/secret of harrow manor 2/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "not for broadcast Tag"
+      },
+      "regularPath": "/tag/not%20for%20broadcast/",
+      "key": "v-491f0362",
+      "path": "/tag/not for broadcast/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "nfb Tag"
+      },
+      "regularPath": "/tag/nfb/",
+      "key": "v-3231fd22",
+      "path": "/tag/nfb/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "qdm Tag"
+      },
+      "regularPath": "/tag/qdm/",
+      "key": "v-322f4f42",
+      "path": "/tag/qdm/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "stream Tag"
+      },
+      "regularPath": "/tag/stream/",
+      "key": "v-7dbe52c5",
+      "path": "/tag/stream/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "sonicforces Tag"
+      },
+      "regularPath": "/tag/sonicforces/",
+      "key": "v-0f25fe45",
+      "path": "/tag/sonicforces/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "space avenger empire of nexx Tag"
+      },
+      "regularPath": "/tag/space%20avenger%20empire%20of%20nexx/",
+      "key": "v-5370a9c7",
+      "path": "/tag/space avenger empire of nexx/"
+    },
+    {
+      "frontmatter": {
+        "layout": "FrontmatterPagination",
+        "title": "syntherapy Tag"
+      },
+      "regularPath": "/tag/syntherapy/",
+      "key": "v-1fa16278",
+      "path": "/tag/syntherapy/"
     },
     {
       "frontmatter": {
@@ -926,102 +1080,12 @@ export const siteData = {
     },
     {
       "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "análise Tag"
-      },
-      "regularPath": "/tag/an%C3%A1lise/",
-      "key": "v-33c9bd29",
-      "path": "/tag/análise/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "not for broadcast Tag"
-      },
-      "regularPath": "/tag/not%20for%20broadcast/",
-      "key": "v-491f0362",
-      "path": "/tag/not for broadcast/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "nfb Tag"
-      },
-      "regularPath": "/tag/nfb/",
-      "key": "v-3231fd22",
-      "path": "/tag/nfb/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "stream Tag"
-      },
-      "regularPath": "/tag/stream/",
-      "key": "v-7dbe52c5",
-      "path": "/tag/stream/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "SecretOfHarrowManor2 Tag"
-      },
-      "regularPath": "/tag/SecretOfHarrowManor2/",
-      "key": "v-95104c30",
-      "path": "/tag/SecretOfHarrowManor2/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "secret of harrow manor 2 Tag"
-      },
-      "regularPath": "/tag/secret%20of%20harrow%20manor%202/",
-      "key": "v-ae4605fc",
-      "path": "/tag/secret of harrow manor 2/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "sonicforces Tag"
-      },
-      "regularPath": "/tag/sonicforces/",
-      "key": "v-0f25fe45",
-      "path": "/tag/sonicforces/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "spaceavengerempireofnexx Tag"
-      },
-      "regularPath": "/tag/spaceavengerempireofnexx/",
-      "key": "v-75e032f3",
-      "path": "/tag/spaceavengerempireofnexx/"
-    },
-    {
-      "frontmatter": {
-        "layout": "FrontmatterPagination",
-        "title": "syntherapy Tag"
-      },
-      "regularPath": "/tag/syntherapy/",
-      "key": "v-1fa16278",
-      "path": "/tag/syntherapy/"
-    },
-    {
-      "frontmatter": {
         "layout": "Layout",
         "title": "Page 2 | Blog"
       },
       "regularPath": "/page/2/",
       "key": "v-8fdafa70",
       "path": "/page/2/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Layout",
-        "title": "Page 2 - qdm | Tag"
-      },
-      "regularPath": "/tag/qdm/page/2/",
-      "key": "v-6fa33704",
-      "path": "/tag/qdm/page/2/"
     }
   ],
   "themeConfig": {

@@ -1,1 +1,1 @@
-export { default } from "/home/suh/Documents/Github/qdmblog/node_modules/@vuepress/plugin-blog/lib/client/classification.js"
+export { default } from "C:\\Users\\tumbl\\Documents\\GitHub\\qdmblog\\node_modules\\@vuepress\\plugin-blog\\lib\\client\\classification.js"

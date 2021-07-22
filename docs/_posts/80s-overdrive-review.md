@@ -1,12 +1,10 @@
 ---
 title: 80's Overdrive Review 
 date: 2021-01-18
-tags: 
-  - #80soverdrive
+tags:
   - 80's overdrive
   - review
   - indiegame
-  - qdm
 author: Medici | QDM
 featuredimg: 'https://i.imgur.com/mNSf76R.jpg'
 summary: O clássico das pistas ressurge em pixel art, motores gritantes e cenários dignos de uma pintura de Da Vinci em 16bits. Confira nossa análise sobre 80s Overdrive!

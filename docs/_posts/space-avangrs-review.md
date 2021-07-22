@@ -2,10 +2,9 @@
 title: Space Avenger Empire of Nexx
 date: 2020-12-22
 tags: 
-  - spaceavengerempireofnexx
+  - space avenger empire of nexx
   - review
   - indiegame
-  - qdm
 author: Medici | QDM
 featuredimg: 'https://cdn.cloudflare.steamstatic.com/steam/apps/647650/capsule_616x353.jpg'
 summary: Cadete, um cinturão de asteróides se aproxima, mas esta é uma área perigosa. Todos os nosso pilotos estão ocupados, é sua hora de brilha! Voa garoto!!

@@ -2,10 +2,9 @@
 title: Cyberpunk 2077 ADIADO
 date: 2020-10-28
 tags: 
-  - noticia
-  - Cyberpunk2077
+  - Cyberpunk 2077
   - cdprojektred
-  - qdm
+  - noticia
 author: Medici | QDM
 featuredimg: 'https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg'
 summary: Nem chegou o dia dos finados (02 de novembro) e os fãs de games já estão de luto.

@@ -3,17 +3,12 @@
  */
 export default {
   "tag": {
-    "game": {
-      "key": "game",
+    "80's overdrive": {
+      "key": "80's overdrive",
       "scope": "tag",
-      "path": "/tag/game/",
+      "path": "/tag/80's overdrive/",
       "pageKeys": [
-        "v-e4ff71d2",
-        "v-3b944177",
-        "v-607c7c17",
-        "v-819084e6",
-        "v-0c2b5b21",
-        "v-3d1a8dd1"
+        "v-b35bd28a"
       ]
     },
     "review": {
@@ -21,56 +16,15 @@ export default {
       "scope": "tag",
       "path": "/tag/review/",
       "pageKeys": [
-        "v-e4ff71d2",
-        "v-7a573b77",
-        "v-3b944177",
-        "v-607c7c17",
-        "v-fe373992",
-        "v-0c2b5b21",
-        "v-732d7fd2",
-        "v-3d1a8dd1"
-      ]
-    },
-    "bloodnight": {
-      "key": "bloodnight",
-      "scope": "tag",
-      "path": "/tag/bloodnight/",
-      "pageKeys": [
-        "v-e4ff71d2"
-      ]
-    },
-    "crossbow:bloodnight": {
-      "key": "crossbow:bloodnight",
-      "scope": "tag",
-      "path": "/tag/crossbow:bloodnight/",
-      "pageKeys": [
-        "v-e4ff71d2"
-      ]
-    },
-    "qdm": {
-      "key": "qdm",
-      "scope": "tag",
-      "path": "/tag/qdm/",
-      "pageKeys": [
-        "v-e4ff71d2",
-        "v-7a573b77",
-        "v-0aab0553",
-        "v-3b944177",
-        "v-607c7c17",
-        "v-2f85d017",
-        "v-819084e6",
-        "v-fe373992",
-        "v-0c2b5b21",
-        "v-732d7fd2",
-        "v-3d1a8dd1"
-      ]
-    },
-    "80's overdrive": {
-      "key": "80's overdrive",
-      "scope": "tag",
-      "path": "/tag/80's overdrive/",
-      "pageKeys": [
-        "v-7a573b77"
+        "v-b35bd28a",
+        "v-03d85c5b",
+        "v-40cc594a",
+        "v-079ebe8a",
+        "v-8d387cda",
+        "v-0001ba7b",
+        "v-64ec3765",
+        "v-1b37c94a",
+        "v-481c2c15"
       ]
     },
     "indiegame": {
@@ -78,27 +32,19 @@ export default {
       "scope": "tag",
       "path": "/tag/indiegame/",
       "pageKeys": [
-        "v-7a573b77",
-        "v-3b944177",
-        "v-fe373992",
-        "v-732d7fd2",
-        "v-3d1a8dd1"
+        "v-b35bd28a",
+        "v-079ebe8a",
+        "v-0001ba7b",
+        "v-1b37c94a",
+        "v-481c2c15"
       ]
     },
-    "noticia": {
-      "key": "noticia",
+    "Cyberpunk 2077": {
+      "key": "Cyberpunk 2077",
       "scope": "tag",
-      "path": "/tag/noticia/",
+      "path": "/tag/Cyberpunk 2077/",
       "pageKeys": [
-        "v-0aab0553"
-      ]
-    },
-    "Cyberpunk2077": {
-      "key": "Cyberpunk2077",
-      "scope": "tag",
-      "path": "/tag/Cyberpunk2077/",
-      "pageKeys": [
-        "v-0aab0553"
+        "v-235c1f97"
       ]
     },
     "cdprojektred": {
@@ -106,15 +52,46 @@ export default {
       "scope": "tag",
       "path": "/tag/cdprojektred/",
       "pageKeys": [
-        "v-0aab0553"
+        "v-235c1f97"
       ]
     },
-    "dreadstar": {
-      "key": "dreadstar",
+    "noticia": {
+      "key": "noticia",
       "scope": "tag",
-      "path": "/tag/dreadstar/",
+      "path": "/tag/noticia/",
       "pageKeys": [
-        "v-3b944177"
+        "v-235c1f97"
+      ]
+    },
+    "game": {
+      "key": "game",
+      "scope": "tag",
+      "path": "/tag/game/",
+      "pageKeys": [
+        "v-03d85c5b",
+        "v-40cc594a",
+        "v-079ebe8a",
+        "v-7164405e",
+        "v-64ec3765",
+        "v-481c2c15"
+      ]
+    },
+    "bloodnight": {
+      "key": "bloodnight",
+      "scope": "tag",
+      "path": "/tag/bloodnight/",
+      "pageKeys": [
+        "v-03d85c5b"
+      ]
+    },
+    "[object Object]": {
+      "key": {
+        "crossbow\\n": "bloodnight"
+      },
+      "scope": "tag",
+      "path": "/tag/[object Object]/",
+      "pageKeys": [
+        "v-03d85c5b"
       ]
     },
     "hashiriyadrifter": {
@@ -122,39 +99,23 @@ export default {
       "scope": "tag",
       "path": "/tag/hashiriyadrifter/",
       "pageKeys": [
-        "v-607c7c17"
+        "v-40cc594a"
       ]
     },
-    "Microsoft": {
-      "key": "Microsoft",
+    "dreadstar": {
+      "key": "dreadstar",
       "scope": "tag",
-      "path": "/tag/Microsoft/",
+      "path": "/tag/dreadstar/",
       "pageKeys": [
-        "v-416b0712"
+        "v-079ebe8a"
       ]
     },
-    "Bethesda": {
-      "key": "Bethesda",
+    "In Rays of the Light": {
+      "key": "In Rays of the Light",
       "scope": "tag",
-      "path": "/tag/Bethesda/",
+      "path": "/tag/In Rays of the Light/",
       "pageKeys": [
-        "v-416b0712"
-      ]
-    },
-    "Zeni Max": {
-      "key": "Zeni Max",
-      "scope": "tag",
-      "path": "/tag/Zeni Max/",
-      "pageKeys": [
-        "v-416b0712"
-      ]
-    },
-    "notícia": {
-      "key": "notícia",
-      "scope": "tag",
-      "path": "/tag/notícia/",
-      "pageKeys": [
-        "v-416b0712"
+        "v-8d387cda"
       ]
     },
     "análise": {
@@ -162,39 +123,32 @@ export default {
       "scope": "tag",
       "path": "/tag/análise/",
       "pageKeys": [
-        "v-2f85d017"
+        "v-8d387cda",
+        "v-a2b9b14a"
       ]
     },
-    "not for broadcast": {
-      "key": "not for broadcast",
+    "Playstation": {
+      "key": "Playstation",
       "scope": "tag",
-      "path": "/tag/not for broadcast/",
+      "path": "/tag/Playstation/",
       "pageKeys": [
-        "v-2f85d017"
+        "v-8d387cda"
       ]
     },
-    "nfb": {
-      "key": "nfb",
+    "PC": {
+      "key": "PC",
       "scope": "tag",
-      "path": "/tag/nfb/",
+      "path": "/tag/PC/",
       "pageKeys": [
-        "v-2f85d017"
+        "v-8d387cda"
       ]
     },
-    "stream": {
-      "key": "stream",
+    "Xbox": {
+      "key": "Xbox",
       "scope": "tag",
-      "path": "/tag/stream/",
+      "path": "/tag/Xbox/",
       "pageKeys": [
-        "v-819084e6"
-      ]
-    },
-    "SecretOfHarrowManor2": {
-      "key": "SecretOfHarrowManor2",
-      "scope": "tag",
-      "path": "/tag/SecretOfHarrowManor2/",
-      "pageKeys": [
-        "v-fe373992"
+        "v-8d387cda"
       ]
     },
     "secret of harrow manor 2": {
@@ -202,7 +156,39 @@ export default {
       "scope": "tag",
       "path": "/tag/secret of harrow manor 2/",
       "pageKeys": [
-        "v-fe373992"
+        "v-0001ba7b"
+      ]
+    },
+    "not for broadcast": {
+      "key": "not for broadcast",
+      "scope": "tag",
+      "path": "/tag/not for broadcast/",
+      "pageKeys": [
+        "v-a2b9b14a"
+      ]
+    },
+    "nfb": {
+      "key": "nfb",
+      "scope": "tag",
+      "path": "/tag/nfb/",
+      "pageKeys": [
+        "v-a2b9b14a"
+      ]
+    },
+    "qdm": {
+      "key": "qdm",
+      "scope": "tag",
+      "path": "/tag/qdm/",
+      "pageKeys": [
+        "v-7164405e"
+      ]
+    },
+    "stream": {
+      "key": "stream",
+      "scope": "tag",
+      "path": "/tag/stream/",
+      "pageKeys": [
+        "v-7164405e"
       ]
     },
     "sonicforces": {
@@ -210,15 +196,15 @@ export default {
       "scope": "tag",
       "path": "/tag/sonicforces/",
       "pageKeys": [
-        "v-0c2b5b21"
+        "v-64ec3765"
       ]
     },
-    "spaceavengerempireofnexx": {
-      "key": "spaceavengerempireofnexx",
+    "space avenger empire of nexx": {
+      "key": "space avenger empire of nexx",
       "scope": "tag",
-      "path": "/tag/spaceavengerempireofnexx/",
+      "path": "/tag/space avenger empire of nexx/",
       "pageKeys": [
-        "v-732d7fd2"
+        "v-1b37c94a"
       ]
     },
     "syntherapy": {
@@ -226,7 +212,39 @@ export default {
       "scope": "tag",
       "path": "/tag/syntherapy/",
       "pageKeys": [
-        "v-3d1a8dd1"
+        "v-481c2c15"
+      ]
+    },
+    "Microsoft": {
+      "key": "Microsoft",
+      "scope": "tag",
+      "path": "/tag/Microsoft/",
+      "pageKeys": [
+        "v-7ceb0dbb"
+      ]
+    },
+    "Bethesda": {
+      "key": "Bethesda",
+      "scope": "tag",
+      "path": "/tag/Bethesda/",
+      "pageKeys": [
+        "v-7ceb0dbb"
+      ]
+    },
+    "Zeni Max": {
+      "key": "Zeni Max",
+      "scope": "tag",
+      "path": "/tag/Zeni Max/",
+      "pageKeys": [
+        "v-7ceb0dbb"
+      ]
+    },
+    "notícia": {
+      "key": "notícia",
+      "scope": "tag",
+      "path": "/tag/notícia/",
+      "pageKeys": [
+        "v-7ceb0dbb"
       ]
     }
   }

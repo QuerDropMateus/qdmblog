@@ -1,12 +1,10 @@
 ---
 title: Secret Of Harrow Manor 2
 date: 2021-01-20
-tags: 
-  - SecretOfHarrowManor2
+tags:
   - secret of harrow manor 2
   - review
   - indiegame
-  - qdm
 author: Medici | QDM
 featuredimg: 'https://i.imgur.com/Hmu6bn1.jpg'
 summary: Zumbis humanóides, zumbis cachorros demoníacos
