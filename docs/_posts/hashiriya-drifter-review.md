@@ -4,7 +4,7 @@ date: 2020-10-01
 tags: 
   - game
   - review
-  - hashiriyadrifter
+  - hashiriy adrifter
 author: Medici | QDM
 featuredimg: 'https://cdn.akamai.steamstatic.com/steam/apps/1336560/capsule_616x353.jpg'
 summary: Fast and Furious drif drif!

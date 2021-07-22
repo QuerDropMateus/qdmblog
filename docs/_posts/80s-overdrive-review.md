@@ -2,7 +2,7 @@
 title: 80's Overdrive Review 
 date: 2021-01-18
 tags:
-  - 80's overdrive
+  - 80s overdrive
   - review
   - indiegame
 author: Medici | QDM

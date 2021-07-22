@@ -1,8 +1,8 @@
 ---
-title: Análise In Rays of the Light (PS4) e a breviedade da humanidade
+title: In Rays of the Light (PS4) e a breviedade da humanidade
 date: 2021-07-22
 tags:
-  - In Rays of the Light
+  - in rays of the light
   - análise
   - review
   - Playstation

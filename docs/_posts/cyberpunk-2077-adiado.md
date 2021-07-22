@@ -2,8 +2,8 @@
 title: Cyberpunk 2077 ADIADO
 date: 2020-10-28
 tags: 
-  - Cyberpunk 2077
-  - cdprojektred
+  - cyberpunk 2077
+  - cd projektred
   - noticia
 author: Medici | QDM
 featuredimg: 'https://www.windowsclub.com.br/wp-content/uploads/2020/06/Cyberpunk-2077-1.jpg'

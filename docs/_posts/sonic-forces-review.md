@@ -1,10 +1,10 @@
 ---
-title: SONIC FORCES
+title: Sonic Forces
 date: 2020-10-08
 tags: 
   - game
   - review
-  - sonicforces
+  - sonic forces
 author: LCArms | QDM
 featuredimg: 'https://cdn.akamai.steamstatic.com/steam/apps/637100/header.jpg'
 summary: Alguém anote a placa, pois um ouriço vem em alta velocidade!!
